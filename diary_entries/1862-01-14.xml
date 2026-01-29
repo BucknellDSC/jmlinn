@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary22.jpg"/>
+            <dateline>Tuesday January 14.</dateline>
+            <p>It blowed fearfully and those outside the bar last night must have had a severely
+               rolling time last night. The little Picket, used by Burnside as his ship, is owned
+               by her Captain, named Ives, who is a wealthy man, and offered his services and
+               boat to the Government without pay and received a captain's commission. The
+               [Steamship at?] New York is fast on the bar. The surf is so bad that the tugs
+               can't get near it. And the captain won't allow a boat to go ashore. The Officers
+               Mess is out of provisions. We have no meat &amp; came down to the last scrapings
+               this morning. There is a little fellow, nominally a servant of Capt Blair, as
+               peculiar as Blair too, goes by the name of Bucktail. He is about 15 years old,
+               with small turned up features, wears a belt with a bayonet &amp; scabbard, large
+               blouse and large pants. He is from Tyrone Father &amp; Mother dead, all from
+               Tyrone - got into camp at Harrisburg, in the employ of some of the serjts - &amp;
+               one night about ten o'clock came up to Blairs tent, saying that they had turned
+               him out. He started with ten cents - [?] newspapers &amp;c - Blair [?] him five
+               dollars at Camp Union: because with his little capital he had to go to town so
+               often to replenish - He has paid that back - &amp; has now some ten or 15 dollars.
+               The other day he got [?] sea sick and some one told him to take a dose of salts.
+               He came in and wanted Blair to get him a dose, &amp; could hardly be persuaded to
+               the contrary. I think his name of Bucktail came from his having some kind of an
+               animals tail inned on to his hat. The wind has blown stormily all day. A little
+               gun boat dragged her anchor and has come against us twice. We have just heard this
+               evening that the Scout with other sailing vessels have come in. The steamship City
+               of New York is still aground - they cut away her mast, and her smokepipe came down
+               this afternoon. Of all desolate looking places this beach is the most desolate.
+               Those that hold her must have a very disagreeable time. We are getting down to the
+               originals in our officers mess. We have no soft bread. At noon we had pea soup and
+               hard bread, and the adjutant fished up a little bunch of butter out of his [have?]
+               sack and gave us a knife full. This evening we had hard bread, cooked rice and
+               tea.</p>
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary23.jpg"/>
+            <fw>Tuesday January 14. Hatteras Inlet</fw>
+            <p>I remember of hearing Mother often remark that rice was such a tasteless thing
+               when cooked without milk. This was evidently cooked with water. We had no butter.
+               The hard bread is good - the tea is good the rice seasoned with salt, and sugar to
+               make it gritty was good. I don't know what we are to have tomorrow. I see
+               Commisary Shorkley in anxious consultation with the Quartermaster. We have seen
+               the ships lying outside all day - but I hear that most of them have got in. We
+               conjecture that the first attack will be on Roanoke Island. The surf ran so high
+               that the Captain would not allow his boats to go ashore, so that we have not had
+               any communication with any one.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

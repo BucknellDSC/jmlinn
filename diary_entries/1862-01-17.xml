@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary24.jpg"/>
+            <dateline>Friday January 17. 1862.</dateline>
+            <p>We raised anchor to go beyond the swash or bulkhead - a sand-bar just beyond the
+               inlet before you get into the Sound - but in getting down, we ran foul of the
+               chain of the anchor of the Rocket - Then we did not move for fear it would take
+               off our rudder. Then Haskell, - a man who was once in the common council of New
+               York - no credit, says Capt Bennet, except that he got their enmity by being
+               honest - he rendered signal service to the fleet at Port Royal, and on
+               recommendation of Foster was appointed to have superintendence over the fleet -
+               came over in the Phoenix, a bloack eyed, black mustachioed man, quick as a rat -
+               he said everything appeared to be unlucky - None of the propellers but one could
+               pass the swash; except steam tugs were to come, &amp; not one here - can't lighten
+               the ships nothing to do it with &amp; the Phoenix was sinking. A little boat came
+               along - "Mail on board [?]" Boat lowered and [Col cot] scuds away returning very
+               soon, holding up a bundle of letters as he hoves in sight. There was none for me
+               however, or Beaver or Shorkly. Dr Gibson and Curtin got on board the Phoneix -
+               don't know how the mean to manage their escape from Hatteras. The Col &amp;
+               Chaplain &amp; party returned this morning. Wind and tide kept them. The Chaplain
+               staid at Ft Hatteras with Capt Morris. Col &amp; Dr went up to Camp Winfield,
+               where the 48th is. Col went the rounds with Maj. Nagle. Most important they got
+               butter ham beef tongue and other things of the [?], which arrived in time - We had
+               Skoush thats the way its pronounced, a sort of pork pot pie - only crackers
+               instead of dough, and [?] for dinner. The unusual luxury of butter made its
+               appearance- so we had ham and beef tongue for tea. The "Scout" arrived to day at
+               last. They were blown out into the gulf stream, carried down as far as Pt. Lookout
+               - hadn't seen the sun for three days - were short of water - limited to a pint a
+               day - though we had given them up - and by this time the battle had been fought.
+               Every thing appears to [we expatiously] unlucky. We had a bad loss in the wreck of
+               the "City of New York" - a schooner and gun boat sunk. To night it is raining like
+               blazes - I expect before morning the wind will get up again, and some other craft
+               get foul of us. The Louis [?] is evidently in a dangerous condition. While we were
+               foul of the Rocket, some other steamer got aground in the channel of the swash so
+               we are kept here. We were aground half the time to-day. Well I suppose that we
+               will get out tomorrow. I only hope that tomorrow will be a sun-shiny day so that
+               we can get the decks &amp; hold cleaned. I am getting very anxious about that. We
+               can't keep it clean somehow. I finished reading The Mill on the Floss. I'm getting
+               used to storms, and look on wrecks with indifference. This is an abominable place.
+               I never expect to have such comfortable quarters as I have now, but the hold and
+               decks are a constant source of anxiety to me. Body lice, and infection of worse
+               diseases may be well [?] But it was decided again that we wouldn't move tonight.
+               So the Captain got to work to get his boat of himself. We got every man we could
+               out - crowded them on the bow - then double quicked aft - then from side to side,
+               but budge she wouldn't.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

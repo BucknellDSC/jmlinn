@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary21.jpg"/>
+            <dateline>Sunday Jan 12.</dateline>
+            <p>We got awake this morning, with [rocking?] boat, dense fog - many with sick
+               stomachs. Some acknowledged it - others got quietly into their bunks and staid
+               there. Beaver went to his bunk and was sick all day. The Col was struck suddenly
+               after breakfast. Down in the hold and up on deck it was still worse. We stopped on
+               account of the density of the fog and laid by until afternoon. We saw the Picket
+               with Gen. Burnside on board. I felt a little reely after breakfast but an hour or
+               two on deck settled, and this evening I feel splendid. This afternoon it cleared
+               off, and I enjoyed the ride very much. We could see the low coast line to our
+               right about two miles, strewed with the wrecks of ships. Toward five o'clock we
+               came opposite Cape Hatteras, the wind blowing hard, and the sea very rough. There
+               were several attacks of sickness - Beaver being out most of the afternoon, retires
+               in intense disgust. We are now lying an and off Cape Hatteras waiting for a pilot.
+               I was on the Hurricane deck at sunset - it was delightfully exhilerating - rising
+               and falling with the waves - the spray breaking over the bow - the sunset was very
+               beautiful the orange and saffire - the ashes of roses - the long low sand beach of
+               Cape Hatteras, with its white shaft of Light House.</p>
+            <p>Blair was officer of the day today - and luxuriated in the full reign of a sound
+               stomach. The adjutant was sick as well as the sentinels at guard-mounting - &amp;
+               Blair goes up and cooly tells them that no one should get sick without a written
+               permit signed by the Colonel. The white sea birds followed in our wake a long
+               while this afternoon on their untiring wing. We saw the Cossack as also the
+               Steamship City of New York off Cape Hatteras. One of the Reporters told me that it
+               was that ship, but I rather suppose it is one of the blockading flee. Along what
+               is called Bald Beach, the wrecks of vessels are very numerous. One Schooner
+               apparently lately wrecked, and what we took to be a tent pitched back of it. The
+               ship is rolling heavily this evening, and it is said we will have to stay outside
+               all night. Mr. Mallory told me this morning that they had heard in the Fortress
+               yesterday afternoon the destination of the fleet - that the news came through
+               directly from Norfolk - that we were to go to Hatteras Inlet, and our object was
+               to blow up some locks of some canal, to prevent the egress of a Rebel expedition
+               fitting out at Norfolk. It is said that there is a canal between Norfolk and
+               Albemarle sound - I can't find anything on the maps I have with me, but I think
+               there is what is called the dismal swamp canal. The Col's orders were to enter
+               Hatteras Inlet and wait. It seems strange that we can keep the intelligence only
+               from our own sailors. I was told by the World reporter that the notice of a
+               traitor being found in the family of a distinguished military officer, was that of
+               Adjt. Gen. Thomas, and his daughter was the one implicated. This information must
+               have come through some such source. Thomas is a Virginian by birth and residence
+               and on the breaking out of the war sent his slaves to Kentucky. I was told also,
+               by the same man, that on Friday night, one of the officers detailed on the signal
+               corps, was arrested endeavouring to escape over to Sewalls point, in a small boat,
+               having with him all the signals to be used in the expedition. I see by [?] map the
+               dismal swamp canal marked.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

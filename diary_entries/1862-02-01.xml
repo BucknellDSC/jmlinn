@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary32.jpg"/>
+            <dateline>Saturday February 1 1862.</dateline>
+            <p>The name of that little scr. that came in was John Benjamin Washington. It is
+               between 20 &amp; 30 feet long, and 8 or ten wide. The names of those on it were
+               Trail Stubs, Peter Mc W. Davis, Thoms. Blay. Thomas Bulger, Lewis Longereau.
+               Except Davis were all Northerners. They belonged to the Beaufort County Plow boys
+               of the 7th Reg N.C. State Troops. Commanded by Maj. Hall, and were stationed at
+               Middleton in Hyde Co, 25 miles S.W. from here. They were at roll call the previous
+               evening, stole away along a creek got the schooner &amp; steered N.E. Bulger says
+               he belong to 3rd Artillery U.S.S. in service 10 years was sent as a spy by Maj
+               Anderson in April, but was caught in attempting to get back to Ft Sumpter sent to
+               Stone Inlet, after 2 months escaped to N.C. Where he was impressed - rations corn
+               bread &amp; pork - no tea or coffee - tea made from the[?] Tree whose leaves were
+               worth $9 per bushel - rec'd no pay - gov N.C. issued a proclamation &amp; men were
+               drafted, when he heard of the fleet that it was Maj. Hall made the reconaisance -
+               came back ordered up two more companies - had them about 800 men &amp; he could
+               whip 4000 yankees with them. Last night it rained and we had a very disagreeable
+               time on board. The ship had not been policed for several days, ever since the
+               companies from the Scout came on board. The rain drove them in from the decks,
+               &amp; they were lying thick all over the boat - in the dirt and filth - every
+               available foot was covered. Then to make things worse, the Surgeon, Capt Snyder,
+               and several other officers having been off the boat and came back drunk, about one
+               o'clock pulled the Reporter Bently out of bed, and they tramped all over the boat,
+               through our cabin and among the men in the gangways. Capt Snyder very tight in the
+               morning and the Surgeon evidently feeling stumpy &amp; [steaming?] it. The Scout
+               came along side about ten o'clock and the four companies put on her &amp; she
+               dropped astern. Shorkly came to me and told me that Santo who has been sick
+               several days had the small-pox, evidently, judgeing from symptoms, though the
+               surgeons said it was chicken pox. I felt dreadfully for a little while - no sense
+               of personal fear, as I do not feel afraid of it, but I felt sick at heart to think
+               that had broken out among us. Crowded as we were, and lying here unable to move
+               him it could not but spread rapidly. The thought of our regiment being prostrated
+               with it was horrible. I went to Dr Noble however, and he assured me that it was
+               chicken pox - and that the reason why it was so hard on him was he was thick and
+               dark skinned. We now dine at four o clock and have no supper. We relish our meals
+               much more, as with three meals a day we had no time to get hungry. [Alcott?] told
+               me that D'Epineuil raised his money by the sale of commissions - would kick up a
+               fuss with some captain or other officer, kick him out and re-sell the commission.
+               That Regiment has gone back to Fortress Monroe. The Lt Col Monteil is here some
+               place. He had been ordered to rejoin his Regiment, &amp; after it was order- ed
+               back he was directed to stay here. He is, I believe, an experienced artillery
+               officer. It cleared of beautifully this evening, but the barometer indicated a
+               blow, the Captain told me. </p>
+         </div>
+      </body>
+  </text>
+</TEI>

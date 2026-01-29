@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary23.jpg"/>
+            <dateline>Wednesday January 15.</dateline>
+            <p>It was foggy this morning. We could just see the "City of New York" laying out in
+               the [?] A boat came in to our ship with five men - they had swamped two boats
+               before they succeeded in getting off. The Captain lowered one of his boats, and
+               he, the Mate, the Col and &amp; Dr [Hossack?]started out. They arrived just in
+               time to see a little boat belonging to [?] Schooner take off the remaining crew.
+               Both boats came up to see us at the same time and Captain Bennet called to us to
+               cheer the little white boat, that had rescued the crew, which we did with a hearty
+               good will. The capt and mate went away again and shortly after, the Brig "Hope"
+               swung against us, pushed in our wheel house, and kept digging at us until it had
+               all the out side works on the [starberd?] side, at the stern crushed - opened out
+               our cabin knocking to pieces Capt Bell's berth. Mine just escaped. While this was
+               going on we saw Capt Bennet returning: I was standing at the side as the Captain
+               came up. Hi sboat shot past the place for getting on. He scolded his crew
+               remarking with a forcible ejaculation that he "wouldn't give a handful of cow-dung
+               for the whole of them" We got up steam, and the Brig was towed away, leaving our
+               stern pretty well smashed on one side. The City of New York" was loaded with 70
+               cases muskets and rifeles, ammunition, [hay?], shot and shell, and a great deal of
+               Officers baggage. She is lying on her side one side stoved in - the poor fellows
+               were on there for two days, and were clinging to her side when taken off. They had
+               no sleep for two days, and were 15 &amp; 1/2 feet, and why she should attempt to
+               cross with such a sea is owing to the government pilot. In calm sea she might have
+               made it as the channel is 17 feet. The sailors were pretty well whiskeyed when we
+               came on board. The Captain's name was Nye and the sailors spoke highly of him. The
+               Quarter master, Shorkley, Beaver, Jones and I got a boat, and with little
+               [Cubby?], a dark rich colored boy, with long dark locks, such luscious red lips
+               and black eyes, and another sailor boy, with a game eye, and big quid of tobacco
+               in his cheeck went over to the shore. We picked up some shells, saw Gen Williams
+               and staff, and went into Fort Hatteras, which is built of sods, having barrels
+               filled with sand for a foundation. There was a steam engine making fresh water,
+               and a ten inch gun outside. Three or four wrecked schooners, masts and remains of
+               many other wrecks on the shore. We had a gay time getting our boat off the beach -
+               as the surf rolled heavily. This morning as we were standing on deck, we saw a
+               boat run to shore, and they buried some poor sailor on the lonely beach. There
+               will be nothing to mark his grave - the waves will soon smooth down the little
+               hillock of sand - He'll always have storms and winds and dashing waves over him.
+               The ninth New York 48th Penna are on this beach. Company C. 1st [W.I.?] Artillery
+               have [?] Hatteras. Fort Clark is just above. Camp Bull is the N.Y. regiment &amp;
+               five miles above Camp [blank] of the 48th. We hear that the New Hampshire Regt is
+               to be landed &amp; the 9th N.Y. to go with us. Just as I was getting into the boat
+               I shook hands with Morris - the first I have seen him since we left Annapolis.</p>
+            <p>Capt. Neal as adj. gen. came on board this evening, and told us that Col. Allen of
+               the 9th New Jersey and the surgeon of that Regiment were drowned. Their ship lay
+               outside, and they came in on the yawl - and in returning were overset. Their
+               bodies were recovered, and taken on board of the Highlander, a brig passing by. I
+               saw their little boat dancing in the breakers, and afterwards saw the Highlander
+               towed in, but I did not dream of the tragedy. I did not even observe that their
+               bodies were lying on deck, as some of the rest did, and that they were rubbing
+               there, and that their coats [?] up were those of officers. Just as they were
+               taking the bodies below deck, one of our sailors said "pretty hard boys, but it
+               can't be helped, drag 'em down." On the sern of one of the vessels which came in,
+               a woman was sitting. One of our fellows in his ecstacy cried out, "that sight's
+               worth a quarter, who shall I pay itto" turning round and plunging his hands into
+               his pocket. The engineer of the City of New York, as he left the boat tore off the
+               brass [?] in the engine room, and tied the colors around his neck.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

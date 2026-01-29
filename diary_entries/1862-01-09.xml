@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary19.jpg"/>
+            <head>Thursday January 9 1862. Steamship Cossack.</head>
+            <p>I was wakened this morning about 6 o'clock by the cry of a "man overboard." That
+               cry is fearful enough at any time, but to be waked out of sleep, in the dark of
+               the morning and hear it, and the cries of the drowning man, and that gulping noise
+               he makes as he [be?] swept rapidly by the stern of the ship. However I was not
+               startled. I got up however and tried to look out the window of Shorkly's berth. He
+               was turned round and said there was no use of getting up, we must get used to
+               these things. I went out to the back window and saw a number of little boats
+               flying about. One husky voice - salty - I remember the first time I heard such a
+               voice - the night we came down from Perrysville to Annapolis last spring when we
+               were hailed by the Cumberland, and ordered to haul under his stern - I have
+               noticed it since in all sailors - this husky voice called out "Keep the lad up"
+               "Keep the lad up." Then again another just as husky cried out "I've got him"
+               "Heave him up" "Put your arm around me, lad." Then I knew he was safe. In the army
+               when they speak to a man, they say "My man" [on sea?] "My lad." The three rockets
+               went up about seven o'clock - then one gun fired - and the first brigade got under
+               way. Then two guns and our brigade started about a quart past eight. We have two
+               ships in two - 7 &amp; 8 - 8 is the Scout with the balance of our Regiment. Gen
+               Burnside in a small boat, eight or ten oarsmen, went shooting about from ship to
+               ship - cheered by all of us as he passed. He had a common cavalry hat &amp; [gum?]
+               coat. The bands saluted as he passed, we waved our hats, the men cheered. On each
+               ship as it started the band commenced playing Dixie. I have spent most of the
+               morning out looking at the fleet. How proudly they plough their way. Our vessel
+               seems the staunchest and fastest sailor. I recognized Lt. Col. Potter on one of
+               the ships (3) waved my hat to him, he turned to his men, did something in dumb
+               show - but we heard a cheer burst from them, and we cheered in return. We passed
+               the English [Imolite?] off the Light House. England is rousing a terrible feeling
+               in our hearts. There will be a great war some of these days. I can't keep it down
+               in myself. The officers spoke of it with an ill-concealed glare, that it was an
+               insult to have that lying there. The ill concealed exultation of the British and
+               their mentioning with such satisfaction that there are so many French war vessels
+               on our coast, is making up the [desired?] indiganation in the breast of those most
+               opposed to war, and least blood thirsty in feeling. [A?] five beels [at?] 2
+               o'clock afternoon passed Cove pt, Drum point and the mouth of the Pautuxet River.
+               This evening at the request of Bently reporter for the Philadelphia Enquirer, I
+               wrote out a list of our company with their residences, and took it up to his room.
+               He introduced me to McDonald the reporter for the Commercial Advertiser. Captain
+               Bennet, Captain of my Boat came in and told us to come out and see a beautiful
+               sight. He took us to the stern of the ship, [and?] see the wake of the ship. The
+               moon was not very bright, the waters like dark green glass - a wake as broad as
+               the ship, as straight as an arrow, extending as far back as the ships we had in
+               tow, boiling an foaming white - It was indeed beautiful. We went back to the
+               Reporter's room. Bennet gave us a succinct history of his life - 22 years at sea -
+               master of a ship at 18 years of age - Keeper of the Minot Ledge light house -
+               saved by being accidentally away when it washed into the sea - where he lost all
+               his charts, drawings - having been three times around the world - were peculiarly
+               valuable to him: joined his fate with Mayor Wood of New York - Capt of the 5th
+               ward police - went into the custom house - had his head cut off for his connection
+               with Mayor Wood - and with difficulty, and owing to his personal acquaintance with
+               Welles and Burnside and his position here. He was superintendent of the outfitting
+               of this fleet at New York. He has a little boy ten years old perhaps, that cried
+               to go along. Burnside happened to be by. The boy said he would carry cartridges
+               and do many other things - Burnside told him to take him along and he woudl allow
+               him [?] While we were standing on the Hurricane deck this evening the sky was
+               mottled white and long streaks dark along the western sky. Bently came over the
+               sailors Rhyme [A anackered sky and make waves high And mares tails, and covers the
+               ships sails.?]</p>
+         </div>
+      </body>
+  </text>
+</TEI>

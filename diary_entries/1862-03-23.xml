@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary49.jpg"/>
+            <dateline>Sunday March 24th 1862.</dateline>
+            <p><note>This is mis-dated. March 24th was a Monday in 1862. It appears that Linn miscalculated and that this should have been Sunday March 23rd.</note> This morning Tom Grier and Chas. Kline came down from New Berne in a boat. They
+               were with two officers who went down to visit the battle ground. But as they
+               didn't come back at 1/2 past twelve we took the boat and went to New Berne. It
+               is about a mile and a half or 2 miles by water. We landed by the Alice Price,
+               and went to a three strong ware-house, washed yellow, looked like Tom's house
+               at home. The rebels had used it for an ordinance room "No smoking" was painted
+               on the door "Yankee devils" inside They did not suppose that we would see it.
+               The room back used as an office was carpeted with cane, and nicely furnished -
+               had a grate. Upstairs above, they had fitted up a nice room - carpet,
+               bedsteads, mohair rocking chair, tables and chairs - fire place, with wood fire
+               quite a library - which they had gathered from various houses in town. Even
+               this gas fixture they had taken from some other house. This table had a fine
+               tea set &amp; everything a house keeper watned furnished from the same source.
+               I spent the afternoon &amp; evening with them and it was too luxurious. I
+               walked with Yerkes to the Cemetery. There is a wall and arched gateway around
+               it, built of a singular sort of [shelly?] conglomeration - would be very
+               handsome if finished. But it all bears the air of neglect. Founded many years
+               ago 1801 I think, by Christ Church transferred to the City of New Berne 1834 -
+               it had many old graves in it - We noticed that of the Gaston - Wm &amp;
+               Margaret. They had a singular way of putting a figure 1 before their figures,
+               so that one tombstone which told of us of a sea Capt. that died on his passage
+               from London to New Berne, in a certain lattitude and longi- tude, was aged 134
+               years. Another was 156. - We begn to think they had made voyages enough and it
+               were time he would cease going to down to the sea, when we discovered that it
+               must be either a _fashion_ they had or the oldest people lived here since the
+               days of the flood. We were pointed to a vault, which bore the marks of being
+               pried open, from which it was said Gen Burnside recovered $45.000. One iron
+               doored vault was open &amp; the coffins lay there exposed in a way that seemed
+               awful to me. 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary50.jpg"/>
+               <fw>Sunday March 24. Continued</fw> We returned to the Gaston House &amp; then
+               went back to Tom's quarters. Tom &amp; I started out to walk. Gen Burnsides
+               Headquarters were in an elegant marble house, with a large well kept yard in
+               front. The comical white guard tent pitched on the dark green grass, the two
+               wel dressed sentinels pacing up &amp; down, the roses blooming in the yard, all
+               made a striking picture. Near by was the lonly stacks of the chimnies of a
+               whole half square burned down. Near by the Neuse river are several houses, and
+               evidently stores burned. It looked odd to see a sign of "variety store"
+               flaunting before a scene of desolation - It was curious to notice the vagaries
+               that the fire caused in kegs of nails and other irons. The chimney stacks stood
+               up, &amp; one could not help picturing the bright cheerful parlors where those
+               fire places and grates were, adn beneath in the cellar lay the remains of the
+               fire screen. We went up to the Car house &amp; railroad depot. Cannon balls
+               &amp; shell lay all around &amp; in the Passenger Depot were cartrige boxes
+               [belts?], &amp; [accountants?] of all kinds, shell of a new kind with a new
+               kind with a brass [cork?], canister - a tin-case like a tomato can, filled with
+               54 canister balls. They had evidently just dropped everything and run. From the
+               letters we have picked up, they never dreamed of having to leave, &amp; yet the
+               Richmond papers say New Berne is of no account. It is to us if not to them,
+               though they must have esteemed it of some importance, from the amount of labour
+               they have bestowed upon its defence. I concluded to stay all night and passed
+               the evening cheerily by the bright fire place </p>
+         </div>
+      </body>
+  </text>
+</TEI>

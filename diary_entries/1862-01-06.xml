@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary16.jpg"/>
+            <dateline>Monday January 6 1862</dateline>
+            <p>Yesterday, Sunday, we knew that we were to break camps and embark. We were busy
+               making preparations: packing and fixing. About four o'clock the paymaster came. We
+               had the [mall?] signed, and towards seven o'clock were paid. We had orders to cook
+               three days provisions, but they did not draw provisions until late in the evening,
+               and the men were nearly all night cooking. It commenced to snow a little on
+               Saturday night, was cold and blustering during yesterday, sleeted during the
+               night. It was hard work. Besides the wood gone wet, and the men had to go to the
+               woods and get wood. Then we were busy bringing up packages for the men to send
+               money home. This morning dawned a wintry scene - snow about two inches. [Our]
+               beautiful camp was soon destroyed - It was wonderful what amount of truck gathered
+               [?] housekeeping for six weeks. The men gathered boxes and barrels and made
+               bonfires [?] I used was dispatched to town with the money packages amounting to
+               some fifteen hundred dollars. The little ground moles that burrowed about our tent
+               [?] had to [?] fare well - our shrubbery, [urch?] &amp; I went to the Bonfires.
+               About twelve o'clock the general [beat?], and we marched, leaving only marks of
+               where we had been. Lots of n____ around gathering the odd ends of crackers, old
+               shoes &amp; other things which necessity made us wasteful of. We marched through
+               town, and at the centre at the church, Companies C, A, K &amp; L separated,
+               carrying with them the old [Fourth?] colors, now attend to 51st and so command of
+               Lt Col Bell, markching to the city wharf to embark on the Scout. The rest of us
+               went down into the Navy Yard, and after little delay we embarked on the Cossack
+               steamer. This is a fine ocean steamer and the officers have the ladies cabin for
+               quarters. Most of my company are in the state rooms. But the poor fellows left
+               with the baggage have not come on board yet. The officers have no baggage and
+               nothing to eat. We managed to get a poor cup of tea. The scene in town was awful.
+               The shop keepers were set crazy and many in despair closed their stores.
+               Everything was bought out. The Bakers were fairly demented. The Express office
+               gave out and drove everybody away. All the troops here were paid off - everybody
+               was saying - the 21st Mass got drunk. Every fellow that could get liquor got &amp;
+               how was a mystery to us. Sunday was an awful day in town. Stores closed - troops
+               marching - everybody on the street. Tonight it is a beautiful scene on the water:
+               we got aground and had to be towed off - [We?] drifted down the stream - It is a
+               bleak wintry night - the waters dark - the river full of black hulled vessels,
+               with their signal lights aloft. The ships full of men, the bands playing - the
+               sound of the fiddle, the song and shout of the men. If we only had something to
+               eat. The reporters for the press, six of them, occupy a table and state rooms - a
+               table by themselves, with little slips of paper written [full?] - Then they had a
+               meal - coffee and ham fried, which was particularly tan- talizing to us. We ate a
+               full breakfast this morning, but a breakfast don't last all day. We have luxurious
+               quarters down here, but after all one's comfort should very materially on the
+               arrangements made for your stomach. My canteen full of water tastes delicious.
+               Dick filled it for me at the spring just before we started. Our Brigade now
+               consists of the 21st Mass 51st N.Y. 51st Penna 19th New Jersey 1240 strong 69th
+               New York. Tom Grier goes with Gen Reno on the Northerner. As Seth could not get
+               into the Express Office, Beaver gave my package of money to [steamer $340?] of my
+               own, $50 of [bandine?], $40 [Seth's?] &amp; $30, in all. We fortunately carried
+               our knapsacks with us, in which I have my portfolio, &amp; writing material,
+               cigars, and a blanket: so that we are comfortably better off [?] other officers.
+               We managed to get 30 loaves of bread - so that we are not starved - but it would
+               be a luxury to have our coffee hot, and that boiled ham that we have in the camp
+               chest together with a morsel of butter.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

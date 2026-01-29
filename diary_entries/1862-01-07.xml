@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary17.jpg"/>
+            <dateline>On board Steamship Cossack Tuesday January 7 1862</dateline>
+            <p>I slept splendidly last night and we turned out about seven o'clock. We began to
+               wonder where breakfast was to come from, when Lt Shorkley was appointed commissary
+               for the officers, and under his energetic supervision we had breakfast dinner and
+               supper. He and Beaver were out nearly all day laying in a stock of provisions. The
+               ship Cossack was formerly the Eastern [?] and is now painted black - it was
+               evidently painted white before. It is an ocean steamer I think used between
+               Portland Maine &amp; Boston or New York. It is about 300 feet long and sixty wide.
+               The lady's cabin, the officers quarters, is about 30 or more feet long - has
+               thirty berths, - Brussels carpet - dainty curtains - [secess?] - a washing place -
+               large mirrors &amp; otherwise like all those large steamboats. This was a bright
+               fine day, and this evening the moon is shining over the waters - the ships and
+               steamboats with their signal lights - the light house - the snow covered banks -
+               make a lovely scene - Add to this the bands in every ship are playing - Ours is
+               now playing Dixie - they played it first before the general was beaten - as we
+               left our camping ground yesterday. I amused myself up on deck with my glass - then
+               reading A message from the sea. The wind was pretty high this morning : it rocked
+               our boat very slightly. I felt the dizziness without exactly knowing exactly what
+               it was until I look out of the windows and saw the waves running pretty high. We
+               have everything embarked and ready except our horses. Another Regiment came down
+               from Washington, I think a Connecticut Regiment, so that all are now embarked. The
+               British ship [Imolita?], 37 Armstrong guns, is lying off the light house. Her
+               officers were in town - Capt Hancock - and they told their officers that they had
+               been sent to bring away Lord Lyons, had not the difficulty been settled. The
+               British ungenerous exaltation over what they call our back - out, will only serve
+               to increase that American feeling for a fight, which will burst out in violence
+               some of these days. We have now an immense army - soldiers training for fight, and
+               they will need employment. I received two letters by this mornings mail, one from
+               John and one from Laura. When I come to think of it, it seemed like yesterday that
+               I received it. This day has been long and short. John Morris was in and told us,
+               that Gen Reno, had been so heartily disgusted with the 21st Mass. for being
+               generally drunk, that he threatened to remove his staff from the Northerner to our
+               boat. Maj. Clark urged him to wait till this morning, when he said if it were no
+               better he would do so. Morris looks as gay riding around in the little boats as he
+               does on his bay. He is very popular and the men think if any thing can be done
+               Morris will do it. I was just coming down stairs to hunt berths for some men, when
+               I met the officers of the boat rushing up stairs. I went our to the side &amp; saw
+               the them lower the captain's gig in hot haste. I went out to the other side and
+               heard the most agonizing scream of drowning men "I'm drowning" "let go my legs"
+               &amp;c I waited until the officers returned. They reported they had rescued four
+               men, one clinging to the wheel and three on the surf boards. The side wheel
+               steamer run over a boat of the [?], [?] it is said with 23 men nineteen of whom
+               were saved. I was in harrowing suspense until I found out that it was not one of
+               our boats. [?] returned with three of our men just after it happened. Part of the
+               8th Connecticut are on board the [?]. It was bright moonlight - we could see the
+               men struggling in the water, and their screams were awful. I heard on firm manly
+               voice raise above the din of the confusion, "Keep cool its all right" and at once
+               it all seemed to subside. The side wheel boat has been considered the nuisance of
+               these waters running in to every one. It must have been gross carelessness to have
+               run into the boat on such a night as this.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

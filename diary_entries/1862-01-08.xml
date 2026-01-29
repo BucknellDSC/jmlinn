@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary18jpg.jpg"/>
+            <head>Wednesday January 8.</head>
+            <p>There is a square rigged brig lying out near us, which was captured on New Year's
+               day endeavouring to run the blockade off the mouth of James River. I just learned
+               the distinciton in ships. A schooner is a boat with 2 masts without yards. A
+               square rigged brig has two masts and yards. A hermaphrodite brig has two masts,
+               one with yards. A ship has three masts witih yards. A bark three masts, two with
+               yards. We learn this morning that the men in the boat last night, run over by the
+               wheel[?] steamer, were all saved &amp; doing well. They were of the 27th Mass.
+               Those supposed to be lost were on shore &amp; returned to the boat this morning.
+               First serj [very?] hurt, on recommendation of the surgeon, need a furlough for
+               sixty days, and has resigned his serjantry. This vessel is the former Eastern
+               duty, now named the Cossack. She is 237 feet long and 30 feet [beam?].</p>
+            <p>It is really a beauiful sight on deck. There are some forty ships and steamers.
+               The day is bright - the wind blowing brisk, waters sparkling in the sunlight. The
+               Scout is just now 3 o'clock P.M. towed up - containing the balance of our
+               Regiment. It is said we will start at four o'clock. The steamers have [this?]
+               steam up. The first brigade is distinguished by a red flag. The second by a blue
+               flag. The latter is ours with no 2 on it. The Scout is numbered [8?]. Everything
+               looks brisk and lively. We have been hourly in expectation of moving. As it was
+               growing dark, a boat came around our bow - I was walking on deck - Lt Morris voice
+               sung out - "Cossack" "Aye Aye" I yelled. "Col Hartranft on board" "Yes sir" "Call
+               himm out". And the message was that the Captain should keep a good look out for
+               three rockets - Then the first gun would be a signal for the first brigade to
+               move: Two guns for the second. We have drill in the [manual?] on deck during the
+               day. I received a letter from Annie and one from John. George rec'd his pistol and
+               shoes from Philadelphia. He told me that there was a long crowd around the Express
+               office, &amp; happening to catch the Agents eye, he gave him the Freemason sign,
+               and was waited on immediately. Otherwise he might have waited all the day. We
+               spent most of the afternoon on deck, looking at the gay scene. My marine glass is
+               a very useful [auxilliary?] in our pleasures, and we are as much pleased with it
+               as any children with their toys. One of the notable characters among our Officers
+               is Lt Blair. He is the man that things dress parade a humbug, and his own careless
+               unofficer appearance indicates his tastes - the size of his shirt collar is a
+               wonderful and straight out - pointed - like his black eyes - like his nose, like
+               his disposition - sharp, pointed, cutting. He is extreme in all his views -
+               expresses everything in a sharp way. He always turns up in any discussion; he
+               dislikes adjutant, and hammers him unmercifully. The Adjt is slow at repartee.
+               Blair has been Lt of the Guard today and his oddities and eccentricities have
+               appeared in a very prominent manner. He has demonstrated on Lloyds map that our
+               ship the Cossack is to land at [Apalachicola?] and go up and take possession of
+               the Railroad at [Talahasse?] - Lt Col Bell is to [stand?] at Cedar Keys - Florida
+               - [with?] the "Scout" and hold the road there - &amp; then the United States
+               holding [Formadina?] - then we had possession of Florida. Our steam is up &amp; we
+               will probably be off tonight.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

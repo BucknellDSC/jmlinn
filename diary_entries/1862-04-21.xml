@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary65.jpg"/>
+            <dateline>Monday 21st </dateline>
+            <p> we got out the ground outside the lighthouse above the Roanoke Island, &amp;
+               to day about 12 o'clock a tug &amp; the Massasoit came &amp; Took us off. One
+               of our boats brought Stitser, accompany E who had been wounded &amp; left, who
+               told us that about 30 of their wounded &amp; stragglers had left the
+               battlefield at 8 o'clock next morning &amp; came through – that McCormick had
+               come through with them, but had gone on to some other boat. Buskirk &amp; Lanig
+               were unable to move. As we have nothing to do but fight and march this thing
+               over and over again, the sound of being rough &amp; raining fiercely, we have
+               anchored at dark. I think that I will fill up the incidents of the time which I
+               have omitted. We landed in a corn field near Elizabeth City. Some one remarked
+               that was always our luck, but it was not always our luck to have as bright and
+               sunny a day as we have now. The man that lived here had a great number of
+               beehives. They were all robbed when we came back. The retreat could not but be
+               disorderly to some extent, &amp; stragglers had a fair opportunity to leave
+               &amp; plunder. At one place along the road a woman came out &amp; waved a US
+               flag, each company as it came up cheered her. Peter Koser our color corporal,
+               was sick, and Chas Merrill took his place. He stuck to the colors from our
+               landing until we came back to it. I often saw him stagger with fatigue but he
+               stuck to it - through thick and thin - mud &amp; mire - oh it was delightful to
+               me to see him - cool and collected, as if he were walking in the bar. While the
+               other boys were talking of how much they had fired, he quietly remarked to me
+               "Captain I considered it my duty not fire at all," I told him that was right.
+               He showed his courage &amp; coolness and not firing as the color guard never
+               fire - but must be always loaded as I felt the greatest itching to pick up a
+               rifle &amp; had therre not been the most stringent order against officers using
+               any arms, I'm afraid I would have run at it. Beaver told me he had the same
+               feeling, &amp; could hardly refrain from relieving some of the dead of their
+               cartridge box &amp; rifle. Lt Shorkley, who is acting adjutant displayed the
+               most consummate skill &amp; courage in conducting the regiment into their
+               place, and afterwards he took the 21 Mass into their position. Our men praise
+               Lt Beaver very much. He had the company in, &amp; I arrived just before the
+               firing commenced: just in time, I was most heartily glad of it, as I was in the
+               battle and in the charge &amp; only fainted when the enemy had fled.</p>
+            <p>I send this acct to you. You must keep it strictly confidential. Gen Reno has
+               sent the flag of truce requesting the rebels to release on parole our wounded,
+               as that was his way we did at New Berne, &amp; it will no doubt be done. I have
+               been doubting the propriety of the letter to Warden, I wish you wouldn't
+               publish it unless the account's published in the Tribune. I am afraid that it
+               is not right. He might publish the list of killed &amp; wounded &amp; leave the
+               rest until he sees whether other papers published. I don't wish to be
+               compromised. McCormick our wounded corporal got safe to camp.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

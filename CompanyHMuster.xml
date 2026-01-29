@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>>History of the Pennsylvania Volunteers, 1861-65</title>            
+            <author>Samuel P. Bates</author>            
+         </titleStmt>
+         <publicationStmt>
+            <publisher>B. Singerly</publisher>
+            <address>
+               <settlement>Harrisburg</settlement>
+               <region>Pennsylvania</region>
+            </address>
+            <date>1869</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>PA Roots</title>
+               <ref>https://www.pa-roots.com/pacw/infantry/51st/51stcoh.html</ref>
+            </bibl>
+            
+            
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>51st Regiment Pennsylvania Volunteers, Company H Muster Roll</head>
+         <table>
+<row>
+    <cell>Name</cell>
+    <cell>Rank</cell>
+    <cell>Date of Muster</cell>
+    <cell>Remarks</cell>
+ </row>
+<row>
+	<cell>J. Merrill Linn</cell>
+	<cell>Captain</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Resigned April 14, 1864</cell>
+ </row>
+<row>
+	<cell>George Shorkley</cell>
+	<cell>Captain</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Promoted from Adjutant to Captain, April 22, 1864; to Brevet Major, July 30, 1864; to Brevet Lt. Colonel, March 25, 1865; to Brevet Colonel, April 9, 1865; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Jacob G. Beaver</cell>
+	<cell> 1st Lt.</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Promoted from 2d to 1st Lieutenant, June 6, 1862; killed at Antietam, September 17, 1862</cell>
+ </row>
+<row>
+	<cell>Wm. F. Campbell</cell>
+	<cell> 1st Lt.</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Promoted from Sergeant to 2d Lt., June 6, 1862; to 1st Lt., September 18, 1862; wounded at Antietam, September 17, 1862; prisoner from May 12, 1864, to March 9, 1865; mustered out, April 28, 1865</cell>
+ </row>
+<row>
+	<cell>Hugh M'Clure</cell>
+	<cell> 1st Lt.</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Captured May 12, 1864; promoted from 1st Sergeant to 1st Lieut., May 15, 1865; mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell>Aaron Smith</cell>
+	<cell>2d Lt.</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Promoted from 1st Sergeant to 2d Lieutenant, October 23, 1862; discharged November 7, 1863</cell>
+</row>
+<row>
+	<cell>Jacob H. Santo</cell>
+	<cell>2d Lt.</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Wounded at Antietam, September 17,1862; promoted from 1st Sergeant to 2d Lt., April 15, 1864; to 1st Lieut. and Adjutant, January 15. 1865; Vet</cell>
+</row>
+<row>
+	<cell>David C. Brown</cell>
+	<cell>2d Lt.</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Wounded at Fredericksburg, December 13, 1862; captured May 12, 1864; promoted to 2d Lt., March 16, 1865; mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell> George Breon</cell>
+	<cell>1st Sergeant</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Wounded at Fredericksburg, December 13, 1862; captured May 12, 1864; promoted to 1st Sergeant, May 15, 1865; mustered out with Company, July 27, 1865; Vet</cell>
+ </row>
+<row>
+	<cell>Jacob Nyhart</cell>
+	<cell>1st Sergeant</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, September 22, 1862</cell>
+ </row>
+<row>
+	<cell>Matthew Vandine</cell>
+	<cell>1st Sergeant</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Promoted to 1st Sergeant, June 6,1862; killed at Antietam. September 17, 1862</cell>
+ </row>
+<row>
+	<cell>Harrison Hause</cell>
+	<cell>Sergeant</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Promoted to Sergeant, August 3, 1863; captured May 12, 1864; mustered out with Company, July 27, 1865; Vet</cell>
+ </row>
+<row>
+	<cell>George W. Brown</cell>
+	<cell>Sergeant</cell>
+	<cell> February 22, 1864</cell>
+	<cell>Promoted to Sergeant, May 21, 1865; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>John Aldendarfer</cell>
+	<cell>Sergeant</cell>
+	<cell>March 15, 1864</cell>
+	<cell>Promoted to Sergeant, May 21, 1865; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>James Kincaid</cell>
+	<cell>Sergeant</cell>
+	<cell> February 22, 1864</cell>
+	<cell>Promoted to Sergeant, June 26, 1865; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Daniel M. Wetzell</cell>
+	<cell>Sergeant</cell>
+	<cell> August 28, 1862</cell>
+	<cell> Wounded at Antietam, September 17, 1862; captured May 12, 1864; discharged by General Order, June 26, 1865</cell>
+ </row>
+<row>
+	<cell>Seth' J. Housel</cell>
+	<cell>Sergeant</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged to enlist in 8th Regiment U. S. Infantry, October 24, 1862</cell>
+ </row>
+<row>
+	<cell>William Allison</cell>
+	<cell>Sergeant</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Killed at Fredericksburg, December 13, 1862</cell>
+ </row>
+<row>
+	<cell>H. J. Lingerman</cell>
+	<cell> Corporal</cell>
+	<cell> November 28, 1861</cell>
+	<cell>Wounded August 19, 1864; promoted to Corporal, April 14, 1865; mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell>John Grambling</cell>
+	<cell> Corporal</cell>
+	<cell>March 15, 1864</cell>
+	<cell>Promoted to Corporal, January 1, 1865; mustered out with Company, July 25, 1865</cell>
+</row>
+<row>
+	<cell> George H. Knauf</cell>
+	<cell> Corporal</cell>
+	<cell>March 15, 1864</cell>
+	<cell>Promoted to Corporal, January 16, 1865; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Alfred Durst</cell>
+	<cell> Corporal</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Promoted to Corporal, June 1, 1865; mustered out with Company, July 27, 1865; Vet </cell>
+</row>
+<row>
+	<cell> Henry Fogleman</cell>
+	<cell> Corporal</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Promoted to Corporal, June 1, 1865; mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell>Michael Lepley</cell>
+	<cell> Corporal</cell>
+	<cell>February 26, 1864</cell>
+	<cell>Promoted to Corporal, June 16, 1865; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Andrew Knepp</cell>
+	<cell> Corporal</cell>
+	<cell>February 26, 1864</cell>
+	<cell>Promoted to Corporal, June 16, 1865; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Deitrick Beckman</cell>
+	<cell> Corporal</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Promoted to Corporal, June 26, 1865; mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell>R. A. M. Harner</cell>
+	<cell> Corporal</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>H. C. M'Cormick</cell>
+	<cell> Corporal</cell>
+	<cell>August 19, 1862   </cell>
+	<cell>Wounded at Antietam, September 17, 1862, and Wilderness, May 6, 1864; discharged by General Order, June 15, 1862</cell>
+</row>
+<row>
+	<cell> J. Backenhamer</cell>
+	<cell> Corporal</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Henry B. Wetzell</cell>
+	<cell> Corporal</cell>
+	<cell>August 19, 1862</cell>
+	<cell>Discharged by General Order, May 15, 1865</cell>
+ </row>
+<row>
+	<cell>Reuben Baker</cell>
+	<cell> Corporal</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, December 30, 1864; Vet</cell>
+ </row>
+<row>
+	<cell>Peter Koser</cell>
+	<cell> Corporal</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged October 24, 1862, to enlist in 8th Regiment U. S. Infantry </cell>
+</row>
+<row>
+	<cell>Nicholas Nicholas</cell>
+	<cell> Corporal</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, December 27, 1861</cell>
+</row>
+<row>
+	<cell>Robert Henry</cell>
+	<cell> Corporal</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Discharged October 24, 1862, to enlist in 8th Regiment U. S. Infantry </cell>
+</row>
+<row>
+	<cell>Henry J. Warner</cell>
+	<cell> Corporal</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Captured at Bull Run, August 30, 162; discharged on Surgeon's Certificate, December 5, 1862</cell>
+ </row>
+<row>
+	<cell>H. Co'y M'Cormick</cell>
+	<cell> Corporal</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Wounded at Camden, N. C., April 19, 1862, and Antietam, September 17, 1862; discharged by Special Order, February 12, 1864</cell>
+ </row>
+<row>
+	<cell>John Q. Adams</cell>
+	<cell> Corporal</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Transferred to Veteran Reserve Corps, November 6, 1863</cell>
+</row>
+<row>
+	<cell>Charles Merrill</cell>
+	<cell> Corporal</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Promoted to Corporal, April 1, 1862; transferred to Veteran Reserve Corps, November 6, 1862; died at Nashville, date unknown</cell>
+ </row>
+<row>
+	<cell>James L. Schooley</cell>
+	<cell> Corporal</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Discharged December 24, 1862, for wounds received at Antietam, September 17, 1862</cell>
+ </row>
+<row>
+	<cell>Jacob Moore</cell>
+	<cell>Musician</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell> Andrew Bernade</cell>
+	<cell>Musician</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell>Chas. P. M'Fadden</cell>
+	<cell>Musician</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Allshouse, Peter</cell>
+	<cell>Private</cell>
+	<cell> January 10, 1865</cell>
+	<cell>Drafted; absent at muster out, by sentence General Court Martial</cell>
+</row>
+<row>
+	<cell>Armpriester, Wm.</cell>
+	<cell>Private</cell>
+	<cell>March 20, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Angstadt, Jonas</cell>
+	<cell>Private</cell>
+	<cell>March 17, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Ayers, James</cell>
+	<cell>Private</cell>
+	<cell> November 16'61</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Auchenbaugh, Wm.</cell>
+	<cell>Private</cell>
+	<cell> August 25, 1862</cell>
+	<cell>Discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Angstadt, Mabury</cell>
+	<cell>Private</cell>
+	<cell> February 23, 1865</cell>
+	<cell>Drafted; discharged by General Order, June 28. 1865</cell>
+ </row>
+<row>
+	<cell>Baldwin, Eleazer</cell>
+	<cell>Private</cell>
+	<cell>October 11, 1864</cell>
+	<cell>Substitute; mustered out with Company, July 27, 1865</cell>
+</row>
+<row>
+	<cell> Blunt, James</cell>
+	<cell>Private</cell>
+	<cell>October 15, 1864</cell>
+	<cell>Substitute; mustered out with Company, July 27, 1865</cell>
+</row>
+<row>
+	<cell> Beehn, Henry</cell>
+	<cell>Private</cell>
+	<cell> October 7, 1864</cell>
+	<cell>Substitute; mustered out with Company, July 27, 1865</cell>
+</row>
+<row>
+	<cell> Bomgardner, Dan'l </cell>
+	<cell>Private</cell>
+	<cell>September 20, 1864</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Brownfield, John</cell>
+	<cell>Private</cell>
+	<cell>February 15, 1865</cell>
+	<cell>Drafted; absent at mustered out by sentence General Court Martial</cell>
+</row>
+<row>
+	<cell> Boyer, William</cell>
+	<cell>Private</cell>
+	<cell>March 17, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Boyer, John</cell>
+	<cell>Private</cell>
+	<cell>March 20, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Bordwell, Dawn1 C.</cell>
+	<cell>Private</cell>
+	<cell>August 19, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Bobst, David</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell> Benner, Lewis J</cell>
+	<cell>Private</cell>
+	<cell>September 9, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Bower, Harrison </cell>
+	<cell>Private</cell>
+	<cell> August 25, 1862</cell>
+	<cell> Wounded at Wilderness, May 6, 1864; discharged February 1, 1865</cell>
+ </row>
+<row>
+	<cell>Boone, Daniel </cell>
+	<cell>Private</cell>
+	<cell>August 25, 1862</cell>
+	<cell>Discharged by General Order, June, 1865</cell>
+</row>
+<row>
+	<cell> Berkeylile, David</cell>
+	<cell>Private</cell>
+	<cell>September 20, 1864</cell>
+	<cell>Drafted; discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Bennett, Miles </cell>
+	<cell>Private</cell>
+	<cell> September 28, 1864</cell>
+	<cell>Draftedl; discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>	Brensinger, Levi</cell>
+	<cell>Private </cell>
+	<cell>November 28, 1861</cell>
+	<cell>Cantured at Fredericksburg, December 13, 1862; killed at Cold Harbor, June 3, 1864</cell>
+ </row>
+<row>
+	<cell>Beaver, Henry</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, March 18, 1863</cell>
+</row>
+
+<row>
+	<cell>Beck, Isaac</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Killed at Antietam, September 17, 1862</cell>
+ </row>
+<row>
+	<cell>Bear, Edward</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Killed at Antietam, September 17, 1862</cell>
+ </row>
+<row>
+	<cell>Beightol, Thomas</cell>
+	<cell>Private</cell>
+	<cell>October 17, 1861</cell>
+	<cell>Transferred to Company G, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Britton, Simon </cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Transferred to Regimental Band, date unknown</cell>
+ </row>
+<row>
+	<cell>Brown, Asa </cell>
+	<cell>Private</cell>
+	<cell>August 19, 1862</cell>
+	<cell>Died at Frederick city, Md., October 28, 1862</cell>
+ </row>
+<row>
+	<cell>Buskirk, Jacob</cell>
+	<cell>Private</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Discharged January 8, 1863, for wounds received at Camden, N. C., April 19, 1862</cell>
+ </row>
+<row>
+	<cell>Bastian, Peter </cell>
+	<cell>Private</cell>
+	<cell> September 1, 1862</cell>
+	<cell>Transferred to Veteran Reserve Corps, November 6, 1863</cell>
+</row>
+<row>
+	<cell>Bastian, Abraham</cell>
+	<cell>Private</cell>
+	<cell>September 1, 1862</cell>
+	<cell>Discharged on Surgeon's Certificate, February 11, 1863</cell>
+</row>
+<row>
+	<cell>Carey, George W.</cell>
+	<cell>Private</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell>Cusseck, Northeil </cell>
+	<cell>Private</cell>
+	<cell>October 7, 64</cell>
+	<cell>Substitute; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Clouser, Charles </cell>
+	<cell>Private</cell>
+	<cell> March 26, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Clark, David</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Transferred fron 2d Regt. Maryland Vols., June 30, 1862; captured November 23, 1863; mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Corl, John</cell>
+	<cell>Private</cell>
+	<cell>August 19, 1862</cell>
+	<cell>Discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Chrisher, Wm. F.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Christie, James</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged October 24, 1862, to enlist in 8th Regiment U. S. Infantry</cell>
+</row>
+<row>
+	<cell> Cox. George</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Transferred to Company G, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Calhoun, Wm. F.</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Transferred to Company G, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Crossmire, John J.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Transferred to Company G, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Clark, Joseph A.</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Transferred to Company G, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Doyle, Mathew </cell>
+	<cell>Private</cell>
+	<cell> January 26, 1865</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Doyle, James</cell>
+	<cell>Private</cell>
+	<cell>  March 23, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Dysher. Mathias </cell>
+	<cell>Private</cell>
+	<cell> March 23, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Dumheller, Abner</cell>
+	<cell>Private</cell>
+	<cell>March 21, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Dilloplains, Mahl'n.</cell>
+	<cell>Private</cell>
+	<cell>March 21, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Dawson, John L.</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Dye, Richard</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, February 8, 1863</cell>
+</row>
+<row>
+	<cell>Dopp, John P.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, February 28, 1863</cell>
+</row>
+<row>
+	<cell>De Haven, Reuben </cell>
+	<cell>Private</cell>
+	<cell>September 13, 1861</cell>
+	<cell>Transferred to Company C, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Dibelgorn, John J.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1863</cell>
+	<cell> Discharged October 24, 1862, to enlist in 4th Regiment U. S. Cavalry</cell>
+</row>
+<row>
+	<cell> Doughty, Wm. H.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Killed at Knoxville, Tenn., November 29, 1863</cell>
+</row>
+<row>
+	<cell>Dougherty, John</cell>
+	<cell>Private</cell>
+	<cell> August 25, 1862</cell>
+	<cell>Wounded at Fredericksburg, December 13, 1862; transferred to Veteran Reserve Corps, November 6, 1863</cell>
+</row>
+<row>
+	<cell>Dougherty, James</cell>
+	<cell>Private</cell>
+	<cell> November 28, 1861</cell>
+	<cell>Discharged October 24, 1862, to enlist in 4th Regiment United States Cavalry</cell>
+</row>
+<row>
+	<cell> Doughty, Calvin</cell>
+	<cell>Private</cell>
+	<cell>August 28, 1862</cell>
+	<cell>Deserted September 17, 1862</cell>
+ </row>
+<row>
+	<cell>Eberly, Andrew F.</cell>
+	<cell>Private</cell>
+	<cell>October 12, 1864</cell>
+	<cell>Substitute; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Erwin, Frederick</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Erdley, John W.</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Wounded at Antietam, September 17, 1862; killed at North Anna, May 27, 1864; Vet</cell>
+</row>
+<row>
+	<cell>Everett, William</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, December 3, 1862</cell>
+ </row>
+<row>
+	<cell>Eglof, Samuel</cell>
+	<cell>Private</cell>
+	<cell>September 13, 1861</cell>
+	<cell>Transferred to Company C, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Espenship David</cell>
+	<cell>Private</cell>
+	<cell> September 13, 1861</cell>
+	<cell>Transferred to Company C, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Fies, Henry</cell>
+	<cell>Private</cell>
+	<cell> March 20, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Fike, John</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell>Forte, George W.</cell>
+	<cell>Private</cell>
+	<cell> September 9, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Feuring, George</cell>
+	<cell>Private</cell>
+	<cell>September 22, 1864</cell>
+	<cell> Drafted; discharged by General Order, June 25, 1865</cell>
+ </row>
+<row>
+	<cell>Frederick, Ebene'r </cell>
+	<cell>Private</cell>
+	<cell> August 25, 1862</cell>
+	<cell>Transferred to Veteran Reserve Corps, November 19, 1864</cell>
+ </row>
+<row>
+	<cell>Farley, Samuel</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Died at Knoxville, Tenn., December 19, 1863</cell>
+</row>
+<row>
+	<cell> Fox, Wm. H. R.</cell>
+	<cell>Private</cell>
+	<cell> September 13, 1861</cell>
+	<cell>Transferred to Company C, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Frynte, George H.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged October 24, 1862, to enlist in 8th Regiment U. S. Infantry </cell>
+</row>
+<row>
+	<cell>Grambling, Jacob </cell>
+	<cell>Private</cell>
+	<cell>March 26, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Getty, David H.</cell>
+	<cell>Private</cell>
+	<cell> February 12, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Gardner, William</cell>
+	<cell>Private</cell>
+	<cell>January 26, 1865</cell>
+	<cell> Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Gallagher, Wm.</cell>
+	<cell>Private</cell>
+	<cell> March 11, 1865</cell>
+	<cell> Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Grier, Thomas G.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Mustered out, September 23, 1864; died at Morehead city, North Carolina, October 6, 1864</cell>
+ </row>
+<row>
+	<cell>Goss, Simon.</cell>
+	<cell>Private</cell>
+	<cell> February 26, 1864</cell>
+	<cell> Captured May 12, 1864; died at Florence, S. C. </cell>
+</row>
+<row>
+	<cell>Henry, Adam </cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell>Hefner, Jonathan </cell>
+	<cell>Private</cell>
+	<cell>February 27, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Ioffman, Thomas</cell>
+	<cell>Private</cell>
+	<cell>August 10, 1864</cell>
+	<cell> Substitute; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Heffilfinger, Geo.</cell>
+	<cell>Private</cell>
+	<cell>September 24, 1864</cell>
+	<cell>Drafted; absent at muster out, by sentence of General Court Martial </cell>
+</row>
+<row>
+	<cell>Hertzog, Emanuel</cell>
+	<cell>Private</cell>
+	<cell>March 23, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Hartline, Daniel</cell>
+	<cell>Private</cell>
+	<cell>March 21, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Hartline, David</cell>
+	<cell>Private</cell>
+	<cell>  March 21, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Haas, William</cell>
+	<cell>Private</cell>
+	<cell> March 20, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Harris, Joseph</cell>
+	<cell>Private</cell>
+	<cell>February 1, 1865</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Humphrey, John</cell>
+	<cell>Private</cell>
+	<cell>March 24, 1865</cell>
+	<cell>Substitute; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Hulslander, Geo. F.</cell>
+	<cell>Private</cell>
+	<cell> February 8, 1865</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Holland, Thomas </cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell> Hartz, John</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Captured May 12, 1864; died at Andersonville, Ga., June 19, 1864; grave, 2,189; Vet</cell>
+</row>
+<row>
+	<cell>Harding, Jewett S.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Wounded and prisoner at Bull Run, August 30, 1862; discharged on Surgeon's Certificate, November 13, 1862</cell>
+ </row>
+<row>
+	<cell>Hitesman, Isaiah</cell>
+	<cell>Private</cell>
+	<cell>October 25, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Hain, Henry</cell>
+	<cell>Private</cell>
+	<cell>September 1, 1862</cell>
+	<cell> Transferred to Veteran Reserve Corps, November 6, 1863</cell>
+</row>
+<row>
+	<cell>Hain, John</cell>
+	<cell>Private</cell>
+	<cell> August 28, 1862</cell>
+	<cell>Transferred to Veteran Reserve Corps, September 6, 1863</cell>
+</row>
+<row>
+	<cell>Ingerson, Hilnan</cell>
+	<cell>Private</cell>
+	<cell>September 27, 1864</cell>
+	<cell>Drafted; discharged by General Order, July 6, 1865</cell>
+ </row>
+<row>
+	<cell>Isbie], August</cell>
+	<cell>Private</cell>
+	<cell>March 20, 1865</cell>
+	<cell>Substitute; deserted June, 1865</cell>
+ </row>
+<row>
+	<cell>Jones, Thomas</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Transferred to Company G, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Kritz, Daniel</cell>
+	<cell>Private</cell>
+	<cell> March 16, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Kelley, James T.</cell>
+	<cell>Private</cell>
+	<cell>September 9, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Knepp, Simon </cell>
+	<cell>Private</cell>
+	<cell> September 27, 1864</cell>
+	<cell>Drafted; discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Krep, Simon</cell>
+	<cell>Private</cell>
+	<cell> September 27, 64</cell>
+	<cell>Drafted; discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Kyszeroski, Joseph</cell>
+	<cell>Private</cell>
+	<cell>October 6, 1864</cell>
+	<cell>Substitute; died at Alexandria, Va., June 7, 1865</cell>
+ </row>
+<row>
+	<cell>Kelley, James A.</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Died at Roanoke Island, N. C., March 27, 1862</cell>
+ </row>
+<row>
+	<cell>Keiffer, Henry J.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, February 16, 1863</cell>
+</row>
+<row>
+	<cell>Knode, Albion G.</cell>
+	<cell>Private</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, September 27, 1862</cell>
+ </row>
+<row>
+	<cell>Leimbach, J. Cal'n. </cell>
+	<cell>Private</cell>
+	<cell> February 24, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Lott, John W.</cell>
+	<cell>Private</cell>
+	<cell> January 18, 1865</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Leamon, John E.</cell>
+	<cell>Private</cell>
+	<cell>August 25, 1862</cell>
+	<cell>Wounded at South Mountain, September 14, 1862, and Wilderness, May 6, 1864; discharged December 24, 1864</cell>
+ </row>
+<row>
+	<cell>Lyon, Conrad</cell>
+	<cell>Private</cell>
+	<cell> September 23, 1864</cell>
+	<cell>Drafted; discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Lattimer, William J.</cell>
+	<cell>Private</cell>
+	<cell> September 1, 1862</cell>
+	<cell>Captured; died at Florence, S. C., October 14, 1864</cell>
+ </row>
+<row>
+	<cell>Lenig, Jaco.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Died May 3, 1862, of wounds received at Camden, North Carolina, April 19, 1862</cell>
+ </row>
+<row>
+	<cell>Lepley, William</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Wounded at Cold Harbor, June 1, 1864; discharged on Surgeon's Certificate, May 24, 1865</cell>
+ </row>
+<row>
+	<cell>Lynch, Thomas J.</cell>
+	<cell>Private</cell>
+	<cell>October 2, 1861</cell>
+	<cell>Promoted to 2d Lt. Company C, date unknown</cell>
+ </row>
+<row>
+	<cell>Murphy, Joseph</cell>
+	<cell>Private</cell>
+	<cell>March 10, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Moyer, Daniel</cell>
+	<cell>Private</cell>
+	<cell> March 23, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Mocherman, John H.</cell>
+	<cell>Private</cell>
+	<cell> March 30, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Moll, Joseph A.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Marr, Thomas P.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, March 4, 1865; Vet</cell>
+</row>
+<row>
+	<cell>Miller, William A.</cell>
+	<cell>Private</cell>
+	<cell>August 25, 1862</cell>
+	<cell>Capt'd May 12, 1864; discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Moore, John</cell>
+	<cell>Private</cell>
+	<cell> August 25, 1862</cell>
+	<cell>Discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Miller, Henry</cell>
+	<cell>Private</cell>
+	<cell>September 20, 1864</cell>
+	<cell>Drafted; discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Myers, William H.</cell>
+	<cell>Private</cell>
+	<cell>September 20, 1864</cell>
+	<cell>Drafted; discharged by General Order, June 15, 1865</cell>
+ </row>
+<row>
+	<cell>Moyer, Daniel B.</cell>
+	<cell>Private</cell>
+	<cell>February 26, 1864</cell>
+	<cell>Transferred to Veteran Reserve Corps, date unknown</cell>
+ </row>
+<row>
+	<cell>Miller, John</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Discharged October 24, 1862, to enlist in 4th U. S. Cavalry </cell>
+</row>
+<row>
+	<cell>Miller, Daniel S.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Wounded at South Mountain, September 14, 1862; mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Murphy, John</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, September 22, 1862</cell>
+ </row>
+<row>
+	<cell>Miller, Jeremiah </cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Died at Annapolis, Md., December 2, 1861</cell>
+ </row>
+<row>
+	<cell>Murphy, James</cell>
+	<cell>Private</cell>
+	<cell>September 13, 1861</cell>
+	<cell>Transferred to Company C, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Meisse, George</cell>
+	<cell>Private</cell>
+	<cell>October 17, 1861</cell>
+	<cell>Transferred to Company G, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Miller, Samuel S.</cell>
+	<cell>Private</cell>
+	<cell>August 25, 1862</cell>
+	<cell>Transferred to Veteran Reserve Corps, November 6, 1863</cell>
+</row>
+<row>
+	<cell>Marks, Levi</cell>
+	<cell>Private</cell>
+	<cell> August 19, 1862</cell>
+	<cell>Killed at Antietamn, September 17, 1862</cell>
+ </row>
+<row>
+	<cell>M'Murtrie, Isaac </cell>
+	<cell>Private</cell>
+	<cell>March 24, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>M'Ewen, Samuel S.</cell>
+	<cell>Private</cell>
+	<cell> October 20, 1861</cell>
+	<cell>Discharged by Special Order, April 18, 1864</cell>
+ </row>
+<row>
+	<cell>Neiman, John A.</cell>
+	<cell>Private</cell>
+	<cell>February 22, 1864</cell>
+	<cell>Died August 5, 1864, of wounds received in action, June 17, 1864</cell>
+ </row>
+<row>
+	<cell>Oaks, William L.</cell>
+	<cell>Private</cell>
+	<cell>August 26, 1862</cell>
+	<cell> Discharged on Surgeon's Certificate, June 12, 1863</cell>
+</row>
+<row>
+	<cell>Purcell, George</cell>
+	<cell>Private</cell>
+	<cell>February 12, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Phillips, A. F. C.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Passell, Robert W.</cell>
+	<cell>Private</cell>
+	<cell> August 25, 1862</cell>
+	<cell>Wounded at South Mountain, September 14, 1862; discharged by General Order, June 1, 1865</cell>
+ </row>
+<row>
+	<cell>Pareby, Joseph</cell>
+	<cell>Private</cell>
+	<cell>September 24, 1864</cell>
+	<cell>Drafted; killed at Petersburg, Va., April 2, 1865</cell>
+ </row>
+<row>
+	<cell>Pearson, James C.</cell>
+	<cell>Private</cell>
+	<cell>December 23, 1864</cell>
+	<cell> Substitute; deserted June, 1865</cell>
+ </row>
+<row>
+	<cell>Phliger, Jacob</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Mustered out with Company, July 27, 1865; Vet</cell>
+</row>
+<row>
+	<cell>Rhoades, Jacob</cell>
+	<cell>Private</cell>
+	<cell>March 23, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Rexford, Henry E.</cell>
+	<cell>Private</cell>
+	<cell>February 8, 1865</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Ream, Jacob</cell>
+	<cell>Private</cell>
+	<cell> September 20, 1864</cell>
+	<cell>Drafted; discharged by General Order, June 1, 1865</cell>
+ </row>
+<row>
+	<cell>Ritter, John F.</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Discharged to enlist in 4th U. S. Cavalry, October 24, 1862</cell>
+ </row>
+<row>
+	<cell>Snyder, Nathaniel </cell>
+	<cell>Private</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Killed at South Mountain, September 14, 1862</cell>
+ </row>
+<row>
+	<cell>Smith, Peter</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Captured August 21, 1864; absent at muster out; Vet</cell>
+</row>
+<row>
+	<cell>Smith, David</cell>
+	<cell>Private</cell>
+	<cell> February 22, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Slottman, Daniel</cell>
+	<cell>Private</cell>
+	<cell>February 16, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Swab, William</cell>
+	<cell>Private</cell>
+	<cell> February 18, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Snyder, Samuel</cell>
+	<cell>Private</cell>
+	<cell>March 9, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Shreck, John V.</cell>
+	<cell>Private</cell>
+	<cell>July 18, 1864</cell>
+	<cell> Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Swarerly, Adam</cell>
+	<cell>Private</cell>
+	<cell>March 21, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Serwatyues, Joseph</cell>
+	<cell>Private</cell>
+	<cell>March 16, 1865</cell>
+	<cell>Substitute; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Shappee, Devier </cell>
+	<cell>Private</cell>
+	<cell>October 11, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Shaffer, Levi J.</cell>
+	<cell>Private</cell>
+	<cell>February 6, 1865</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>	Search, Thomas F.</cell>
+	<cell> Private</cell>
+	<cell> September 9, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Shotley, William</cell>
+	<cell>Private</cell>
+	<cell>September 23, 1861</cell>
+	<cell>Mustered out, November 15, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Smith, John D.</cell>
+	<cell>Private</cell>
+	<cell> September 26, 1864</cell>
+	<cell> Drafted; discharged by General Order, June 1, 1865</cell>
+ </row>
+<row>
+	<cell>Smith, John H.</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, June 14, 1865; Vet</cell>
+</row>
+<row>
+	<cell>Scales, Edwin N. B.</cell>
+	<cell>Private</cell>
+	<cell> November 28, 1861</cell>
+	<cell>Mustered out, November 25, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Souders, Ephraim </cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Transferred to Company K, November 10, 1864</cell>
+ </row>
+<row>
+	<cell>Shriner, William H.</cell>
+	<cell>Private</cell>
+	<cell> February 16, 1864</cell>
+	<cell>Killed at Petersburg, July 1, 1864</cell>
+ </row>
+<row>
+	<cell>Smith, Jacob</cell>
+	<cell>Private</cell>
+	<cell> March 16, 1864</cell>
+	<cell> Captured May 12, 1864; died at Andersonville, Georgia, July 5, 1864; grave, 2,941</cell>
+</row>
+<row>
+	<cell> Smith, Isaiah</cell>
+	<cell>Private</cell>
+	<cell> February 22, 1864</cell>
+	<cell> Captured May 12, 1864; died at Andersonville, Georgia, 1864</cell>
+ </row>
+<row>
+	<cell>Smith, Frederick.</cell>
+	<cell>Private</cell>
+	<cell>November 28, 1861</cell>
+	<cell> Killed at Wilderness, May 6, 1864; Vet</cell>
+</row>
+<row>
+	<cell>Shuler, Harrison</cell>
+	<cell>Private</cell>
+	<cell>February 22, 1864 </cell>
+	<cell>Deserted February, 1864</cell>
+ </row>
+<row>
+	<cell>Stewart, Charles R.</cell>
+	<cell>Private</cell>
+	<cell>November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, October 27, 1863</cell>
+</row>
+<row>
+	<cell>Sullivan. Patrick </cell>
+	<cell>Private</cell>
+	<cell>September 13, 1861</cell>
+	<cell>Transferred to Company C, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Steltz, William</cell>
+	<cell>Private</cell>
+	<cell>September 13, 1861</cell>
+	<cell>Transferred to Company C, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Smith, John F.</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Discharged on Surgeon's Certificate, November 28, 1862</cell>
+ </row>
+<row>
+	<cell>Snyder, Nathaniel</cell>
+	<cell>Private</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Killed at South Mountain, September 14, 1862</cell>
+ </row>
+<row>
+	<cell>Turner, James</cell>
+	<cell>Private</cell>
+	<cell> September 28, 1864</cell>
+	<cell> Drafted; discharged by General Order, June 1, 1865</cell>
+ </row>
+<row>
+	<cell>Taylor, Samuel</cell>
+	<cell>Private</cell>
+	<cell> February 22, 1864</cell>
+	<cell>Died at White House Landing, Va., June 15, 1864</cell>
+ </row>
+<row>
+	<cell>Titus, Lewis G.</cell>
+	<cell>Private</cell>
+	<cell> September 9'61</cell>
+	<cell>Transferred to Company E, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Temple, Chas. W. A.</cell>
+	<cell>Private</cell>
+	<cell> August 25, 1862</cell>
+	<cell>Deserted June 17, 1863</cell>
+</row>
+<row>
+	<cell>Umstead, John C.</cell>
+	<cell>Private</cell>
+	<cell>September 13, 1861</cell>
+	<cell>Transferred to Company C, November 28, 1861</cell>
+ </row>
+<row>
+	<cell>Uhl, Christian </cell>
+	<cell>Private</cell>
+	<cell> September 22, 1864</cell>
+	<cell>Drafted; discharged on Surgeon's Certificate, January 15, 1865</cell>
+ </row>
+<row>
+	<cell>Updegraph, Lewis</cell>
+	<cell>Private</cell>
+	<cell>February 26, 1864</cell>
+	<cell>Absent, sick at uster out</cell>
+ </row>
+<row>
+	<cell>Vangeeser, George</cell>
+	<cell>Private</cell>
+	<cell>February 10, 1864</cell>
+	<cell> Wounded May 6, 1864; discharged by General Order, June 29, 1865</cell>
+ </row>
+<row>
+	<cell>Williamson, James</cell>
+	<cell>Private</cell>
+	<cell>March 15, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Wellings, Wm. J.</cell>
+	<cell>Private</cell>
+	<cell>January 25, 1865</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Wentzell, Jacob</cell>
+	<cell>Private</cell>
+	<cell>March 10, 1865</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Weaver, Thomas</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Mustered out, November 16, 1864, expiration of term</cell>
+ </row>
+<row>
+	<cell>Wiery, William</cell>
+	<cell>Private</cell>
+	<cell>July 27, 1863 </cell>
+	<cell> Discharged by sentence of General Court Martial, date unknown</cell>
+ </row>
+<row>
+	<cell>Wagore, George</cell>
+	<cell>Private</cell>
+	<cell>September 20, 1864</cell>
+	<cell>Drafted; discharged by General Order, June 1, 1865</cell>
+ </row>
+<row>
+	<cell>Wood, Aaron A.</cell>
+	<cell>Private</cell>
+	<cell>September 27, 1864</cell>
+	<cell> Drafted; discharged by General Order, June 1, 1865</cell>
+ </row>
+<row>
+	<cell>Williamson, Aaron </cell>
+	<cell>Private</cell>
+	<cell> March 13, 1864</cell>
+	<cell>Killed at Cold Harbor, June 3, 1864</cell>
+ </row>
+<row>
+	<cell>Wittes, Isaac</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Killed at Antietam, September 17, 1862</cell>
+ </row>
+<row>
+	<cell>Watkins, Benjamin </cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Transferred to Regimental Band, date unknown</cell>
+ </row>
+<row>
+	<cell>Williams, William</cell>
+	<cell>Private</cell>
+	<cell> November 16, 1861</cell>
+	<cell>Transferred to Regimental Band, date unknown</cell>
+ </row>
+<row>
+	<cell>Weisenbach, Ant'y.</cell>
+	<cell>Private</cell>
+	<cell> November 28, 1861</cell>
+	<cell>Discharged April 7, 1863, for wounds received at Antietam, September 17, 1862</cell>
+ </row>
+<row>
+	<cell>Weisenbach, Leo</cell>
+	<cell>Private</cell>
+	<cell>November 28, 1861</cell>
+	<cell>Discharged to enlist in 8th Regiment U. S. Infantry, October 24, 1862</cell>
+ </row>
+<row>
+	<cell>Youngman, John C.</cell>
+	<cell>Private</cell>
+	<cell>September 9, 1861</cell>
+	<cell>Discharged by Special Order, date unknown</cell>
+ </row>
+<row>
+	<cell>Yoder, David</cell>
+	<cell>Private</cell>
+	<cell> August 27, 1862</cell>
+	<cell>Captured May 27, 1864; discharged by General Order, June 2, 1865</cell>
+ </row>
+<row>
+	<cell>Young, David J.</cell>
+	<cell>Private</cell>
+	<cell>September 23, 1864</cell>
+	<cell>Drafted; mustered out with Company, July 27, 1865</cell>
+ </row>
+<row>
+	<cell>Zeehman, Charles</cell>
+	<cell>Private</cell>
+	<cell>February 11, 1864</cell>
+	<cell>Mustered out with Company, July 27, 1865</cell>
+ </row>
+</table>
+      </body>
+  </text>
+</TEI>

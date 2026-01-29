@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary25.jpg"/>
+            <dateline>Sunday Jan 19.</dateline>
+            <p>It was very foggy during the forenoon - we were up early, had breakfast, and the
+               two ferry boats, Patuxent, Pond Curlew came alongside. We all got out, with arms
+               and equipments - our company getting on to the Patuxent. They were both fast to
+               the Cossack, and worked and pushed and crashed each others sides at a desperate
+               rate for a half hour. We began to fear that it would not move. While we were
+               watching it listlessly, both boats fell back &amp; raised together, and lifted the
+               Cossack right off - We held our breath awhile to be sure it was moving - we saw
+               all the other ships must be moving or else our long-hoped release had come - she
+               moved sure, and we gave three hearty cheers. A little regardless perhaps in the
+               delirium of moving again, the stem of the Patuxent struck a hole in our stern; it
+               was crowded with men - one was knocked off his feet and jumped into the light boat
+               - another pitched after him - The extent of the damage, however, was in [trawing?]
+               back of a musket, and breaking off the front teeth of one of our men Hugh McClure,
+               but it was a very narrow escape. We dropped astern and then hauled up to a
+               schooner &amp; lashed fast. We watched them unloading the horses from the Peabody.
+               It was anchored about 57 yards from shore - the horses pushed off the ship
+               tumbling down 4 of 5 feet until they reached the water, &amp; men in a boat lead
+               them by a rope to shore - It seemed a cruel way of doing it, but was accomplished
+               safely. They were trotted around on shore, until there was no danger of chill. The
+               Capt of the Patuxent is named Bennet, a short red faced man. The three Ferry Boats
+               Curlew, Pilot-boy were chartered at Philadelphia by the Government to go to Port
+               Royal and put in here on account of [?] of weather, &amp; Burnside put them in to
+               service. He used to run the Keystone state. He said he had been on this coast 16
+               years, and never knew such a week of such weather as last week. About 11 o'clock
+               we got back to our home in the Cossack. Our Captain Burnside, Reno &amp; the Pilot
+               were sounding the channel across the swash this afternoon. I spent the afternoon
+               reading. Some men from the Pocahontas came in the evening. They were wrecked about
+               15 miles above Hatteras light-house. Their boiler gave out during the storm,
+               anchored and dragged on shore - out of 120 horses save 17 - All the men were
+               saved. The Pilot told me this evening that it is 52 miles to Roanoke Island - that
+               any vessel that can cross teh swash would go up the Sound - but the rebels had
+               taken up all the light Boats and buoys. The name swash is probably a contraction
+               of sea-wash. We are anchored just inside the inlet, but before we can get into the
+               sound there is the swash - a shoal of sand yet to cross. We have a sea-shell
+               mania. Parties go out to the shore and collect shells - some are very beautiful -
+               some are lucky dogs and find nice ones. Others come in with a batch of very common
+               looking shells. They will be probably carried far <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary26.jpg"/>
+               <fw>Sunday January 19, 1862</fw> or lost long before they get home - but they
+               serve to fill the hour - the tedious monotonous hours. I find I have injured my
+               eyes reading in this dark cabin - I long to get back to my canvass home. We had a
+               New York Tribune today which states that the [John Trucks?] which had the Zouaves
+               on board, put back to Fortress Monroe.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

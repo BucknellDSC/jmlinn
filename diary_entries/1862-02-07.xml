@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary34.jpg"/>
+            <dateline>Friday Feb 7 </dateline>
+            <p>This morning it was clearer but rather cold. The gun boats has moved up into the
+               Channel between Roanoke Island and the Tyrell shore. We kept moving up slowly too
+               - the fleet passed a bend at the point of the island, and we could see them across
+               the point of the shore. This took all the morning and we were eager spectators of
+               the scene, until about half past eleven the gun boats opened on the batteries.
+               Then commenced an awful cannonade. We watched the shells bursting in every
+               direction, some high in mid air some low close to the ships, and our shells
+               striking in every direction about the battery. A black smoke enveloped the battery
+               - and the flames burst out - their barracks were on fire - twice they put them out
+               and a third time they caught. We recognized the different boats - we especially
+               admired a little sloop with one gun, which sailed like a duck up and down
+               delivering her fire with emphasis. The Cossack ran up within perhaps four miles
+               &amp; we had a beautiful and uninterrupted view of the my crossed our bow full,
+               and drawing behind her about 30 surf boats filled with men. They stood over to our
+               right. Just before this the Patuxent passed up with Reno on board - we cheered
+               him. I got up on the hog-frame and waved my hat to Tom Grier, whom I saw on the
+               hurricane deck. When the boats had got off to the right they laid there - about
+               five o'clock the signal for disembarking was given. The Scout had been lashed
+               along side of the Cossack during the afternoon. Lt. Col Bell in attempting to
+               cross from the Scout fell down between the boats. Fortunately the wheels were not
+               going, and he climbed up the paddles and came out the door of the wheel house.
+            </p>
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary35.jpg"/>
+            <fw>Friday 7.</fw>
+            <p>Our boats had already been lowered. The two surf boats were to be towed by the
+               small ones. Then Capt Bennet &amp; his little boy got into the small boat. The
+               color guard, I noticed Peter Kozier, color corporal from our company among them,
+               got into the boats and as many of Co. B. Capt Bell, as could got on board and put
+               off. Co. A. Capt Bolton put off from the Scout. Soon Croatan Sound was full of
+               little black specks moving toward the shore. I think there must have near five
+               thousand men moved at once. There were a few houses standing on the shore, and we
+               observed a company of rebels there but they ran as ours landed. We watched the
+               first color planted on the shore and its black surrounding of men, then a second.
+               It was now nearly dusk. The firing of the gunboats and battery had nearly ceased.
+               One of the little black gunboats came near us - we observed his stern somewhat
+               decomposed. On inquiring he said one of his steel guns burst and killed one man
+               and wounded several others. We saw the Hunchback draw off with her and knocked
+               out. The Delware covered the landing of the troops and the other gun boats formed
+               in a line toward shore between the battery and the place of landing. We went below
+               - coffee hot and smoking, warm bread and ham on the table, we thought to have a
+               stomach full before we went. But the Deleware ran along side, and we were ordered
+               off immediately - had hardly time to pour the scalding fluid down. It was now
+               night - the moon struggling with fitful effort through the dark banks of clouds.
+               The 8 companies were put on board and we left the Cossack. When the steamer was
+               about a hundred yards from shore, a boat at the stern disembarked part of Co H
+               with myself and we made the shore. I formed them and sent Dave Brewer up ahead to
+               pick out the way. It was very dark and the ground boggy, so that it shook under
+               our feet. Brewer had gone but a few yards when he suddenly disappeared, &amp; I
+               saw him bobbing up on the other side of a ditch "look out Captain heres a well" We
+               passed it safely, and got abreast the bow of the boat where I waited and formed
+               the whole company with a few missing who turned up afterwards however. Then we had
+               to travel through a swamp - a road had been formed of saplings but they were
+               scattered and we often went in over boot top. We got on to terra firma pretty
+               soon, and met Beaver, who was acting as an aid to the Col. who piloted us up to
+               our place in the Regiment. We stacked arms, placed sentinels over the stacks, I
+               cautioned the men about an alarm, that they should rise and take their places
+               behind the stacks, and await orders to take arms. Then they dispersed to hunt wood
+               &amp; bedding, cornstalks, brush &amp;c. There was a house and some outbuildings
+               and fences. These latter were soon demolished to make fire wood, &amp; an
+               apparently well fence clearing of about 8 acres was soon as open as any common. I
+               got several split sticks &amp; Shorkly &amp; I lay down on them. He had a gum
+               parachute &amp; I a small gum blanket. Beaver had nothing but a blue overcoat,
+               which we had all put on one of each before we started. We lay an hour or two. It
+               began to rain. Beaver got off to the porch of a house and shivered under a canvass
+               tent. </p>
+         </div>
+      </body>
+  </text>
+</TEI>

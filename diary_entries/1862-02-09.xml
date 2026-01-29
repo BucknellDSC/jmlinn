@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary38.jpg"/>
+            <head>Sunday 9th </head>
+            <p>I woke up this morning feeling as if I had been made for an old man eighty years
+               old . My boots were scarcely dry, but fortunately the Chaplain of the 21st had
+               found a can of lard and by a dint of greasing, and halling I got them on. I found
+               outside quite a little town. Cabins nicely built in streets for the men &amp; log
+               houses for the officers in the order of a regular camp. I saw a great many of the
+               rebel prisoners - among them the Richmond Light infantry blues, Capt Wise’s
+               company, which had so handsomely, entertained the New York 7th. They were fine
+               aristocrat looking fellows in grey uniform like the Lewisburg greys. I found I was
+               but two of three hundred yards from Reno’s quarters through the wood. It was a
+               handsomer set of barracks than the others - the houses built of boards - the
+               chimneys outside of mud and sticks plastered with mud. I found Beaver in the Col’s
+               quarters &amp; the Col told me I need not go back as he had ordered the other
+               companies to come up. During the forenoon I went down to see the forts - there
+               were three - one of eleven one of four, the other of ten - this last one was the
+               one that was bombarded but it had not been materially injured at all. They had
+               spiked the guns, cut the ropes, threw most of the ammunition into the swamp. They
+               are beautiful works built of sod and sand - and heavily armed with thirty two
+               pounders some rifled - they are very formidable, &amp; well manned could not well
+               be taken. </p>
+            
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary39.jpg"/>
+            <fw>Sunday 9th </fw>
+            <p>The batteries, numbering three, are very nicely constructed of sod and sand. The
+               fort just below here on the beach was called, Huger, now Reno, eleven guns next
+               Blanchard, now Park, four guns mounted and a place for a fifth, lying on the shore
+               at the landing - the third on Pig point, Bartow, now Fort Foster. This latter was
+               not injured any of account. There were two red guns - one or two disabled. The
+               barracks inside were burned and a great many arms destroyed. Houses outside were
+               perforated with shot &amp; shell and we saw many lying far back of it. A great
+               deal of powder had been thrown into the swamp, and are in case number of arms have
+               been fished out of the swamps. On our way back, we met a party who had taken two
+               prisoners. One a bright eyed fellow said he was from Craven County &amp; that his
+               company had worked the guns themselves. The fourth shot had disabled the gun, and
+               one man killed &amp; three wounded was all the casualties. Hassenplug found an old
+               classmate of his when at Union College, Piot by name, from Murfreesboro' capt of a
+               company. He knew John Blair Linn. They had long conversations of old times. He
+               told us a great deal, which we did not altogether. I suppose they placed the same
+               reliance on a great many of our statements. He said the army at Norfolk was 15.000
+               that was on the Island on Saturday during the battle, and was so hard pressed that
+               he left his overcoat. We heard the explosion of the fortification on Nags head on
+               Saturday evening, but took it for an evening gun from a nine inch shell gun.
+               Beaver picked up a tract “for the times” published at Petersburg Va. He has also
+               one he took out of the cap of one that was shot in the last skirmish just before
+               the the surrender near this camp. Casting our burden on the Lord by Joseph
+               Atkinson. “There is no class of men who excite a deeper interest in every loyal
+               son of the south than our gallant soldiers &amp; who have exposed them selves in
+               defense of our honor our liberties &amp; our lives" The Col sent for the rest of
+               our battalion &amp; our company arrived in the evening. They passed a most
+               miserably wretched night, and said they felt very anxious about me. The barracks
+               put up here will probably accommodate four regiments. There is every thing
+               indicating an eye to comfort convenience and a permanent stay. </p>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary29jpg.jpg"/>
+            <head>Monday January 27th</head>
+            <p>This morning was pure and delightful - the sound waters were calm and placid - all
+               forenoon there was bjut the slightest ripple - We were on deck most of the morning
+               watching the gunboats practicing with their guns. Lt Col Bell came over from the
+               Scout - He told us that yesterday a small Rebel gunboat, bearing U.S. colors came
+               into the inlet and lay within a hundred yards of the Scout. One of our gun-boats
+               happening to go that way - she put up and off. That was real cute [They?] - much
+               to be admired. Another part of the mail of the other day came in but no letters
+               for me. Our life is so monotonous that slight things interest - &amp; it is
+               interesting to watch how at one time we gather in knots and how the conversation
+               floats from one topic to another, &amp; how the one group to another - Last night
+               - Sunday - in the fore part of the evening [Gib?] &amp; I talked of home and many
+               things that happened in our early lives - Shorkley Charley [Kline?] &amp; some
+               other one got talking of Muncy, got around to [?town] Shirleysburg - Then at that
+               town Capt Snyder floated in somehow - they got talking of stage coaches - that
+               reminded the Capt of a story of [?] who got into a coach, with a woman with a baby
+               - and [?] to put his hands in improper places - got his fingers daubed by
+               mistaking the baby's posterior, for something else, exclaiming Coachman, stop this
+               coach I am disgust - Then he told the story of a hair lipped fellow - which we
+               recognized as the story of Chas McGregor &amp; the cow - Blair floated in -
+               Shorkly &amp; I floated to bed - Blair wanted to know why we couldn't have roasted
+               potatoes for breakfast &amp; thought they might be roasted in the galleys of the
+               men. Other officers opposed interfering in anyway with the cook house of the men,
+               giving them a chance to growl - Interfere it won't interfere says Blair. "They
+               don't use those roasting places Who cares if they do talk if we really don't
+               interfere with them" but he [posts?] to ascertain. Capt [Shawl?] officer of the
+               guard, said he wished he had known Blair was going out he would have slipped out
+               and ordered the Guard to allow no one to enter. Re-enter Blair "The cooks say that
+               they will roast potatoes if they are taken out at five o'clock in the morning
+               John" to John Smith Col's servant &amp; head <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary30.jpg"/>
+               <fw>Monday Jan 27 continued.</fw> manager. "John did you hear" Shorkley, commisary
+               general for the officers mess, from his berth above. "There'll be no roasted
+               potatoes for breakfast in the morning. John" Blair, high tenor, "I was not saying
+               there would be Lt. Shorkley, only ascertaining whether potatoes would be roasted"
+               Blair 'high mad', and picks a quarrel with the adjutant, which was very comical at
+               the time, but has faded out of my memory. Morning. John sounds the gong - Shorkley
+               rises first: finds that the dog "general" has [cacapufied?] in front of my
+               [berth?] has been tramped around - &amp; his stockings are daubed - flings them
+               incontinently out - Mr Blair's light blue pants discovered lying on the floor -
+               Blair informed of danger, examines - finds the light blues daubed - By the time
+               all are up in that region &amp; the General receives a liberal cursing and sundry
+               threats. Meanwhile Capt. Shawl is dressings is annoyed by our remarks - General is
+               caught by the neck and summarily ejected - conversation and [objurgation continues
+               until breakfast. Shorkley passes some severe remark about dogs in general &amp;
+               the general in particular - Capt. Shawl unable to justify, [espouses?] the roast
+               potatoes [aside?] and sayd he'd rather have roast potatoes than that tough biscuit
+               But Blair ain't on that side now - he's adverse on the dog question. Blair comes
+               to the second table - &amp; the dog question absorbs his attention - the only
+               sharp remark amid all the filth, was that the dog would have to die a soldier's
+               death if caught again, &amp; if he would have only staid on his own side ([id
+               est?] the side the Shawl berth was on) "but a dog always hunts a clean place."
+               Blair appears in dark blue. The roast potatoes appeared at dinner - It is remarked
+               that Blair, usually very talkative wherever he is, is silent. Now we get an
+               explanation of how so many of our towels have disappeared. Every one complains of
+               having lost towels, one two or three. We thought some one must be laying in a
+               stock - but we are told that during the days of the sickness, the General was sick
+               too - he wawsn't particular where he put his accounts [cast up?] - on the sofas,
+               on the carpet, and elsewhere - most generally inconvenient for the rest of us -
+               &amp; the servant that cleaned them up generally seized on one of our towells,
+               wiped it up &amp; cast it into the sea - So it is with the general as with the
+               rest of us - when once the general attention of the community is drawn to a
+               criminal all faults, crimes and misfortunes are fished up. I tremble for the
+               general if he commits any other bad deed. His faults are not his faults - but is
+               rather his misfortune. There thats a dirty sheet - but one can't give a full
+               description of our life without mentioning such incidents. Some two weeks ago I
+               threw out my chewing tobacco - Thursday I quit smoking until I can get on </p>
+         </div>
+      </body>
+  </text>
+</TEI>

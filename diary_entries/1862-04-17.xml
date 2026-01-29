@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary59.jpg"/>
+            <fw>On Board Guide</fw> 
+            <dateline>Thursday April 17. 1862</dateline>
+            <p>Yesterday we got orders about noon to go on board the "Guide" with
+               six days provision. In two hours we were on our march. Leaving all the sick we
+               have seven hundred solid men with us. We marched through New Bern, past Gen
+               Burnside's &amp; Reno's headquarters - The streets of the town are sandy like a
+               sea-shore - the day was very hot - &amp; though equipped for light marching it
+               was very hard on us. We went to the wharf at the Railroad Depot, on the
+               Neuse?, &amp; the Pilot-Boy took us One wing at a time, down to the Guide
+               lying below Town. The Guide is a very fine boat 32 feet longer than the Cossack
+               - &amp; her style finer. We are quartered very comfortable, though the
+               men are very much crowded, and between decks it is very hot. Capt Shawl as
+               usual drunk as a fool - I was reading at the table when he came up, took the
+               light and made a drunken endeavour to light his pipe. My first im- pression was
+               that the wind had blown it out. As I looked up he had his pipe upside down,
+               swaying to &amp; fro until he scorched his nose. "Don't you like it you can
+               lump it" he said. I now register this now, that [twere?] I have excused his
+               impertince, because he was drunk, but here after, I will go upon the rule of
+               law as to drunkeness, that is - every man is supposed to know the consequences
+               of his own [?]. He commenced talking about getting killed - that we were to
+               have a battle on this expedition. I shall never vary my belief in his innate
+               cowardice. The only time he kept sober was when he led us away from
+               Centreville. He was drunk when we landed at Roanoke, he was drunk at the
+               battle. He was drunk at Slocum's creek &amp; presented a most contemptible
+               aspect - having fallen in the mud. The hair matress was too warm for me to
+               sleep on, in the close state room, having slept in the open air for a month.
+               Toward morning it became cooler &amp; I slept. I have today been better than I
+               have been for sometime. I have been bothered with pain in the back, head and
+               back of the neck &amp; stomach - I was not alarmed though they were symptoms of
+               small-pox. But to-day my both hands broke out with red-spots &amp; pimples.
+               There we are thinks I - only regretting that I was not back to New Berne, and
+               the length of time it would put me off duty. However after looking at it
+               suspiciously all day, I found they turned out to be watering pimples - Bless my
+               soul - was ever man known to rejoice that he had caught the Itch - [?] it was -
+               &amp; no small-pox -</p>
+            
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary60.jpg"/>
+            
+            
+            <fw>Thursday 17. continued. </fw>
+            <p>We left New Berne about six o’clock. We looked with interest, at Slocum’s creek
+               - but I spent most of the day on the confessions of Love queen. We passed
+               Ocracoke inlet about 11 o’clock, passed a steamer, Port Royal, and 7 schooners
+               - Hatteras inlet somewhat after one, and got aground between 4 &amp; 5 miles or
+               so this side of Roanoke Island, just the place where the Guide got aground when
+               we first went up. The Massasoit came down about dusk &amp; took our men off to
+               lighten the boat. The Cossack passed us taking the sick and wounded north.
+               There is something singular about this expedition. The N.Y. 51, Mass. 21. 48
+               Penna were ordered to go on it. Lt. Col. Bell &amp; some of our officers were
+               sitting on the Gen-Court Martial, &amp; Capt. Mitchel 51 N.Y. &amp; other
+               officers had just got excused, to go on the expedition, &amp; they were
+               twitting Lt Col. Bell on his noting left behind, when the order came
+               countermanding the orders of other Regiments and our one substituted. The
+               officers of the other Regiments are as mad as forty. An inspection of marching
+               return showed that our Regiment has as many effective men as the other three
+               together. Gen. Reno &amp; Burnside are to join us. Co. E. Capt Hassenplug’s
+               Company had to go without a commissioned officer. Foster is evidently
+               consumpted &amp; it will go hard with him if he gets home. He may attribute it
+               all to his own work - dissipation especially at Harrisburg. When our Regiment
+               came on board, one of the the hands asked where we were from - said that we
+               were the quietest men he ever saw - It took but a half of hour before every man
+               was quiet in his bunk - every other Regiment he said, in a half hour would have
+               the ship upside down in a half hour. The Capt asked the Col. to make proper
+               arrangements for order. The Col said he shouldn’t trouble about that - “Thats
+               what the Cols of other regiments said &amp; we always had a row.” The Capt
+               [bail] expressed himself agreeably surprised. He is a young man, highly
+               educated, literary - mode sailor and though very young has been master for nine
+               years. We are happily off now, but ...
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>

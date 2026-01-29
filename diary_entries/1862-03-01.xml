@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary44.jpg"/>
+            <dateline>Saturday March 1st 1862.</dateline>
+            <p>The morning was cold and clear - ice and a bleak wind blowing at all angles. Lt
+               Shorkley and I intended to be off early, on a trip to the battle ground, but
+               everything went wrong. As the wind was so variable, and the wooden chimney
+               after burning half up, was found not to work, we adopted the expedient of
+               cutting two pipe holes one out each side &amp; changing around the stove as the
+               wind changed. We had the pipe out the north side, but as it smoked, Dick
+               changed it to the South side - it smoked worse - so it was changed again to the
+               north - then again to the east - and again to the north where it was found to
+               do best, but miserable at [best?]. This occupied an hour and were smoked and
+               frozen nearly to death - once Shorkley broke the elbow - We have the Stove on a
+               box of sand, and it is pretty hard to move around. Dick in his efforts overset
+               a pan of slop water over the floor &amp; began to swear - Beaver scolded -
+               "Well between the smoking stove and oversetting that its enough to make any man
+               swear." At last the stove took a slight notion to burn and the shad was frying
+               briskly - I sat reading behind the stove - then was an exception - two pieces
+               of fish flew out on the stove and floor - spattered me with hot fat &amp; my
+               book all over. There never in all our house keeping such extraordinary trouble
+               nor were we all ever in such a bad humor. At last we got breakfast about nine
+               o'clock. Shorkley got started - went down past Park pt fort, along the beach
+               about two miles, when a [major?] met us: we followed some one's truck and bound
+               he had been fooled just as we were - we followed his track clear around the
+               swamp back to the beach &amp; then tramped back to Gen Burnside's head
+               quarters, crossed the camp of the 8th Conn &amp; took down a crooked road,
+               reached the main road, and after a walk of three or four miles the old battery
+               - Ft Russel We observed the trees marked with bullets more than 3/4 of a mile
+               back of it, and near it every tree was scarred and cut. The battery was built
+               in half moon shape, with three [?] very wide outside so as to give as wide a
+               sweep as possible to the cannon. [?], where the 24 pdr Dahlgren was, swept the
+               road - right in the centre. It was all cleared in front - &amp; the road runs
+               straight down about 1/4 of a mile and then bends to the right - &amp; the wood
+               is cleared so as that the road straight in front as also that of the bend. But
+               right in front of the battery just where we crossed showed the most marks of
+               bullets: two trees about 15-20 feet up were pierced through with cannon balls.
+               The pine tree where we lay down was full of bullet holes. We then went down the
+               familiar road, past where the field hospitals were, filled with groaning
+               mangled men when we passed there last to the landing. The owner had come back -
+               named Hayman, and it was at his landing instead of Ashby's where we landed. He
+               said he was there until near sunset - that they did not expect us to land there
+               but at Ashby's: that when he took is family across there the road was full of
+               troops - Between the road leading to Ashby's &amp; this place there is a deep
+               creek, and probably the rebels were afraid of losing their artillery, or they
+               would have attacked us there. This battery is but a half mile across &amp; it
+               could have been shelled by our gun boats had we known it. We walked down to
+               where we landed and saw our broad swaths across the reedy shore - then went
+               over to Ashby's We saw the young man there - he said he had been drafted - had
+               gone up the canal bridge - &amp; his lot fell on him &amp; they were to go home
+               and stay until called. From this landing where they expected us to land, there
+               is a road leading through a swamp [?] - when the rebels were posted with two of
+               their pieces that night they thought the water too low to land at Haymans. The
+               Ashbys raised a white flag - &amp; the rebel officers threated to take them up.
+               We saw the graves of our dead, one com. off Lieut Goodwin, &amp; one first
+               Serjt [Jeremiah?] W Morse - [?] - 23rd Mass 27 in all - 1 unknown 2 prob N.Y.
+               51 1 57th Penna. We returned the same way: met Alcott - had supper flour
+               cake.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

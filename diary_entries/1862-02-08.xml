@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary35.jpg"/>
+            <dateline> Saturday 8. </dateline>
+            <p>It rained incessantly all night and there was no sleep. We sat by a miserable
+               little fire all night. Some times I dozed and dreamed of being in the comfortable
+               cabin of of the Cossack, to wake with a start to find myself miserably cold and
+               wet. So all passed the night. I don't know, but I think I suffered more than ever
+               I did. Towards morning, perhaps between five and six, we all went over to the
+               porch of the house, Shorkley, Beaver &amp; I, and though it was crowded, I sat
+               down &amp; took a few winks of sleep. A few shots were fired, &amp; every body
+               ran. We got back to our company and found them quietly standing behind their
+               stacks, ready to take arms. We took arms, dressed, &amp; stood sometime, the alarm
+               passed, I formed the men according to their numbers, we could not do it last
+               night, divided them into platoons &amp; sections, and we stood in the drizzling
+               rain. The different regiments formed, some had lapped with us in the darkness of
+               the night. There were perhaps two thousand men there. Our regiment came out with
+               over 800 men, My company 73. The first Brigade started about seven o'clock. Reno,
+               Burnside were about. Morris came across to us with a great big sword with a steel
+               scabbard buckled on him. None of the officers had their horses. "You'll soon have
+               orders to march are you ready". "Yes". We teased Morris about his big sword he
+               could scarcely draw it &amp; return it, it was so long. I saw Lt. Col Monteil
+               cross the field to the house, the first time I had seen him since I sat as judge
+               advocate </p>
+            
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary36.jpg"/>
+            
+            <fw>Saturday continued. </fw>
+            <p>about up past seven we heard some shots and then a volley of musketry. Foster was
+               driving in the pickets. Then bang went the artillery then musketry and so it kept
+               up. We moved up - the head of our brigade had already entered the wood, and our
+               reg. still standing in the clear, when the first wounded man was carried along -
+               then another and another - it was the most trying thing we had to endure. But the
+               officers were all cool and calm, and every command was given in a clear voice,
+               &amp; it seemed to keep the courage up. We passed up a narrow road through the
+               wood, just wide as a wagon track, like our mountain roads, thickets of low pines
+               and bushes. It was just like the roads up around Rengler’s' old mill - Then it was
+               thick with wounded men carried and limping past us. Double quick - came to a mud
+               puddle we were dainty at the first &amp; got around it, which broke us up a
+               little, but the next one we dashed through. An occasional shell and bullet
+               whistled, but we could see nothing but the regiment winding through the wood ahead
+               - we turned off through the wood at a double quick, and got into another road -
+               the battle we could hear, raged fiercely - every step we met wounded and dying and
+               exhausted and some to whom we strongly suspected of being prematurely exhausted.
+               An officer came and told me to send word to my Col. to send a company of
+               skirmishers out to the right. I thought of aids &amp; officers giving orders
+               without authority, but still determined to obey orders, and sent up Sergt Etwine
+               with the order - The Col afterwards told me that some company at the head,
+               relieved him of that agreeing to deploy. We passed the hospital which was so near
+               that several men who carried the wounded there were killed. Zing goes a shell over
+               our heads, and a piece struck a man lying down to rest &amp; killed him. We came
+               to a halt - our regiment had turned to the left by order, but could not get
+               through. My company was just at the point where we had turned from the road. The
+               Col sent word forward that he couldn't advance on the left. The Rhode Island regt
+               came through the wood and passed by the head of my co. up the road. I stood with
+               the Col on a log at the fork of the roads when a volley of musketry passed over
+               our heads accompanied with a shell. We got down rather suddenly. Here the bullets
+               sung unpleasantly near. Orders came for us to leave so much of our Regt. as had
+               passed the fork of the road and turn of the rest to the right up the road - There,
+               thinks I, I am to lead the column. Everything was so uncertain, did not know where
+               the enemy were, musketry sounded all over - all around - it was wood and brush
+               &amp; nobody to be seen - we soon saw things however with more than the eye of
+               faith. Co D Second company ahead of me was turned off leaving two companies and
+               Lt. Col Bell in the thicket on the left - Double quick up, up we go - balls, shell
+               flying somewhere - I saw Gen Reno at the corner of the wood - John Morris, then
+               our brass field pieces, then all our other regiments lying flat down then an
+               opening two or three hundred yards broad, then the battery of the enemy, the
+               belching fire and smoke, the pail report of rattle of balls all around and above
+               us- wanging into the trees - here we came into a swamp up to our knees in mud
+               &amp; deeper - a poor fellow lie all doubled up beside a felled pine tree, we
+               tramp on over him - we were in front of the enemies battery, in full view,
+               crossing to gain their right - the swamp was tangled so that the regiment halted
+               and we lay down right in front of the battery. The swamp was just like pine swamp
+               - I've been in both and this was worse. Up again to run the gauntlet. We lay there
+               some ten or twenty minutes flat on the ground. We gained the right and went
+               plunging through the swamp up to our waists. Beaver was standing on a stump
+               collecting the different companies - I never saw more than a half dozen of my
+               company. I was standing on a stump looking ahead, when I saw Shorkley about ten
+               yards ahead plunging through calling co. H. It bewildered me to see him there, I
+               wondered how the rear of my company could have got there. Billy Allison, Brewer,
+               Sergt Campbell &amp; Charles Merrill were with me generally and others who
+               appeared and disappeared I rushed ahead and found that Shorkley had but two or
+               three with him. He had cut across and got ahead of our colors - we still dispute
+               how it happened, he alledging that I followed the Rhode Island colors. That
+               couldn't be as the The Rhode Islanders were still further to our right. However
+               Beaver appeared on a stump and he was calling to co. H away to the right to come
+               over to the capt - We were certainly ahead of our colors, for they came up
+               afterwards, part of our company having followed it. Here we halted and got
+               collected. The Rhode Islanders on our right parallel. Here we heard a cheer. The
+               back companies of our Regt were still in front of the battery, we all took it up
+               and cheered when they told us our colors were planted on the enemy battery. <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary37.jpg"/> Just before it however, we saw a man on a tree making signals. one
+               from our regiment stepped out without orders. the man disappeared. Charles Merrill
+               was with me though and he kept on talking in his usual quiet way. He said he had
+               been in pine swamp, but this was worse. He had been hardly able to do any service
+               since he has been here, but he was one of the most quiet cheerful soldiers I ever
+               saw &amp; he walked along waded rather, with his musket on his shoulder canteen
+               and haversack just as if he were in the court room walking round the bar. We
+               pushed on - the Rhode Island and ours got mixed. We came out on the right and the
+               front of the battery Here we had to wade a pond up to our middle - but there was
+               the battery. The right wing of our regt drawn up were marching on. We had to halt
+               to form and it was near an hour before it put out and formed. By this time all the
+               troops had left, and our battalion was ordered to remain at first to draw the
+               guns, &amp; then to stay in the battery. I chafed at this - However while forming
+               I left the company to go to the battery. Here I met Mr Mallory &amp; he shook
+               hands congratulating our safe delivery. I remember saluting him just as we left
+               our bivouac ground in the morning as we marched fast to go to the wood, and his
+               face said "he might not see us again in life." We lost but two or three. I went on
+               to the road on the left of the battery - just at the corner lay a dead man - and
+               on the right just by the gun of the embrasure a handsome dark skinned man, black
+               whiskers and mustache &amp; hair I noticed his delicate hands and small feet - he
+               lay on his back his eye staring wide open, handsome even in his miserable
+               surroundings - half imbedded in mud - hands blackened with powder - no uniform -
+               had a pea jacket, and fine underclothes - with "Seldon" written on his undershirt
+               and waistband of his drawers I learned afterward he was Lt. Seldon, son of Dr
+               Seldon of Norfolk - that Col. Shaw cautioned him against exposing himself - "Damn
+               them they can't hit me" he scarcely said it when he fell pierced through below the
+               eye. At the centre gun lay a mule still in harness probably to draw off the gun -
+               looked, very much, like as if it had its throat cut - but Col Jordan of the Rebels
+               said it was killed by a mine-ball. Farther over lay a muscular man, with large red
+               whiskers - a ball had struck him in the back of the head and his brain had oozed
+               out into his hat until it was full. There were five or six dead men lay in the
+               fort. A wall tent was pitched on the left. Two wounded rebel officers were laying
+               there. Lt. Col. Patter who entered the fort from the left said that when a few of
+               our men approached one of the them he cut at them with his sword, and on his
+               asking him why, he did so, he said he had heard that we were ordered to give no
+               quarter. If officers believed that, what should their men believe. We afterwards
+               learned that they thought so, I had been told to by their officers. The most
+               disagreeable thing was to see that the dead had been all robbed - pockets turned
+               inside out - buttons cut off for relics. I was attracted to look at Seldon again,
+               &amp; found his name had been cut out in both places. I walked around through the
+               swamp &amp; dead bodies were lying scattered around through it. We had dragged one
+               of the cannon some distance, when Burnside ordered them back, and the balance of
+               our regiment were ordered to stay in the fort. Owing to the constant wet weather
+               and exposure with no coffee or cooking utensils, all we had to eat was in our
+               haversacks, Reno had ordered up whiskey. The officer in charge passed us, and
+               wished Shawl to send a party in charge of a commissioned officer to bring some
+               back to our men, as he would not deal it out until he reached head quarters Lt.
+               Foster &amp; I were sent with ten men &amp; we followed up the grog for a couple
+               of miles when we met Beaver 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary38.jpg"/>
+               <fw>Saturday 8th </fw> who was on with the advance, and had been sent back to
+               order up the rest. I told him that we had been ordered to remain. He started back
+               with us. We came to a crossroad, which he said was the road they went, but the
+               officer in charge was perverse &amp; went straight on - we followed him &amp;
+               Beaver left us. Up to the right was a house where Capt C. Jennings Wise lay
+               mortally wounded with five wounds. A gentleman had picked up his gum blanket at
+               the battle field &amp; I saw his name on it. The road was strewed with knapsacks,
+               and other things thrown away. I met Gen. Foster on horseback - “Well” says he
+               “boys we have gained a great victory - they have just surrendered to me two or
+               three thousand, and the island is ours.” We threw up our caps and yelled. We came
+               to a field - An old man and young man Islanders half drunk were explaining to us
+               how they had been loyal men all the time. Then we travelled on - every one we met
+               told us it was a couple of miles - We were dreadfully tired . We let the grog gang
+               go, anxious to get some quarters as it was growing dark. Lost our road several
+               times - at last after dark arrived in what seemed a little town, but was the
+               enemy’s barracks. I stumbled into Col Upton, Mass 25th and asked permission to
+               sleep on the floor. I pulled off my boots. There was an inch of water in them
+               &amp; we had travelled 7 or 8 miles since we left the battle ground, &amp; I was
+               rather sore . It was a grateful thing to lie on the cabin floor. Col Russel of the
+               10th Conn was killed in the battle from concussion it is supposed of a passing
+               cannon ball as there was no mark on him. One near him said he just doubled himself
+               together and fell dead. We passed him on our way to the battle field. One of his
+               men carrying him, crying called to us to give it to them, they had killed his Col.
+               Capt Henry was killed too. He talked awhile complaining of pain in his stomach,
+               but there was nothing, but a blue streak across his stomach. Lt. Col Monteil was
+               also killed, he unnecessarily exposed himself, firing with his rifle in front of
+               the battle, Frank Leslie’s artist was in close, behind a stump.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

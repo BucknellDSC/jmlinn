@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary55.jpg"/>
+            <dateline>Sunday April 6th</dateline>
+            <p>Yesterday and the day before we did little else than fix up our camp. We had a
+               short Regimental drill in the afternoon. Our men have forgotten some but the
+               ground was very rough. In the afternoon we were blessed with the arrival of a
+               very large mail from home. I received three letters from John &amp; 2 from
+               Annie &amp; one from Laura. The last one is dated March 31st, so that it came
+               through in five days. Both last evening this evening, Lt. Col. Bell and I took
+               a stroll through the quiet old town. The streets are lined with high arching
+               trees, and the leaves are just budding. There are many fine houses, but the
+               beauty of them is in the large grounds around them and the shrubbery. Roses are
+               blooming, &amp; the lilac &amp; locust are out. The multiforce is crowded. It
+               must be a charming place, and one could not help thinking of the pleasant
+               social times they must have had in times past. There is wealth and leisure.
+               Where Capt Ritchie has his quarters, was the office and rooms of a bachelor
+               Lawyer, built in a cross shape, &amp; the Col tells me has every luxury of
+               library office, bed room, dining[?] bath &amp;c. It was said that at his
+               parties, he always refused to drink wine, &amp; kept up the impression that he
+               was temperate. His servant, whom Capt Ritchie has with him, on the Capt's
+               observing a number of bottles in a closet marked "[haregonic?]" that he would
+               at times drink a bottle of it, 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary56.jpg"/>
+               <fw>April 6. continued.</fw> and lie for a day or two, perfectly besotted. He
+               was in that con- dition when the attack was made on Newbern, &amp; had to be
+               carried away. We had company inspection in the forenoon. Tom. Grier came and
+               took dinner with us. The day was delightful, &amp; we went up to the platforms
+               &amp; one of the curtains is partially completed. I suppose that the alarms
+               &amp; fuss last week was caused by a Dr Thompson of the First Brigade, making a
+               false alarm. Morris said he had bought about 70 bales of cotton of an old
+               fellow out in the country, and after he had paid the money, some rebel cavalry
+               came down and burnt it. An order was read on dress parade last night, sending
+               the doctor to report at Washington with the recommendation to the Secretary of
+               War to dismiss him from service - that soldiers lost enough rest &amp; sleep
+               not to be annoyed by false alarms and that all alarmists would be dealt
+               summarily with. We formed under arms and marched into the Presbyterian church,
+               where Mr Mallory preached. We heard also a part of the grand concert given by
+               the 24th Mass Band, Gilmore's in front of Gen. Burnsides headquarters. After we
+               got back we found all our men from Roanoke Island had got back except Murphy
+               &amp; Adam Henry, how have [?] fever. We look very red &amp; some few will be
+               marked. Poor Jim Kelly died on the 27th of March - he was delirious for 8 days
+               and swore like a trooper until he died. It was owing to his impudence stripping
+               stark naked - he was so selfruled they could not get him to take any care of
+               himself. His side on which he lay was completely rotten - in fact he was one
+               mass of corruption. I am glad the rest have gotten over it so happily. We have
+               yet two cases on the other side of the River. We heard, through Gen Burnsides
+               spies, who have just returned from Suffolk, that Gen. [Hendleman?] had taken
+               Yorktown with 180 pieces of cannon. Our friends in the North appear to have
+               been uneasy about us, for fear that we would get caught in a trap. Gen.
+               Burnside has been kept thoroughly informed of everything that has taken place.
+               His spies are everywhere, &amp; he has a very finely organized system. Many are
+               New York detectives. Six of them were on board the Cossack, &amp; it was a long
+               time before we knew who they were. They appeared and disappeared - where we
+               never saw. One I remember did not come on board for a long time, when the
+               morning we left Hatteras to come here, he suddenly turned up. You would take
+               him for a Jersey huckster rather than a detective. We were on board a week with
+               them when we had the prisoners. We kept the prisoners below except at certain
+               hours, when the detectives would stay in their rooms. 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary57.jpg"/>
+               <fw>April 6 continued.</fw> It is wonderful that a change the appointment of
+               Corporal has made on Charles Merrill. He is dressed very neatly and his hair
+               and beard nicely trimmed, and appears to feel for the first time in his life
+               that he has some responsibility. He does his work carefully and intelligently,
+               &amp; take a great interest in it.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

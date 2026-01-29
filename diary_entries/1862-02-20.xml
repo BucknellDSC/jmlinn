@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary42.jpg"/>
+            <dateline>Thursday 20.</dateline>
+            <p>This was a delightful day - like ours of May. I went ashore with Captain
+               Bennet. The prisoners were getting sick by the dozens, and the surgeons said
+               they would die in piles if we remained long. It smells dreadfully down there,
+               &amp; the filth &amp; dirt is indescribable. Although we have plenty of flour,
+               there is no means of baking - our hard bread was done, &amp; from the trouble
+               in getting [food?] seemed as it was, I was afraid of a row, if the want of
+               bread was added to the trouble. So we went up to Reno's quarters, and I gave
+               him the history - He said we would start this afternoon which was good news -
+               so when we got to the beach we saw the flag at half mast, blue, &amp; knew it
+               to be recall of all hands to the ship. I had fortified myself however with an
+               order to remove all my sick to the Peabody. We got to the Cossack in time for
+               dinner, twelve o'clock anchor hewed immediately and we ran up to where the
+               other vessels were anchored, just above the head of the Island, and along side
+               the Peabody. I communicated my orders, but just then Gens Burnside &amp; Reno
+               came up in [Ship?] Price, and orders were given to sail, so we concluded to
+               leave them on board. The day was bright and we went it gaily, the little tug
+               Champion leading the way, next the Spaulding, Peabody, Admiral, Cassock, New
+               York. The Spaulding was the officers and the Peabody the wounded and sick.
+               About four o'clock we entered Pasquotonk river. The shores were marshy and
+               lined with dark pines, with here and there an acre or two cleared, and a
+               windmill. At one place six windmills were congregated and ten were in sight, so
+               we neared Elizabeth City. There were plantations and some fine looking houses.
+               The most beautiful sight were successive [?] or steppes of dark green pines, of
+               different heights, thick and dark - as if they had been cleared and grown at
+               different pines. The water was dark colored like tan bark, the shores winding,
+               bluffed with groves of the tall yellow pine. We rounded a point and came in
+               sight of the place, a shire, tall brick buildings, like mills, apparently just
+               placed on shore among the tall pines. On the point was their fortification
+               tenantless, &amp; gunless, its magazine blown up, and near the shore wrecks of
+               gun boats, one a propeller perhaps the [Jamy?], and one a side wheeler. The
+               shore appeared close in here. The sunset was very beautiful - and the scene was
+               sombre enough - those pines give it a dark severe look - perhaps in the summer
+               it is brighter - but the most pleasant sensation was to see something of
+               civilization again - a town however small. As we came near, &amp; I saw the
+               houses &amp; farms on shore - Large fine looking houses, some with balconies
+               all around - in the calm evening much like our summer, I thought more of home,
+               and how I would live &amp; alter things in our old house, than I have done
+               since I left home. I was talking to one of the Surgeons - he said though he had
+               been very enthusiastic for southern rights, he thought if he got off he wouldnt
+               get in the army again.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

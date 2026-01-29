@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary79.jpg"/>
+            <dateline>Wednesday 24.</dateline>
+            <p>I went to New Bern this morning with Lt. Kelly to get him a leave of absence.
+               We went to Gen. Reno who told us that in the present state of affairs he had
+               concluded to give no leaves of absence or furloughs that if affairs at Richmond
+               turned out as they expected, in about two weeks they intended to give leaves of
+               absence to one or perhaps two officers of each company. As I was going down
+               town I met an officer of the 48th who said the his field and staff wished to
+               make some affidavits before me: I said I would meet them at any time between
+               that and four o’clock at the Gaston House. He fixed twelve. About that time he
+               came in a buggy with an invitation to dine with the Col. I refused to go and he
+               then said they would come up to our camp tomorrow. They've got to come to me
+               after this. Just after this there leapt of a schooner Moses B Something, came
+               to me to make an affidavit to his log. He had been sent by Capt. Biggs out to
+               our camp. I told him that I was as only Com. for Pennsylvania - but as if was
+               for the Government to pay on - &amp; I’m the only civil personage in North
+               Carolina I suppose it will answer. When I refused fees he appeared to be
+               astonished, but I told him that so long as I was in the pay of the United
+               States, I did not 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary80.jpg"/>
+               <fw>June 24. 1862 cont. </fw> consider it right to make money off [torn] ... Em
+               French's whore-house has blown off [torn] ... There were a lot of officers
+               there – she [torn] blackguarding them out of the windows [torn] calling them
+               damned Yankee sons of bitches &amp; came out onto the porch with a revolver –
+               Fired three shots rapidly, shooting a handsome young officer who was standing
+               quietly in the middle of the street, in the abdomen. The soldiers were
+               gathering and about gutting the house and preparing to hang Em French on the
+               tree, when Robert Marshall Col Kurtz arrived – arresting four whores – handsome
+               girls – Marching them down the middle of the street to the jail, and toting the
+               dozen officers off as witnesses. Fred Etweine said this: he is one of those
+               fellows that is always about when anything was going on. John Kenedy &amp; Jim.
+               Gibson are such characters. To be shot by a whore – the officers that were
+               inside – one standing on the porch with her – it's very disgraceful. Col. Kurtz
+               in his wrath let out some forcible expressions about the way the house had been
+               upheld. I met Sgt. Grassmine. He is a sort of detective in town. He told me he
+               caught too small boatloads of salt going across the Neuse into the rebels
+               lines. It rained this evening. I talked to the old d---- who said he was 104
+               years old. He looks very ancient. His hair is not grizzled much, but his toe
+               nails &amp; finger nails are scaly. I asked him whether he remembered the duel
+               between Spaight and Stanley - he said he did well – the first fire Stanley was
+               shot in the sleeve of his coat, and it came out his shoulder. The second
+               Stanley shot straight through the breast. Spaight then wanted them to raise him
+               up to fire a third time, but the second refused. He said the time was fixed and
+               people went down from his county – 16 miles from New Bern to see the battle. He
+               could not tell me where it took place. He said 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary81.jpg"/>
+               on this place his son [?] [?]
+               &amp; it was bought by Jim Niley who afterwards fell in a duel with some one I
+               have forgotten who. He [torn] Jack Stanley fell dead in the court House of
+               Raleigh as he was taking some oath. He always said he was going to swear to a
+               lie. He was a short old bachelor Jack Stanley was - he never was nobody after
+               that - he told him often that he was no man after that- he had often ferried
+               Jack Stanley over the river to go to Trenton to court. He evidently meant that
+               he was struck with paralysis - as he speaks of talking to him afterwards - as
+               was the fact </p>
+         </div>
+      </body>
+  </text>
+</TEI>

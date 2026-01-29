@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary26.jpg"/>
+            <head>Wednesay 22</head>
+            <p>Last night about 8 o'clock, quite a little fleet came around us. Our old friend
+               Patuxent, the Union and two other tugs. We were all em- barked on the Union. There
+               was just room enough to stand between decks. 3 companies quartered in the upper
+               &amp; 3 in the lower packed in like [shad?] We dropped astern of the Cossack and
+               anchored. There was a lively time among the sailors getting the tugs lashed to, it
+               was dark, and the few lights [?] had seemed to make it darker yet. The channel
+               which was yesterday [?] with barrels, and flags, [?] now various colored lights,
+               red &amp; white. Our men were in fine spirits during the first three or four
+               hours. There was considerable singing, Campbell &amp; Smith of our company,
+               performing finely. Campbell has a peculiarly sweet voice, and his songs showed his
+               temperament delicate, refined - above the courser passions and tastes - and they
+               touched chords which were in every breast - Smith's was one about a miller, who
+               about to die, had an old mill and three sons; and called them each in, at his
+               deathbed to inquire how much toll they would take - &amp; left it to the eldest,
+               who would take three pecks or all. It was a quiet satire on millers. His other had
+               a delicate touch of smut - the charge for a guinea, and the tailor's wife - the
+               [?], some Butcher goes to Leicester to buy cattle - [?] the charms of some pretty
+               country wench and gives her a guinea - when he comes to pay the bill he tells the
+               Landlord that he gave the [?] maid a guinea &amp; got no change - the Landlord
+               calls the maid and she has to give up the guinea - a year afterwards the Butcher
+               returns again, and she places a child 3 months old on his knee - with some [?]
+               about the change for the guinea. The Tailor's wife has a frolic with a sailor, 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary27.jpg"/> Tailor comes home suddenly, she puts him in a chest, sailor carries
+               off off his [chest?] the tailor in it - it is so heavy he opens it - finds tailor
+               &amp; carries him off sea, They are evidently "auld country" songs, handed down
+               among them - would [?] doubt have a trace of his descent, to look up how they got
+               them North Snyder sung "The Jolly brown jug" &amp; "Northhampton County Prison"
+               The latter is [his?] trial, Reeder, Judge Jones &amp; other local incidents. North
+               has been three times in the Penetentiary. He is a singular character, and very
+               wicked, vulgar, though he seems to have a good heart. So the time passed
+               pleasantly - gradually they became quiet &amp; sunk into disturbed slumber -
+               [piled?] and mixed in an indiscriminate manner. [?] &amp; I borrowed blankets of
+               the men and lay down on the gangway outside. We were there an hour or two - I
+               discovered symptoms of rain - &amp; went down by the furnace - where I had just
+               room enough to sit - by leaning [?] a little I dozed some - but my arms and legs
+               got paralyzed - &amp; could not change my position. Then it rained - a dozen or
+               more who were outside came crowding in crawled over us, down into the fire place -
+               then we dozed again - the rain ran in along the floor - I slipped off my blanket -
+               found my overcoat and [posterior?] all wet - the the [firemen?] had orders to get
+               up steam - then the dozen men, with knapsacks guns &amp; cartridge boxes, had to
+               crawl gack again over us. Capt Bell did some [funny?] swearing over it. Oh! it was
+               a dreary uncomfortable night. On comparing notes I found that none of the officers
+               or men had it any better than I had. About seven we steamed back to the Cossack
+               now happily beyond the channel, safely in the sound. That is a satisfaction that
+               makes up for all the discomfort of last night. Curtin came on board last night. He
+               &amp; Dr Gibson have been having pleasure excursions around ever since last
+               Friday. One of the unpleasant things that occur on board is the food and water of
+               the men. Yesterday the cooks went out to see the ship moving, and when they got
+               back, the soup was [burned?] a half inch crust on the bottom - the men threw the
+               stuff overboard. There had been detailed each day - the three got scared at the
+               fury of the men &amp; deserted the cook house, and it was impossible to find out
+               who they were. Then Lt. Goulen was put in charge, &amp; by evening coffee was made
+               - When it isknown that it takes two gallons of watera day - that it takes 3
+               barrels of water to make coffee once around - when it requires them to be cooking
+               day and night, how easily things may be thrown into disorder, and once so it takes
+               long to rectify - meanwhile 4 or 5 [?] men are suffering - growling - more [?] and
+               irritable because they have nothing all day long to engage their attention. To-day
+               they are out of water - they had coffee in the morning - but no water all day - a
+               thirst is intolerable - I felt it last night during the long night - The wind was
+               so high all day that we could not send any small boats for it, &amp; had to depend
+               on the tender mercies of a tug to come to relieve us. This evening it is blowing
+               furiously. But we have depth of water &amp; see room, and have no fears. [Down] it
+               was a constant source of anxiety - either aground or run into by other vessels,
+               all the time - not safe anchorage for ten vessels &amp; yet we had over a hundred
+               - blowing a gale all the time - Bennet the Pilot said he had not seen such weather
+               for [eighteen?] years.</p>
+         </div>
+      </body>
+  </text>
+</TEI>
