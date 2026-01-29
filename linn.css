@@ -440,14 +440,14 @@ bibl extent {
     display: inline;
 }
 
-/* Suzette - formwords */
+/*  Formewords */
 fw {
     display: block;
     color: black;
-    font-style: italic;
+/*    font-style: italic;
     margin-bottom: 1em;
     margin-top: 1em;
-    font-size: 1.2em;
+    font-size: 1.2em;*/
     text-align: center;
 }
 graphic {
