@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>James Merrill Linn Diary: 1861-1862</title>
@@ -15,154 +15,154 @@
                </name>
                <resp>Professor, Lead Investigator</resp>
             </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Junior Alejandro</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Matteo Antenucci</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-                  
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>NinaArsov</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Caroline Colucci</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Drew Fisher</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Olivia Garcia</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Harvey Harvison</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Reilly Hope</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Matti Kruger</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Selena Liu</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Gayda Makki</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ben Maya</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Calvin McGuire</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Natalie Monroe</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Luke Nowicki</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ori Raz</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Grayson Renkert</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Amadou Samb</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ben Samuels</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Rose Schmidt</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Nyah von Haam</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Junior Alejandro</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matteo Antenucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+               
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>NinaArsov</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Caroline Colucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Drew Fisher</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Olivia Garcia</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Harvey Harvison</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Reilly Hope</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matti Kruger</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Selena Liu</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Gayda Makki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Maya</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Calvin McGuire</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Natalie Monroe</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Luke Nowicki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ori Raz</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Grayson Renkert</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Amadou Samb</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Samuels</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Rose Schmidt</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Nyah von Haam</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>Bucknell University</authority>
@@ -183,13 +183,12 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <div type="entry">
-            <pb facs="#"/>
-            <p>Some text here.</p>
+            <p></p>
          </div>
       </body>
-  </text>
+   </text>
 </TEI>

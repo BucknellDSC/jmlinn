@@ -424,6 +424,12 @@ ex {
     font-style: italic;
 }
 
+/* DKJ crating eventName color */
+eventName {
+    display: inline;
+    color: maroon;
+    font-weight: bold;
+}
 extent {
     display: block;
     margin-bottom: 1em;
@@ -967,8 +973,8 @@ persName {
 }
 
 placeName {
-    color: orange;
     display: inline;
+    color: navy;
     font-weight: bold;
 }
 
