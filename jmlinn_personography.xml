@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary Personography</title>
+            <author>HUMN100 Class Spring 2026</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Junior Alejandro</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matteo Antenucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+               
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>NinaArsov</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Caroline Colucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Drew Fisher</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Olivia Garcia</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Harvey Harvison</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Reilly Hope</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matti Kruger</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Selena Liu</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Gayda Makki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Maya</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Calvin McGuire</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Natalie Monroe</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Luke Nowicki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ori Raz</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Grayson Renkert</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Amadou Samb</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Samuels</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Rose Schmidt</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Nyah von Haam</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="jmlper001">
+               <persName>
+                  <surname>Linn</surname>
+                  <forename>James Merrill</forename>
+                  <roleName>Captain</roleName>
+               </persName>
+               <affiliation>PA 51st Co. H</affiliation>
+            </person>
+            <person xml:id="jmlper002">
+               <persName>
+                  <roleName>Captain</roleName>
+                  <surname>Shorkley</surname>
+                  <forename>George</forename>
+               </persName>
+            </person>
+            <person>
+               <persName xml:id="jmlper003">
+                  <surname>Beaver</surname>
+                  <forename>Jacob G.</forename>
+                  <roleName>1st Lt.</roleName>
+               </persName>
+            </person>
+            <person xml:id="jmlper004">
+               <persName>
+                  <surname>Campbell</surname>
+                  <forename>William F.</forename>
+                  <roleName>1st Lt.</roleName>
+               </persName>
+            </person>
+            <person xml:id="jmlper005">
+               <persName>
+                  <surname>M'Clure</surname>
+                  <forename>Hugh</forename>
+                  <roleName>1st Lt.</roleName>
+               </persName>
+            </person>
+            <person xml:id="jmlper006">
+               <persName>
+                  <surname>Smith</surname>
+                  <forename>Aaron</forename>
+                  <roleName>2nd Lt.</roleName>
+               </persName>
+            </person>
+            <person xml:id="jmlper007">
+               <persName>
+                  <surname>Linn</surname>
+                  <forename>John Blair</forename>
+               </persName>
+            </person>
+            <person xml:id="jmlper008">
+               <persName>
+                  <surname>Burnside</surname>
+                  <forename>Ambrose</forename>
+                  <ref target="https://www.wikidata.org/wiki/Q355444"/>
+               </persName>
+            </person>
+<!--            <person>Jacob H. Santo	2d Lt.</person>
+            <person>David C. Brown	2d Lt.</person>
+            <person>George Breon	1st Sergeant</person>
+            <person>Jacob Nyhart	1st Sergeant</person>
+            <person>Matthew Vandine	1st Sergeant</person>
+            <person>Harrison Hause	Sergeant</person>
+            <person>George W. Brown	Sergeant</person>
+            <person>John Aldendarfer	Sergeant</person>
+            <person>James Kincaid	Sergeant</person>
+            <person>Daniel M. Wetzell	Sergeant</person>
+            <person>Seth' J. Housel	Sergeant</person>
+            <person>William Allison	Sergeant</person>
+            <person>
+               H. J. Lingerman	Corporal</person><person>
+                  John Grambling	Corporal</person><person>
+                     George H. Knauf	Corporal</person><person>
+                        Alfred Durst	Corporal</person><person>
+                           Henry Fogleman	Corporal</person><person>
+                              Michael Lepley	Corporal</person><person>
+                                 Andrew Knepp	Corporal</person><person>
+                                    Deitrick Beckman	Corporal</person><person>
+                                       R. A. M. Harner	Corporal</person><person>
+                                          H. C. M'Cormick	Corporal</person><person>
+                                             J. Backenhamer	Corporal</person><person>
+                                                Henry B. Wetzell	Corporal</person><person>
+                                                   Reuben Baker	Corporal</person><person>
+                                                      Peter Koser	Corporal</person><person>
+                                                         Nicholas Nicholas	Corporal</person><person>
+                                                            Robert Henry	Corporal</person><person>
+                                                               Henry J. Warner	Corporal</person><person>
+                                                                  H. Co'y M'Cormick	Corporal</person><person>
+                                                                     John Q. Adams	Corporal</person><person>
+                                                                        Charles Merrill	Corporal</person><person>
+                                                                           James L. Schooley	Corporal</person><person>
+                                                                              Jacob Moore	Musician</person><person>
+                                                                                 Andrew Bernade	Musician</person><person>
+                                                                                    Chas. P. M'Fadden	Musician</person><person>
+                                                                                       Allshouse, Peter	Private</person><person>
+                                                                                          Armpriester, Wm.	Private</person><person>
+                                                                                             Angstadt, Jonas	Private</person><person>
+                                                                                                Ayers, James	Private</person><person>
+                                                                                                   Auchenbaugh, Wm.	Private</person><person>
+                                                                                                      Angstadt, Mabury	Private</person><person>
+                                                                                                         Baldwin, Eleazer	Private</person><person>
+                                                                                                            Blunt, James	Private</person><person>
+                                                                                                               Beehn, Henry	Private</person><person>
+                                                                                                                  Bomgardner, Dan'l	Private</person><person>
+                                                                                                                     Brownfield, John	Private</person><person>
+                                                                                                                        Boyer, William	Private</person><person>
+                                                                                                                           Boyer, John	Private</person><person>
+            Bordwell, Dawn1 C.	Private</person><person>
+            Bobst, David	Private</person><person>
+            Benner, Lewis J	Private</person><person>
+            Bower, Harrison	Private</person><person>
+            Boone, Daniel	Private</person><person>
+            Berkeylile, David	Private</person><person>
+            Bennett, Miles	Private</person><person>
+            Brensinger, Levi	Private</person><person>
+            Beaver, Henry	Private</person><person>
+            Beck, Isaac	Private</person><person>
+            Bear, Edward	Private</person><person>
+            Beightol, Thomas	Private</person><person>
+            Britton, Simon	Private</person><person>
+            Brown, Asa	Private</person><person>
+            Buskirk, Jacob	Private</person><person>
+            Bastian, Peter	Private</person><person>
+            Bastian, Abraham	Private</person><person>
+            Carey, George W.	Private</person><person>
+            Cusseck, Northeil	Private</person><person>
+            Clouser, Charles	Private</person><person>
+            Clark, David	Private</person><person>
+            Corl, John	Private</person><person>
+            Chrisher, Wm. F.	Private</person><person>
+            Christie, James	Private</person><person>
+            Cox. George	Private</person><person>
+            Calhoun, Wm. F.	Private</person><person>
+            Crossmire, John J.	Private</person><person>
+            Clark, Joseph A.	Private</person><person>
+            Doyle, Mathew	Private</person><person>
+            Doyle, James	Private</person><person>
+            Dysher. Mathias	Private</person><person>
+            Dumheller, Abner	Private</person><person>
+            Dilloplains, Mahl'n.	Private</person><person>
+            Dawson, John L.	Private</person><person>
+            Dye, Richard	Private</person><person>
+            Dopp, John P.	Private</person><person>
+            De Haven, Reuben	Private</person><person>
+            Dibelgorn, John J.	Private</person><person>
+            Doughty, Wm. H.	Private</person><person>
+            Dougherty, John	Private</person><person>
+            Dougherty, James	Private</person><person>
+            Doughty, Calvin	Private</person><person>
+            Eberly, Andrew F.	Private</person><person>
+            Erwin, Frederick	Private</person><person>
+            Erdley, John W.	Private</person><person>
+            Everett, William	Private</person><person>
+            Eglof, Samuel	Private</person><person>
+            Espenship David	Private</person><person>
+            Fies, Henry	Private</person><person>
+            Fike, John	Private</person><person>
+            Forte, George W.	Private</person><person>
+            Feuring, George	Private</person><person>
+            Frederick, Ebene'r	Private</person><person>
+            Farley, Samuel	Private</person><person>
+            Fox, Wm. H. R.	Private</person><person>
+            Frynte, George H.	Private</person><person>
+            Grambling, Jacob	Private</person><person>
+            Getty, David H.	Private</person><person>
+            Gardner, William	Private</person><person>
+            Gallagher, Wm.	Private</person><person>
+            Grier, Thomas G.	Private</person><person>
+            Goss, Simon.	Private</person><person>
+            Henry, Adam	Private</person><person>
+            Hefner, Jonathan	Private</person><person>
+            Ioffman, Thomas	Private</person><person>
+            Heffilfinger, Geo.	Private</person><person>
+            Hertzog, Emanuel	Private</person><person>
+            Hartline, Daniel	Private</person><person>
+            Hartline, David	Private</person><person>
+            Haas, William	Private</person><person>
+            Harris, Joseph	Private</person><person>
+            Humphrey, John	Private</person><person>
+            Hulslander, Geo. F.	Private</person><person>
+            Holland, Thomas	Private</person><person>
+            Hartz, John	Private</person><person>
+            Harding, Jewett S.	Private</person><person>
+            Hitesman, Isaiah	Private</person><person>
+            Hain, Henry	Private</person><person>
+            Hain, John	Private</person><person>
+            Ingerson, Hilnan	Private</person><person>
+            Isbie], August	Private</person><person>
+            Jones, Thomas	Private</person><person>
+            Kritz, Daniel	Private</person><person>
+            Kelley, James T.	Private</person><person>
+            Knepp, Simon	Private</person><person>
+            Krep, Simon	Private</person><person>
+            Kyszeroski, Joseph	Private</person><person>
+            Kelley, James A.	Private</person><person>
+            Keiffer, Henry J.	Private</person><person>
+            Knode, Albion G.	Private</person><person>
+            Leimbach, J. Cal'n.	Private</person><person>
+            Lott, John W.	Private</person><person>
+            Leamon, John E.	Private</person><person>
+            Lyon, Conrad	Private</person><person>
+            Lattimer, William J.	Private</person><person>
+            Lenig, Jaco.	Private</person><person>
+            Lepley, William	Private</person><person>
+            Lynch, Thomas J.	Private</person><person>
+            Murphy, Joseph	Private</person><person>
+            Moyer, Daniel	Private</person><person>
+            Mocherman, John H.	Private</person><person>
+            Moll, Joseph A.	Private</person><person>
+            Marr, Thomas P.	Private</person><person>
+            Miller, William A.	Private</person><person>
+            Moore, John	Private</person><person>
+            Miller, Henry	Private</person><person>
+            Myers, William H.	Private</person><person>
+            Moyer, Daniel B.	Private</person><person>
+            Miller, John	Private</person><person>
+            Miller, Daniel S.	Private</person><person>
+            Murphy, John	Private</person><person>
+            Miller, Jeremiah	Private</person><person>
+            Murphy, James	Private</person><person>
+            Meisse, George	Private</person><person>
+            Miller, Samuel S.	Private</person><person>
+            Marks, Levi	Private</person><person>
+            M'Murtrie, Isaac	Private</person><person>
+            M'Ewen, Samuel S.	Private</person><person>
+            Neiman, John A.	Private</person><person>
+            Oaks, William L.	Private</person><person>
+            Purcell, George	Private</person><person>
+            Phillips, A. F. C.	Private</person><person>
+            Passell, Robert W.	Private</person><person>
+            Pareby, Joseph	Private</person><person>
+            Pearson, James C.	Private</person><person>
+            Phliger, Jacob	Private</person><person>
+            Rhoades, Jacob	Private</person><person>
+            Rexford, Henry E.	Private</person><person>
+            Ream, Jacob	Private</person><person>
+            Ritter, John F.	Private</person><person>
+            Snyder, Nathaniel	Private</person><person>
+            Smith, Peter	Private</person><person>
+            Smith, David	Private</person><person>
+            Slottman, Daniel	Private</person><person>
+            Swab, William	Private</person><person>
+            Snyder, Samuel	Private</person><person>
+            Shreck, John V.	Private</person><person>
+            Swarerly, Adam	Private</person><person>
+            Serwatyues, Joseph	Private</person><person>
+            Shappee, Devier	Private</person><person>
+            Shaffer, Levi J.	Private</person><person>
+            Search, Thomas F.	Private</person><person>
+            Shotley, William	Private</person><person>
+            Smith, John D.	Private</person><person>
+            Smith, John H.	Private</person><person>
+            Scales, Edwin N. B.	Private</person><person>
+            Souders, Ephraim	Private</person><person>
+            Shriner, William H.	Private</person><person>
+            Smith, Jacob	Private</person><person>
+            Smith, Isaiah	Private</person><person>
+            Smith, Frederick.	Private</person><person>
+            Shuler, Harrison	Private</person><person>
+            Stewart, Charles R.	Private</person><person>
+            Sullivan. Patrick	Private</person><person>
+            Steltz, William	Private</person><person>
+            Smith, John F.	Private</person><person>
+            Snyder, Nathaniel	Private</person><person>
+            Turner, James	Private</person><person>
+            Taylor, Samuel	Private</person><person>
+            Titus, Lewis G.	Private</person><person>
+            Temple, Chas. W. A.	Private</person><person>
+            Umstead, John C.	Private</person><person>
+            Uhl, Christian	Private</person><person>
+            Updegraph, Lewis	Private</person><person>
+            Vangeeser, George	Private</person><person>
+            Williamson, James	Private</person><person>
+            Wellings, Wm. J.	Private</person><person>
+            Wentzell, Jacob	Private</person><person>
+            Weaver, Thomas	Private</person><person>
+            Wiery, William	Private</person><person>
+            Wagore, George	Private</person><person>
+            Wood, Aaron A.	Private</person><person>
+            Williamson, Aaron	Private</person><person>
+            Wittes, Isaac	Private</person><person>
+            Watkins, Benjamin	Private</person><person>
+            Williams, William	Private</person><person>
+            Weisenbach, Ant'y.	Private</person><person>
+            Weisenbach, Leo	Private</person><person>
+            Youngman, John C.	Private</person><person>
+            Yoder, David	Private</person><person>
+            Young, David J.	Private</person><person>
+            Zeehman, Charles	Private</person><person>
+            -->
+            
+         </listPerson>
+      </body>
+  </text>
+</TEI>
