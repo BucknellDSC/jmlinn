@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary45.jpg"/>
+            <dateline>Wednesday 5.</dateline>
+            <p>The day was pleasnt, the water rough, however. This afternoon we had a
+               threatened storm that didn't amount to much but it was magnificent to behold.
+               The sunset was very fine too. In the open space between a bank of clouds that
+               rested on the shore and those that covered the sun there was the richest
+               [tracery?] in scarlet and vermillion, and above in the dark mess of clouds one
+               open spot golden hued. </p>
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary46.jpg"/>
+            <fw>Wednesday Mar. 5 continued</fw>
+            <p>My company tried their rifles, shooting the rounds, at a [?] about
+               200 yards off. They shot very accurately. The rocking of the boat prevented
+               perfect accuracy of aim. I amused myself walking on deck, and writing
+               a letter to the Chronicle. We despatched our letters this morning. We have
+               such an abundance of fresh shad that we have got disgusted with it.
+               Dr. Noble came on board and went to the Scout. Our surgeon is still sick
+               in bed. He prescribes, however, and the [?] are experienced enough
+               to get along. I hope he has received a lesson that he will not forget.</p>
+            <p>I saw today the illustrations of the Bombardment of Ft. Barton in [?]
+               Leslie adn New York Illus. news. The first is truthful but the latter is
+               nothing at all like it except the ships, and those anyone can make.</p>
+            <p>Our sutler got on board this day and has his goods. There is nothing to do
+               here and much less to say about it. Each mess of officers have a table by themselves
+               and the [styles?] are as various as the men. It is a much more comfortable
+               way than the hotch potch we had before. We are no longer in danger of suffering
+               for want of water, as we have a [?] was finished today, making 1400 gallons in
+               24 hours. We usually consumed 700 gallons a day. We have just heard very 
+               distrastrous new -- that Banks was defeated at Leesburg and 14,000 men taken prisoner.
+               The news was brought her from the Pilot-boy. It is very improbable. He
+               may however have crossed the Potomac, and they massed on him. It leaves us
+               in horrible suspense until morning.</p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary46.jpg"/>            
+            <dateline>Thursday 6.</dateline>
+            <p>This was a delicious day. We were trying our Enfields again this moroning at
+               about nine hundred yards. The boys were delighted that they could fire so effectively
+               at such a distance. We can hardly blame reporters that they give such different accounts
+               of things, for no two seem hardly seem to see alike. We were today discussing whether Lt.
+               Selden, who lay dead at the embrasure in the battery we took, had boots on. 3
+               or so asserted that he had top boots -- others that he wore shoes. We even located him at 
+               different places in the battery. We are inclined to think that the story of Banks'
+               defeat is a canard. Sgt was on shore and says teh report had been flying
+               around there several days -- that they had papers to the 27th which said nothing
+               about it. It is said that the Spaulding is to be in soon, and that we
+               are not to go until it comes. We think that the ships are very nearly all
+               embarked, on board the different vessels. I hope the Spaulding  will bring
+               us a mail. I would like to hear some thing about what has happened
+               since the taking of Savannah and Nashville. This is Lt Beaver's Birthday
+               entering his twenty second year.</p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary46.jpg"/>
+            <dateline>Friday 7</dateline>
+            <p>There came up a storm last night, raing and snowing, and blowing fearfully, which
+               continued through greater part of today. The Sound was very rough, boats could not leave
+               the ship. We passed the day as usual. I got hold of Lansings pictorial fact book,
+               and amused myself reading and copying the sketches. This evening the sunset
+               was beautifully clear. We hardly think that we will sail before Monday.
+               Tomorrow or Sunday it is not probable that we will start. Our surgeon still
+               continues in bed, and we would not get another on account of the roughness
+               of the sea. We had an argument this evening whether the expression "tomorrow
+               is Saturday," or "tomorrow will be Saturday" is right. I took the former &amp;
+               Shorkley the latter. It is an affirmation of the "tomorrow" abstractly --
+               we wish to express the future will would be proper -- But to simply
+               predicate that of tomorrow it is Saturday, I think the present can be used.
+            </p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary46.jpg"/>
+            <dateline>Saturday 8th.</dateline>
+            <p>This is a splendid day. It's pure adn bracing. The Sound nearly calm. Dr. Hassack
+               turns up to-day to be sick with the varioloid. We sent two more men ashore today, Moseby [?]
+               and Kause [?] That makes nine men we have in the hospital. We have another man taken
+               with the symptoms, pain in the back &amp; limbs, &amp; may turn out of the same disease.
+               We are still lying off Roanoke Island. The ships all appear to be in positions and loaded.
+               with their freight. It looked lively and cheerful, &amp; we were in momentary expectation of
+               orders to start. This is the day it is said that the draft men in North Carolina
+               were to muster. There were two boats with troops went up the Sound, and it was 
+               said they were going to Columbia, or the Albemarle, where one of the musters were
+               to take place. I only hate this confinement on ship-board. It is breeding sickness
+               fast. The Cap &amp; 1st Lieut of Co. I. were left on shore sick. Lt. [?] of Co. [?]
+               has been sent from the Scout. The Adjt had a slight attack of hemmorhage of the 
+               lungs today, and I heard it whispered that he was going to resign. The muster at [?]
+               [?] is said to cover a loyal movement, and our expedition is said to be on hand for the [?]
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary47.jpg"/>
+               <fw>Saturday March 8th contd.</fw>
+               of aiding it. We had a fellow in one of our companies who shot a hole through his hand at
+               Camp Union. He has been well cared for and required nursing day and night. When
+               he could not bear the prssure of something or other the nurse held the artery. But 
+               he is one of those who expects and demands all attention and shows not the slightest
+               gratitude, but requires everything with a growl. The artery has frequently broken off
+               and had to be retied -- in every instance almost owing to his ungovernable [?]. The 
+               last time it broke was during one night that he wished to sit up, and he could 
+               not sit unless propped and could not be propped without taking all the 
+               blankets and coats of the nurses -- who were tired and wished to sleep &amp; refused, 
+               and he broke into a fit of anger -- cursed &amp; swore -- and in the paroxysm the
+               artery broke. It may require the loss of his arm to save his life.</p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary47.jpg"/>
+            <dateline>Sunday 9th</dateline>
+            <p>This was the finest day we have had yet, especially in contrast with the stormy preceding
+               ones. The air deliciously pure, the sun bright &amp; warm, so that it was relaxing to be on 
+               deck. We had company inspection and the doctor inspected us too. We had to send 
+               Knode adn Adam [Hemy?] on shore, the former with the mumps and the latter with 
+               symptoms, either of fever or small pox. They were both very reluctant. We spent 
+               the day reading, loafing and smoking. Lt. Beaver went on shore to see the sick. All are 
+               doing very well except Kelly, whose face is swollen so as not to be recognizable. 
+               [NAME?] has turned out small pox too. The vessels that went up the Sound re-
+               turned this evening. There is a vague report that they have 2000 prisoners but is very
+               improbable. The different regiments appear to fear our Regiment worse than the 
+               rebels. It is [?] that we have the small pox bad. We have everybody
+               that has the least symptoms of sickness sent ashore, and I really believe that 
+               [?] Lt Lynch is the only officer that had the varoioid. He is doing very 
+               well. Buskin &amp; Cap. Perkin are sick, but not with that disease. 
+               The Col. was telling us taht there has been a quiet fight going on to oust our 
+               Regiment from the expedition. There was an effort of the kind at Annapolis.
+               There Dr. Church ordered our Regiment into camp, but Gen. Reno evinced a 
+               determination to the contrary, and stood by us. The wish to have the glory ex-
+               clusively Eastern. But our officers kept their eyes open, and Gen Reno happily
+               being a Pennsylvanian has stood by us. The impression appears to be that we 
+               will sail tomorrow at nine o'clock, but as to which way there seems to be 
+               a doubt. Morris says we are going to Newbern. But why all the vessels
+               and troops were brought up from Hatteras to return. The same route seems 
+               queer. However there is no telling where it will be. One thing we feel confident 
+               about is that our generals what they are doing, and will certainly take 
+               us safely through. I am anxious to get papers and letters to Reno. What 
+               they are doing in the outside world. We are to take three schooners in 
+               tow.</p>            
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary47.jpg"/>
+            <dateline>Monday 10th</dateline>
+            <p>I think the news about Norfolk is a humbug. The navy not being ready 
+               probably delayed us. I won't believe any reports any more. Alcott was on board 
+               and told us that we were to go to Washington and march from there to Newbern 
+               a distance of 35 miles. This may be true. An order came to have stairs up 
+               at six o'clock in the morning and to follow the Northerner. The gunboats 
+               went away some-place this afternoon, and is blowing fiercely this 
+               afternoon. The Dr. told me he thought that Kelly would die. His face is swollen 
+               very much, and he is a perfect scab from the crown of his head to the sole of his foot. 
+               Our boys there tell us that it was owing to his impudence -- he would pull off 
+               his clothes when he came there and caught cold. He was very stout and nasty, 
+               [?] was always so cross-grained and ill-natured -- not ill natured -- but troublesome 
+               &amp; contrary -- that he was a nuisance to Surgeon and Captain. He has not drilled 
+               more than two weeks since he has been in the service. I regret very much that it 
+               is so, for I rather liked him, and he did very well for the last two or three weeks, 
+               after I had roughed him down. We can't expect to take all home with us, however. 
+               The moon is shining tonight, and we have moonlight nights to fight under. </p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary47.jpg"/>
+            <dateline>Tuesday 11th</dateline>
+            <p>It rained this morning, but cleared off, cool and bright. The fleet got under weigh about 
+               nine o'clock, and under steam and sail, with the Scout, Smith, and another schooner in tow 
+               about four o'clock, the Cossack anchored in Pamlico sound off Hatteras Inlet. The New York 
+               got aground just as she was rounding the point from Croatan into Roanoke Sound, and 
+               the Admiral off long shoal way. The Cossack was the first steam transport in to anchorage  
+               the gunboats, the [?], Hussar and other gunboats that carried troopers were here before us.</p>
+            
+            <fw>Tuesday March 11th 1862 continued.</fw> <p>The day passed without incident. I
+               spent most of the day reading Lossing‚Äôs pictorial field book, so far as it
+               related to North Carolina. One cannot help thinking that if they [slaves?] the
+               same spirit as they did in the days of the revolution it will be a difficult
+               matter to conquer. But their cause is not just as it was then - North Carolina
+               is not in heart as it was then. The men are as brave no doubt: but their enemy
+               is not three thousand miles away. There is not [Chatham?] in the Federal
+               Congress, or any portion of the people in the North that espouse their cause.
+               Their social institution is false at bottom. Capt [Ricot?] remarked to us that
+               there would not be such an universal resistance if it were not for the women.
+               In the [Michdenburg?] District in the days of the revolution the young ladies
+               formed an association agreeing not to receive the attentions of any young man
+               who did not join the army in defense of their country's rights, [?] a man who
+               would not fight for his country, would not be fit to be a protector of them.
+               Perhaps the feeling arises from the stories of rapes &amp; robberies told of
+               our army - perhaps because it is said we would arm their slave against them.
+               They know well that their husbands and brothers make concubines of their slaves
+               - that the slave if freed might wreak their vengeance on them. If I were a
+               Southern women my fears, if I honestly believed this of the northern design,
+               would drive me to a desperation. A tug boat came along side telling us she has
+               a mail for us - The last we had was about the 21st &amp; 22nd of February. 17
+               days ago. That was the last newspaper news we received. This will [bring?] a
+               little later. We appear more anxious to receive this than any other - perhaps
+               in prospect of a battle near - and it will be the last time many of us will
+               hear from home.</p>
+         </div>
+      </body>
+  </text>
+</TEI>
