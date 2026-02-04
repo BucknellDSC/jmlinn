@@ -846,6 +846,12 @@ milestone {
     display: none;
 }
 
+name[type = "weather"] {
+    color: purple;
+    display: inline;
+    font-weight: bold;
+}
+
 note {
     display: block;
     color: #999;
