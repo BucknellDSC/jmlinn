@@ -18,8 +18,7 @@
             </address>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-                  Attribution-NonCommercial-ShareAlike 4.0 International
-               </licence>
+                  Attribution-NonCommercial-ShareAlike 4.0 International </licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -34,47 +33,35 @@
          <listPerson>
             <person xml:id="jmlper001">
                <persName type="standard">James Merrill Linn</persName>
-               <persName type="ordered">   
-                  <surname>Linn</surname>
-                  <forename>James Merrill</forename>
-                  <roleName>Captain</roleName>
-               </persName>
-               <affiliation>PA 51st Co. H</affiliation>
+               <occupation>lawyer</occupation>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
             <person xml:id="jmlper002">
-               <persName>
-                  <roleName>Captain</roleName>
-                  <surname>Shorkley</surname>
-                  <forename>George</forename>
-               </persName>
+               <persName type="standard">George Shorkley</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
-            <person>
-               <persName xml:id="jmlper003">
-                  <surname>Beaver</surname>
-                  <forename>Jacob G.</forename>
-                  <roleName>1st Lt.</roleName>
-               </persName>
+            <person xml:id="jmlper003">
+               <persName>Jacob G. Beaver</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
             <person xml:id="jmlper004">
-               <persName>
-                  <surname>Campbell</surname>
-                  <forename>William F.</forename>
-                  <roleName>1st Lt.</roleName>
-               </persName>
+               <persName>William F. Campbell</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
             <person xml:id="jmlper005">
-               <persName>
-                  <surname>M'Clure</surname>
-                  <forename>Hugh</forename>
-                  <roleName>1st Lt.</roleName>
-               </persName>
+               <persName>Hugh M'Clure</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
             <person xml:id="jmlper006">
-               <persName>
-                  <surname>Smith</surname>
-                  <forename>Aaron</forename>
-                  <roleName>2nd Lt.</roleName>
-               </persName>
+               <persName>Aaron Smith</persName>
+               <persName>Hugh M'Clure</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
             <person xml:id="jmlper007">
                <persName>
@@ -83,247 +70,301 @@
                </persName>
             </person>
             <person xml:id="jmlper008">
-               <persName>
-                  <surname>Burnside</surname>
-                  <forename>Ambrose</forename>
-                  <ref target="https://www.wikidata.org/wiki/Q355444"/>
-               </persName>
+               <persName type="standard">Ambrose Burnside</persName>
+               <ref target="https://www.wikidata.org/wiki/Q355444"/>
+               <occupation>soldier</occupation>
+               <affiliation>Union Army</affiliation>
             </person>
-<!--            <person>Jacob H. Santo	2d Lt.</person>
-            <person>David C. Brown	2d Lt.</person>
-            <person>George Breon	1st Sergeant</person>
-            <person>Jacob Nyhart	1st Sergeant</person>
-            <person>Matthew Vandine	1st Sergeant</person>
-            <person>Harrison Hause	Sergeant</person>
-            <person>George W. Brown	Sergeant</person>
-            <person>John Aldendarfer	Sergeant</person>
-            <person>James Kincaid	Sergeant</person>
-            <person>Daniel M. Wetzell	Sergeant</person>
-            <person>Seth' J. Housel	Sergeant</person>
-            <person>William Allison	Sergeant</person>
-            <person>
-               H. J. Lingerman	Corporal</person><person>
-                  John Grambling	Corporal</person><person>
-                     George H. Knauf	Corporal</person><person>
-                        Alfred Durst	Corporal</person><person>
-                           Henry Fogleman	Corporal</person><person>
-                              Michael Lepley	Corporal</person><person>
-                                 Andrew Knepp	Corporal</person><person>
-                                    Deitrick Beckman	Corporal</person><person>
-                                       R. A. M. Harner	Corporal</person><person>
-                                          H. C. M'Cormick	Corporal</person><person>
-                                             J. Backenhamer	Corporal</person><person>
-                                                Henry B. Wetzell	Corporal</person><person>
-                                                   Reuben Baker	Corporal</person><person>
-                                                      Peter Koser	Corporal</person><person>
-                                                         Nicholas Nicholas	Corporal</person><person>
-                                                            Robert Henry	Corporal</person><person>
-                                                               Henry J. Warner	Corporal</person><person>
-                                                                  H. Co'y M'Cormick	Corporal</person><person>
-                                                                     John Q. Adams	Corporal</person><person>
-                                                                        Charles Merrill	Corporal</person><person>
-                                                                           James L. Schooley	Corporal</person><person>
-                                                                              Jacob Moore	Musician</person><person>
-                                                                                 Andrew Bernade	Musician</person><person>
-                                                                                    Chas. P. M'Fadden	Musician</person><person>
-                                                                                       Allshouse, Peter	Private</person><person>
-                                                                                          Armpriester, Wm.	Private</person><person>
-                                                                                             Angstadt, Jonas	Private</person><person>
-                                                                                                Ayers, James	Private</person><person>
-                                                                                                   Auchenbaugh, Wm.	Private</person><person>
-                                                                                                      Angstadt, Mabury	Private</person><person>
-                                                                                                         Baldwin, Eleazer	Private</person><person>
-                                                                                                            Blunt, James	Private</person><person>
-                                                                                                               Beehn, Henry	Private</person><person>
-                                                                                                                  Bomgardner, Dan'l	Private</person><person>
-                                                                                                                     Brownfield, John	Private</person><person>
-                                                                                                                        Boyer, William	Private</person><person>
-                                                                                                                           Boyer, John	Private</person><person>
-            Bordwell, Dawn1 C.	Private</person><person>
-            Bobst, David	Private</person><person>
-            Benner, Lewis J	Private</person><person>
-            Bower, Harrison	Private</person><person>
-            Boone, Daniel	Private</person><person>
-            Berkeylile, David	Private</person><person>
-            Bennett, Miles	Private</person><person>
-            Brensinger, Levi	Private</person><person>
-            Beaver, Henry	Private</person><person>
-            Beck, Isaac	Private</person><person>
-            Bear, Edward	Private</person><person>
-            Beightol, Thomas	Private</person><person>
-            Britton, Simon	Private</person><person>
-            Brown, Asa	Private</person><person>
-            Buskirk, Jacob	Private</person><person>
-            Bastian, Peter	Private</person><person>
-            Bastian, Abraham	Private</person><person>
-            Carey, George W.	Private</person><person>
-            Cusseck, Northeil	Private</person><person>
-            Clouser, Charles	Private</person><person>
-            Clark, David	Private</person><person>
-            Corl, John	Private</person><person>
-            Chrisher, Wm. F.	Private</person><person>
-            Christie, James	Private</person><person>
-            Cox. George	Private</person><person>
-            Calhoun, Wm. F.	Private</person><person>
-            Crossmire, John J.	Private</person><person>
-            Clark, Joseph A.	Private</person><person>
-            Doyle, Mathew	Private</person><person>
-            Doyle, James	Private</person><person>
-            Dysher. Mathias	Private</person><person>
-            Dumheller, Abner	Private</person><person>
-            Dilloplains, Mahl'n.	Private</person><person>
-            Dawson, John L.	Private</person><person>
-            Dye, Richard	Private</person><person>
-            Dopp, John P.	Private</person><person>
-            De Haven, Reuben	Private</person><person>
-            Dibelgorn, John J.	Private</person><person>
-            Doughty, Wm. H.	Private</person><person>
-            Dougherty, John	Private</person><person>
-            Dougherty, James	Private</person><person>
-            Doughty, Calvin	Private</person><person>
-            Eberly, Andrew F.	Private</person><person>
-            Erwin, Frederick	Private</person><person>
-            Erdley, John W.	Private</person><person>
-            Everett, William	Private</person><person>
-            Eglof, Samuel	Private</person><person>
-            Espenship David	Private</person><person>
-            Fies, Henry	Private</person><person>
-            Fike, John	Private</person><person>
-            Forte, George W.	Private</person><person>
-            Feuring, George	Private</person><person>
-            Frederick, Ebene'r	Private</person><person>
-            Farley, Samuel	Private</person><person>
-            Fox, Wm. H. R.	Private</person><person>
-            Frynte, George H.	Private</person><person>
-            Grambling, Jacob	Private</person><person>
-            Getty, David H.	Private</person><person>
-            Gardner, William	Private</person><person>
-            Gallagher, Wm.	Private</person><person>
-            Grier, Thomas G.	Private</person><person>
-            Goss, Simon.	Private</person><person>
-            Henry, Adam	Private</person><person>
-            Hefner, Jonathan	Private</person><person>
-            Ioffman, Thomas	Private</person><person>
-            Heffilfinger, Geo.	Private</person><person>
-            Hertzog, Emanuel	Private</person><person>
-            Hartline, Daniel	Private</person><person>
-            Hartline, David	Private</person><person>
-            Haas, William	Private</person><person>
-            Harris, Joseph	Private</person><person>
-            Humphrey, John	Private</person><person>
-            Hulslander, Geo. F.	Private</person><person>
-            Holland, Thomas	Private</person><person>
-            Hartz, John	Private</person><person>
-            Harding, Jewett S.	Private</person><person>
-            Hitesman, Isaiah	Private</person><person>
-            Hain, Henry	Private</person><person>
-            Hain, John	Private</person><person>
-            Ingerson, Hilnan	Private</person><person>
-            Isbie], August	Private</person><person>
-            Jones, Thomas	Private</person><person>
-            Kritz, Daniel	Private</person><person>
-            Kelley, James T.	Private</person><person>
-            Knepp, Simon	Private</person><person>
-            Krep, Simon	Private</person><person>
-            Kyszeroski, Joseph	Private</person><person>
-            Kelley, James A.	Private</person><person>
-            Keiffer, Henry J.	Private</person><person>
-            Knode, Albion G.	Private</person><person>
-            Leimbach, J. Cal'n.	Private</person><person>
-            Lott, John W.	Private</person><person>
-            Leamon, John E.	Private</person><person>
-            Lyon, Conrad	Private</person><person>
-            Lattimer, William J.	Private</person><person>
-            Lenig, Jaco.	Private</person><person>
-            Lepley, William	Private</person><person>
-            Lynch, Thomas J.	Private</person><person>
-            Murphy, Joseph	Private</person><person>
-            Moyer, Daniel	Private</person><person>
-            Mocherman, John H.	Private</person><person>
-            Moll, Joseph A.	Private</person><person>
-            Marr, Thomas P.	Private</person><person>
-            Miller, William A.	Private</person><person>
-            Moore, John	Private</person><person>
-            Miller, Henry	Private</person><person>
-            Myers, William H.	Private</person><person>
-            Moyer, Daniel B.	Private</person><person>
-            Miller, John	Private</person><person>
-            Miller, Daniel S.	Private</person><person>
-            Murphy, John	Private</person><person>
-            Miller, Jeremiah	Private</person><person>
-            Murphy, James	Private</person><person>
-            Meisse, George	Private</person><person>
-            Miller, Samuel S.	Private</person><person>
-            Marks, Levi	Private</person><person>
-            M'Murtrie, Isaac	Private</person><person>
-            M'Ewen, Samuel S.	Private</person><person>
-            Neiman, John A.	Private</person><person>
-            Oaks, William L.	Private</person><person>
-            Purcell, George	Private</person><person>
-            Phillips, A. F. C.	Private</person><person>
-            Passell, Robert W.	Private</person><person>
-            Pareby, Joseph	Private</person><person>
-            Pearson, James C.	Private</person><person>
-            Phliger, Jacob	Private</person><person>
-            Rhoades, Jacob	Private</person><person>
-            Rexford, Henry E.	Private</person><person>
-            Ream, Jacob	Private</person><person>
-            Ritter, John F.	Private</person><person>
-            Snyder, Nathaniel	Private</person><person>
-            Smith, Peter	Private</person><person>
-            Smith, David	Private</person><person>
-            Slottman, Daniel	Private</person><person>
-            Swab, William	Private</person><person>
-            Snyder, Samuel	Private</person><person>
-            Shreck, John V.	Private</person><person>
-            Swarerly, Adam	Private</person><person>
-            Serwatyues, Joseph	Private</person><person>
-            Shappee, Devier	Private</person><person>
-            Shaffer, Levi J.	Private</person><person>
-            Search, Thomas F.	Private</person><person>
-            Shotley, William	Private</person><person>
-            Smith, John D.	Private</person><person>
-            Smith, John H.	Private</person><person>
-            Scales, Edwin N. B.	Private</person><person>
-            Souders, Ephraim	Private</person><person>
-            Shriner, William H.	Private</person><person>
-            Smith, Jacob	Private</person><person>
-            Smith, Isaiah	Private</person><person>
-            Smith, Frederick.	Private</person><person>
-            Shuler, Harrison	Private</person><person>
-            Stewart, Charles R.	Private</person><person>
-            Sullivan. Patrick	Private</person><person>
-            Steltz, William	Private</person><person>
-            Smith, John F.	Private</person><person>
-            Snyder, Nathaniel	Private</person><person>
-            Turner, James	Private</person><person>
-            Taylor, Samuel	Private</person><person>
-            Titus, Lewis G.	Private</person><person>
-            Temple, Chas. W. A.	Private</person><person>
-            Umstead, John C.	Private</person><person>
-            Uhl, Christian	Private</person><person>
-            Updegraph, Lewis	Private</person><person>
-            Vangeeser, George	Private</person><person>
-            Williamson, James	Private</person><person>
-            Wellings, Wm. J.	Private</person><person>
-            Wentzell, Jacob	Private</person><person>
-            Weaver, Thomas	Private</person><person>
-            Wiery, William	Private</person><person>
-            Wagore, George	Private</person><person>
-            Wood, Aaron A.	Private</person><person>
-            Williamson, Aaron	Private</person><person>
-            Wittes, Isaac	Private</person><person>
-            Watkins, Benjamin	Private</person><person>
-            Williams, William	Private</person><person>
-            Weisenbach, Ant'y.	Private</person><person>
-            Weisenbach, Leo	Private</person><person>
-            Youngman, John C.	Private</person><person>
-            Yoder, David	Private</person><person>
-            Young, David J.	Private</person><person>
-            Zeehman, Charles	Private</person><person>
-            -->
-            
+            <person xml:id="jmlper009">
+               <persName>A.F.C. Phillips</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
+            </person>
+            <person xml:id="jmlper010">
+               <persName>Adam Henry</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
+            </person>
+            <person xml:id="jmlper011">
+               <persName>Albert Sidney Johnson</persName>
+               <ref type="https://www.wikidata.org/wiki/Q361140"/>
+               <occupation>soldier</occupation>
+               <affiliation>Confederate Army</affiliation>
+            </person>
+            <person xml:id="jmlper012">
+               <persName>Alice Price</persName>
+            </person>
+            <person xml:id="jmlper013">
+               <persName>Amelia Dansen</persName>
+            </person>
+            <person xml:id="jmpler014">
+               <persName>Andrew Curtin</persName>
+               <occupation>politician</occupation>
+               <ref target="https://www.wikidata.org/wiki/Q504966"/>
+            </person>
+            <person xml:id="jmlper015">
+               <persName>Annie Catherine Linn</persName>
+            </person>
+            <person xml:id="jmlper016">
+               <persName>Laura Sheller Linn</persName>
+            </person>
+            <person xml:id="jmlper017">
+               <persName>C. Jennings Wise</persName>
+               <occupation>soldier</occupation>
+            </person>
+            <person xml:id="jmlper018">
+               <persName>Charles Drainer</persName>
+            </person>
+            <person xml:id="jmlper019">
+               <persName>Charles Mallory</persName>
+            </person>
+            <person xml:id="jmlper020">
+               <persName>Charles Merrill</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
+            </person>
+            <person xml:id="jmlper021">
+               <persName>Charles Schaffley</persName>
+            </person>
+            <person xml:id="jmlper022">
+               <persName>Daniel Bible</persName>
+            </person>
+            <person xml:id="jmlper023">
+               <persName>David Brewer</persName>
+            </person>
+            <person xml:id="jmlper024">
+               <persName>David Brown</persName>
+            </person>
+            <person xml:id="jmlper025">
+               <persName>Dick Coulter</persName>
+            </person>
+            <person xml:id="jmlper026">
+               <persName>Edward Hatch</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Union Army</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q5343364"/>
+            </person>
+            <person xml:id="jmlper027">
+               <persName>Edward Stanly</persName>
+               <occupation>politician</occupation>
+               <ref target="https://www.wikidata.org/wiki/Q1293755"/>
+            </person>
+            <person xml:id="jmlper028">
+               <persName>William H. Seward</persName>
+               <occupation>politician</occupation>
+               <ref target="https://www.wikidata.org/wiki/Q297308"/>
+            </person>
+            <person xml:id="jmlper029">
+               <persName>Em French</persName>
+            </person>
+            <person xml:id="jmlper030">
+               <persName>Frank Beale</persName>
+            </person>
+            <person xml:id="jmlper031">
+               <persName>Frank Leslie</persName>
+               <occupation>artist, illustrator</occupation>
+               <affiliation>Illustrated London News</affiliation>
+            </person>
+            <person xml:id="jmlper032">
+               <persName>Frank Porter</persName>
+            </person>
+            <person xml:id="jmlper033">
+               <persName>Frank Vizetelly</persName>
+               <occupation>correspondent</occupation>
+               <occupation>illustrator</occupation>
+               <affiliation>Illustrated London News</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q2010688"/>
+            </person>
+            <person xml:id="jmlper034">
+               <persName>Fred Herman</persName>
+            </person>
+            <person xml:id="jmlper035">
+               <persName>G. H. Hassenplug</persName>
+            </person>
+            <person xml:id="jmlper036">
+               <persName>George McClellan</persName>
+               <occupation>soldier</occupation>
+               <ref target="https://www.wikidata.org/wiki/Q310192"/>
+            </person>
+            <person xml:id="jmlper037">
+               <persName>George Peabody</persName>
+            </person>
+            <person xml:id="jmlper038">
+               <persName>Henry Shaw</persName>
+            </person>
+            <person xml:id="jmlper039">
+               <persName>Henry Shawl</persName>
+            </person>
+            <person xml:id="jmlper040">
+               <persName>Henry Wise</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Confederate Army</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q878516"/>
+            </person>
+            <person xml:id="jmlper041">
+               <persName>Jacob Buskirk</persName>
+            </person>
+            <person xml:id="jmlper042">
+               <persName>Jacob Nyhart</persName>
+            </person>
+            <person xml:id="jmlper043">
+               <persName>Jacob Santo</persName>
+            </person>
+            <person xml:id="jmlper044">
+               <persName>Jacob Sweitzer</persName>
+            </person>
+            <person xml:id="jmlper045">
+               <persName>James A. Kelley</persName>
+            </person>
+            <person xml:id="jmlper046">
+               <persName>James Conoway</persName>
+            </person>
+            <person xml:id="jmlper047">
+               <persName>James Gibson</persName>
+            </person>
+            <person xml:id="jmlper048">
+               <persName>Jeremiah Miller</persName>
+            </person>
+            <person xml:id="jmlper049">
+               <persName>Jeremiah Morse</persName>
+            </person>
+            <person xml:id="jmlper050">
+               <persName>Jerry Miller</persName>
+            </person>
+            <person xml:id="jmlper051">
+               <persName>John Blair Linn</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Pennsylvania 51st, Co. H</affiliation>
+            </person>
+            <person xml:id="jmlper052">
+               <persName>John Brown</persName>
+               <occupation>abolitionist</occupation>
+               <ref target="https://www.wikidata.org/wiki/Q189366"/>
+            </person>
+            <person xml:id="jmlper053">
+               <persName>John Dawson</persName>
+            </person>
+            <person xml:id="jmlper054">
+               <persName>John E. Wool</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Union Army</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q3181406"/>
+            </person>
+            <person xml:id="jmlper055">
+               <persName>John Foster</persName>
+            </person>
+            <person xml:id="jmlper056">
+               <persName>John Hartranft</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Union Army</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q373157"/>
+            </person>
+            <person xml:id="jmlper057">
+               <persName>John Morris</persName>
+            </person>
+            <person xml:id="jmlper058">
+               <persName>John Parke</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Union Army</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q4345359"/>
+            </person>
+            <person xml:id="jmlper059">
+               <persName>John Q. Adams</persName>
+            </person>
+            <person xml:id="jmlper060">
+               <persName>Lord John Russell</persName>
+               <occupation>politician</occupation>
+               <affiliation>British Parliament</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q157259"/>
+            </person>
+            <person xml:id="jmlper061">
+               <persName>Joseph Antoine Viguier De Monteil</persName>
+            </person>
+            <person xml:id="jmlper062">
+               <persName>Joseph Atkinson</persName>
+            </person>
+            <person xml:id="jmlper063">
+               <persName>Lewis Longereau</persName>
+            </person>
+            <person xml:id="jmlper064">
+               <persName>Lionel Jobert D'Epineuil</persName>
+            </person>
+            <person xml:id="jmlper065">
+               <persName>Matthew Vandine</persName>
+            </person>
+            <person xml:id="jmlper066">
+               <persName>Michael Shires</persName>
+            </person>
+            <person xml:id="jmlper067">
+               <persName>Peter Koser</persName>
+            </person>
+            <person xml:id="jmlper068">
+               <persName>Robert Ransom</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Confederate Army</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q3938402"/>
+            </person>
+            <person xml:id="jmlper069">
+               <persName>Samuel P. Heintzelman</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Union Army</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q1594218"/>
+            </person>
+            <person xml:id="jmlper070">
+               <persName>Samuel Markley</persName>
+            </person>
+            <person xml:id="jmlper071">
+               <persName>Seth Housel</persName>
+            </person>
+            <person xml:id="jmlper072">
+               <persName>Thomas Bell</persName>
+            </person>
+            <person xml:id="jmlper073">
+               <persName>Thomas Blay</persName>
+            </person>
+            <person xml:id="jmlper074">
+               <persName>Thomas Bobst</persName>
+            </person>
+            <person xml:id="jmlper075">
+               <persName>Thomas Bulger</persName>
+            </person>
+            <person xml:id="jmlper076">
+               <persName>Thomas Grier</persName>
+            </person>
+            <person xml:id="jmlper077">
+               <persName>Thomas Holliday Hicks</persName>
+               <occupation>politician</occupation>
+               <ref target="https://www.wikidata.org/wiki/Q433015"/>
+            </person>
+            <person xml:id="jmlper078">
+               <persName>Thomas O'Mara</persName>
+            </person>
+            <person xml:id="jmlper079">
+               <persName>Thomas Williams</persName>
+               <occupation>soldier</occupation>
+               <affiliation>Union Army</affiliation>
+               <ref target="https://www.wikidata.org/wiki/Q7795194"/>
+            </person>
+            <person xml:id="jmlper080">
+               <persName>W.H. Worthington</persName>
+            </person>
+            <person xml:id="jmlper081">
+               <persName>William Albaugh</persName>
+            </person>
+            <person xml:id="jmlper082">
+               <persName>William Allison</persName>
+            </person>
+            <person xml:id="jmlper083">
+               <persName>William Cameron</persName>
+            </person>
+            <person xml:id="jmlper084">
+               <persName>William Lynch</persName>
+            </person>
+            <person xml:id="jmlper085">
+               <persName>William Schaffley</persName>
+            </person>
+
          </listPerson>
       </body>
-  </text>
+   </text>
 </TEI>
