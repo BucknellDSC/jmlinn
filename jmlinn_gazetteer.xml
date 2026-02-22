@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary Personography</title>
+            <author>Diane Jakacki</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place xml:id="linnpl001">
+               <placeName>Albemarle Sound</placeName>
+               <desc>Estuary on the coast of North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1441345</idno>
+                  <geo>35.9 -76.5</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl002">
+               <placeName> Annapolis, MD </placeName>
+               <desc>City in and county seat of Anne Arundel County, Maryland, United States</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q28271</idno>
+                  <geo>38.9784 -76.4922</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl003">
+               <placeName>Baltimore</placeName>
+               <desc>City in Maryland</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q5092</idno>
+                  <geo>39.2904 -76.6122</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl004">
+               <placeName>Fort Bartow</placeName>
+               <desc>Confederate fort on Roanoke Island (renamed Foster by Union forces)</desc>
+               <ref>
+                  <geo>35.923 -75.733</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl005">
+               <placeName>Beaufort</placeName>
+               <desc>Town in Carteret County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q813374</idno>
+                  <geo>34.7182 -76.6616</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl006">
+               <placeName>Brant Island</placeName>
+               <desc>Island in Currituck County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q32845748</idno>
+                  <geo>34.9 -76.52</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl007">
+               <placeName>Bull Run</placeName>
+               <desc>Town in Prince William County, Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1376671</idno>
+                  <geo>38.8154 -77.5247</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl008">
+               <placeName>Camden</placeName>
+               <desc>Settlement in Camden County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q2934722</idno>
+                  <geo>36.3196 -76.1724</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl009">
+               <placeName>Camp Bull</placeName>
+               <desc>Union Army camp near Hatteras, North Carolina</desc>
+               <ref>
+                  <geo>35.874 -75.715</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl010">
+               <placeName>Camp Hamilton</placeName>
+               <desc>Union Army camp near Annapolis, Maryland</desc>
+               <ref>
+                  <geo>37.002 -76.313</geo>
+               </ref>
+            </place>
+            <place xml:id="linnp0l11">
+               <placeName>Camp Union</placeName>
+               <desc>Union Army camp near Annapolis, Maryland</desc>
+               <ref>
+                  <geo>38.98 -76.492</geo>
+               </ref>
+            </place>
+            <place xml:id="linnp0l12">
+               <placeName>Camp Winfield</placeName>
+               <desc>Union Army camp near Hatteras, North Carolina</desc>
+               <ref>
+                  <geo>35.207 -75.729</geo>
+               </ref>
+            </place>
+            <place xml:id="linnp0l13">
+               <placeName>Cape Hatteras</placeName>
+               <desc>Cape in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q978032</idno>
+                  <geo>35.2251 -75.5296</geo>
+               </ref>
+            </place>
+            <place xml:id="linnp0l14">
+               <placeName>Centreville, Maryland</placeName>
+               <desc>Town in and county seat of Queen Anne's County, Maryland</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q754606</idno>
+                  <geo>38.8401 -77.4291</geo>
+               </ref>
+            </place>
+            <place xml:id="linnp0l15">
+               <placeName>Charleston, South Carolina</placeName>
+               <desc>Largest city in the U.S. state of South Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q47716</idno>
+                  <geo>32.7765 -79.9311</geo>
+               </ref>
+            </place>
+            <place xml:id="linnp0l16">
+               <placeName>Columbia, North Carolina</placeName>
+               <desc>Town in Tyrrell County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q2028731</idno>
+                  <geo>35.9196 -76.2513</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl017">
+               <placeName>Connecticut</placeName>
+               <desc>State in New England</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q779</idno>
+                  <geo>41.6032 -73.0877</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl018">
+               <placeName>Corinth, Mississippi</placeName>
+               <desc>City in Mississippi</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1992093</idno>
+                  <geo>34.9343 -88.522</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl019">
+               <placeName>Craven County</placeName>
+               <desc>County in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q529958</idno>
+                  <geo>35.1 -77.1</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl020">
+               <placeName>Croatan Sound</placeName>
+               <desc>Inlet on the North Carolina coast</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q5187032</idno>
+                  <geo>35.9 -75.75</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl021">
+               <placeName>Delaware</placeName>
+               <desc>State in the Middle Atlantic United States</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1393</idno>
+                  <geo>38.9108 -75.5277</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl022">
+               <placeName>Elizabeth City</placeName>
+               <desc>City in Pasquotank County and Camden County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1018467</idno>
+                  <geo>36.2943 -76.2513</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl023">
+               <placeName>Fort Clark</placeName>
+               <desc>Union Army camp near Hatteras, North Carolina</desc>
+               <ref>
+                  <geo>35.185 -75.723</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl024">
+               <placeName>Fort Donelson</placeName>
+               <desc>Site of Civil War battle in Tennessee</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q5471081</idno>
+                  <geo>36.4854 -87.8631</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl025">
+               <placeName>Fort Ellis</placeName>
+               <desc>Union Army fort along Neuse River</desc>
+               <ref>
+                  <geo>35.048 -77.05</geo>
+               </ref>
+            </place>
+            <place xml:id="linnp0l26">
+               <placeName>Fort Foster</placeName>
+               <desc>Union Army camp on Roanoke Island</desc>
+               <ref>
+                  <geo>35.923 -75.733</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl027">
+               <placeName>Fort Hatteras</placeName>
+               <desc>Union Army camp near Hatteras, North Carolina</desc>
+               <ref>
+                  <geo>35.191 -75.732</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl028">
+               <placeName>Fort Lane</placeName>
+               <desc>Union Army fort along Neuse River</desc>
+               <ref>
+                  <geo>35.062 -77.01</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl029">
+               <placeName>Fort Macon</placeName>
+               <desc>Union Army forth along Trent River</desc>
+               <ref>
+                  <geo>34.697 -76.687</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl030">
+               <placeName>Fort Park</placeName>
+               <desc>Union Army fort near Pamlico Sound</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q5471081</idno>
+                  <geo>36.4854 -87.8631</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl031">
+               <placeName>Fort Reno</placeName>
+               <desc>Union Army fort on Roanoke Island</desc>
+               <ref>
+                  <geo>35.948 -75.728</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl032">
+               <placeName>Fort Huger</placeName>
+               <desc>Confederate fort on Roanoke Island (renamed Reno by Union forces)</desc>
+               <ref>
+                  <geo>35.948 -75.728</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl033">
+               <placeName>Fort Russell</placeName>
+               <desc>Union Army fort on Roanoke Island</desc>
+               <ref>
+                  <geo>35.9 -75.71</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl034">
+               <placeName>Fort Defiance</placeName>
+               <desc>Confederate fort on Roanoke Island (renamed Russell by Union forces)</desc>
+               <ref>
+                  <geo>35.9 -75.71</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl035">
+               <placeName>Fort Sumter</placeName>
+               <desc>Union Army fort in Charleston, South Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q737517</idno>
+                  <geo>32.7524 -79.8747</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl036">
+               <placeName>Fort Totten</placeName>
+               <desc>Union Army fort near New Bern, North Carolina</desc>
+               <ref>
+                  <geo>35.107 -77.058</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl037">
+               <placeName>Fort Monroe</placeName>
+               <desc>Union Army camp near Hampton Roads, Virginia</desc>
+               <ref>
+                  <geo>37.002 -76.313</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl038">
+               <placeName>Frederick, Maryland</placeName>
+               <desc>City in Frederick County, Maryland</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q472675</idno>
+                  <geo>39.4143 -77.4105</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl039">
+               <placeName>Goldsboro</placeName>
+               <desc>City in Wayne County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q367400</idno>
+                  <geo>35.3849 -77.993</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl040">
+               <placeName>Grape Mills</placeName>
+               <desc>locks near South Mills, North Carolina</desc>
+            </place>
+            <place xml:id="linnpl041">
+               <placeName>Great Dismal Swamp</placeName>
+               <desc>Large swamp in the coastal plain region of southeastern Virginia and
+                  northeastern North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1544257</idno>
+                  <geo>36.6 -76.5</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl042">
+               <placeName>Hagerstown, MD</placeName>
+               <desc>City in Maryland</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q755559</idno>
+                  <geo>39.6418 -77.7199</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl043">
+               <placeName>Hamilton</placeName>
+               <desc>Town in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q2028285</idno>
+                  <geo>35.9465 -77.2041</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl044">
+               <placeName>Harrisburg</placeName>
+               <desc>City in and captial of Pennsylvania</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q25280</idno>
+                  <geo>40.2732 -76.8867</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl045">
+               <placeName>Hatteras Inlet</placeName>
+               <desc>Estuary in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q5681984</idno>
+                  <geo>35.2079 -75.7291</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl046">
+               <placeName>Hatteras Light House</placeName>
+               <desc>Lighthouse on Cape Hatteras</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q2508238</idno>
+                  <geo>35.2505 -75.5284</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl047">
+               <placeName>Hyde County</placeName>
+               <desc>County in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q511659</idno>
+                  <geo>35.4 -76.2</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl048">
+               <placeName>Kingston</placeName>
+               <desc>City in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q2048581</idno>
+                  <geo>35.2627 -77.5816</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl049">
+               <placeName>Leesburg</placeName>
+               <desc>Town within and the county seat of Loudoun County, Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1012089</idno>
+                  <geo>39.1151 -77.5636</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl050">
+               <placeName>Lewisburg</placeName>
+               <desc>Borough in Union County, Pennsylvania</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1185021</idno>
+                  <geo>37.8026 -80.4462</geo></ref>
+            </place>
+            <place xml:id="linnpl051">
+               <placeName>Martinsburg</placeName>
+               <desc>City in West Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1010194</idno>
+                  <geo>39.4562 -77.9639</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl052">
+               <placeName>Maryland</placeName>
+               <desc>State in the mid-Atlantic United States</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1391</idno>
+                  <geo>39.0458 -76.6413</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl053">
+               <placeName>Mecklenburg</placeName>
+               <desc>County in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q507770</idno>
+                  <geo>35.2271 -80.8431</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl054">
+               <placeName>Memphis</placeName>
+               <desc>City in and county seat of Shelby County, Tennessee</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q16563</idno>
+                  <geo>35.1495 -90.049</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl055">
+               <placeName>Middleton Heights</placeName>
+               <desc>Hamlet in Scotland County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q122564943</idno>
+                  <geo>35.096 -77.085</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl056">
+               <placeName>Nashville</placeName>
+               <desc>Capital and largest city of Tennessee</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q23197</idno>
+                  <geo>36.1627 -86.7816</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl057">
+               <placeName>Navy Yard</placeName>
+               <desc>Shipyard and ordnance plant of the United States Navy</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1637241</idno>
+                  <geo>38.8754 -76.9956</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl058">
+               <placeName>Neuse River</placeName>
+               <desc>River in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1606944</idno>
+                  <geo>35.1 -77.05</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl059">
+               <placeName>New Berne</placeName>
+               <desc>County seat of Craven County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1002490</idno>
+                  <geo>35.108333 -77.044444</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl060">
+               <placeName>New Orleans</placeName>
+               <desc>Largest city of the state of Louisiana</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q34404</idno>
+                  <geo>29.9511 -90.0715</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl061">
+               <placeName>New York</placeName>
+               <desc>City in the state of New York</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q60</idno>
+                  <geo>40.7128 -74.006</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl062">
+               <placeName>Norfolk, Virginia</placeName>
+               <desc>City in Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q49231</idno>
+                  <geo>36.8508 -76.2859</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl063">
+               <placeName>North Carolina</placeName>
+               <desc>Sstate in the south of the United States </desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1454</idno>
+                  <geo>35.7596 -79.0193</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl064">
+               <placeName>Ocracoke inlet</placeName>
+               <desc>Inlet at the southern end of Ocracoke Island, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q3115724</idno>
+                  <geo>35.0577 -76.0097</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl065">
+               <placeName>Pamlico Sound</placeName>
+               <desc>Largest lagoon along the North American East Coast</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q2033236</idno>
+                  <geo>35.3 -76.2</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl066">
+               <placeName>Pasquotank</placeName>
+               <desc>County in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q507438</idno>
+                  <geo>36.3 -76.2</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl067">
+               <placeName>Pennsylvania</placeName>
+               <desc>State in the mid-Atlantic United States</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1400</idno>
+                  <geo>41.2033 -77.1945</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl068">
+               <placeName>Petersburg, Virginia</placeName>
+               <desc>City in Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q511964</idno>
+                  <geo>37.2279 -77.4019</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl069">
+               <placeName>Philadelphia</placeName>
+               <desc>City in Pennsylvania</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1345</idno>
+                  <geo>39.9526 -75.1652</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl070">
+               <placeName>Pork Point</placeName>
+               <desc>landing on Roanoke Island</desc>
+            </place>
+            <place xml:id="linnpl071">
+               <placeName>Pollocksville</placeName>
+               <desc>Town in Jones County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q2027412</idno>
+                  <geo>34.9954 -77.2219</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl072">
+               <placeName>Port Royal</placeName>
+               <desc>Town in Beaufort County, South Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q926275</idno>
+                  <geo>32.3774 -80.6926</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl073">
+               <placeName>Potomac River</placeName>
+               <desc>River in the mid-Atlantic United States</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q179444</idno>
+                  <geo>38 -77</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl074">
+               <placeName>Reading</placeName>
+               <desc>City in and county seat of Berks County, Pennsylvania</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q237896</idno>
+                  <geo>40.3356 -75.9269</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl075">
+               <placeName>Richmond, Virginia</placeName>
+               <desc>Capital city of Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q43421</idno>
+                  <geo>37.5407 -77.436</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl076">
+               <placeName>Roanoke Island</placeName>
+               <desc>Island in Dare County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1636839</idno>
+                  <geo>35.9 -75.66</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl077">
+               <placeName>Salisbury</placeName>
+               <desc>City in Rowan County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q2028813</idno>
+                  <geo>35.671 -80.4742</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl078">
+               <placeName>Savannah</placeName>
+               <desc>City in and county seat of Chatham County, Georgia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q83813</idno>
+                  <geo>32.0835 -81.0998</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl079">
+               <placeName>Slocum Creek</placeName>
+               <desc>Stream in Craven County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q35265801</idno>
+                  <geo>34.905 -76.91</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl080">
+               <placeName>St. John’s College</placeName>
+               <desc>Liberal arts college at Annapolis, Maryland</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q663625</idno>
+                  <geo>38.9795 -76.5008</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl081">
+               <placeName>Stumpy Point</placeName>
+               <desc>Community in Dare County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q7628724</idno>
+                  <geo>35.7365 -75.7513</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl082">
+               <placeName>Suffolk, Virginia</placeName>
+               <desc>City in Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q342428</idno>
+                  <geo>36.7282 -76.5836</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl083">
+               <placeName>Trent River</placeName>
+               <desc>River in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q15681349</idno>
+                  <geo>35.07 -77.07</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl084">
+               <placeName>Trenton</placeName>
+               <desc>Town in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1843651</idno>
+                  <geo>35.063611 -77.356111</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl085">
+               <placeName>Tuscaloosa</placeName>
+               <desc>City in Alabama</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q79580</idno>
+                  <geo>33.2098 -87.5692</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl086">
+               <placeName>Tyrell Shore</placeName>
+               <desc>Landing in Albermarle Sound</desc>
+            </place>
+            <place xml:id="linnpl087">
+               <placeName>Union College</placeName>
+               <desc>Private liberal arts college in Schenectady, New York</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1567748</idno>
+                  <geo>42.8142 -73.9301</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl088">
+               <placeName>Union County</placeName>
+               <desc>County in Pennsylvania</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q501248</idno>
+                  <geo>40.96 -77.06</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl089">
+               <placeName>Virginia</placeName>
+               <desc>State in the south United States</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1370</idno>
+                  <geo>37.4316 -78.6569</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl090">
+               <placeName>Washington N.C</placeName>
+               <desc>City in Beaufort County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1026008</idno>
+                  <geo>35.5468 -77.0527</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl091">
+               <placeName>Washington, D.C.</placeName>
+               <desc>Capital city of the United States of America</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q61</idno>
+                  <geo>38.9072 -77.0369</geo></ref>
+            </place>
+            <place xml:id="linnpl092">
+               <placeName>Weldon, North Carolina</placeName>
+               <desc>Town in Halifax County, North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q2028446</idno>
+                  <geo>36.4257 -77.5958</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl093">
+               <placeName>Williamsburg, Virginia</placeName>
+               <desc>City in Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q492346</idno>
+                  <geo>37.2707 -76.7075</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl094">
+               <placeName>Winchester</placeName>
+               <desc>City in Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q492355</idno>
+                  <geo>39.1857 -78.1633</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl095">
+               <placeName>Winton</placeName>
+               <desc>City in North Carolina</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1906573</idno>
+                  <geo>36.3929 -76.9302</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl096">
+               <placeName>Yorktown, Virginia</placeName>
+               <desc>Settlement in Virginia</desc>
+               <ref>
+                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q938699</idno>
+                  <geo>37.2388 -76.5097</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl097">
+               <placeName>Asby's Harbor</placeName>
+               <desc>Landing on Roanoke Island</desc>
+               <ref>
+                  <geo>35.8894 -75.69</geo>
+               </ref>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
