@@ -33,7 +33,7 @@
          <listPlace>
             <place xml:id="linnpl001">
                <placeName>Albemarle Sound</placeName>
-               <desc>Estuary on the coast of North Carolina</desc>
+               <note>Estuary on the coast of North Carolina</note>
                <ref>
                   <idno type="Wikidata">https://www.wikidata.org/wiki/Q1441345</idno>
                   <geo>35.9 -76.5</geo>
