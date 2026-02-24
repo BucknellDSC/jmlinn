@@ -32,19 +32,24 @@
       <body>
          <listPlace>
             <place xml:id="linnpl001">
-               <placeName>Albemarle Sound</placeName>
-               <note>Estuary on the coast of North Carolina</note>
-               <ref>
-                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1441345</idno>
+               <placeName ref="https://www.wikidata.org/wiki/Q1441345">Albemarle Sound</placeName>
+               <label>Estuary on the coast of North Carolina</label>
+               <location>
                   <geo>35.9 -76.5</geo>
-               </ref>
+               </location>
             </place>
             <place xml:id="linnpl002">
-               <placeName> Annapolis, MD </placeName>
-               <desc>City in and county seat of Anne Arundel County, Maryland, United States</desc>
-               <ref>
-                  <idno type="Wikidata">https://www.wikidata.org/wiki/Q28271</idno>
+               <placeName ref="https://www.wikidata.org/wiki/Q28271">Annapolis, MD </placeName>
+               <label>City in and county seat of Anne Arundel County, Maryland, United States</label>
+               <location>
                   <geo>38.9784 -76.4922</geo>
+               </location>
+            </place>
+            <place xml:id="linnpl097">
+               <placeName>Asby's Harbor</placeName>
+               <desc>Landing on Roanoke Island</desc>
+               <ref>
+                  <geo>35.8894 -75.69</geo>
                </ref>
             </place>
             <place xml:id="linnpl003">
@@ -53,13 +58,6 @@
                <ref>
                   <idno type="Wikidata">https://www.wikidata.org/wiki/Q5092</idno>
                   <geo>39.2904 -76.6122</geo>
-               </ref>
-            </place>
-            <place xml:id="linnpl004">
-               <placeName>Fort Bartow</placeName>
-               <desc>Confederate fort on Roanoke Island (renamed Foster by Union forces)</desc>
-               <ref>
-                  <geo>35.923 -75.733</geo>
                </ref>
             </place>
             <place xml:id="linnpl005">
@@ -202,11 +200,25 @@
                   <geo>36.2943 -76.2513</geo>
                </ref>
             </place>
+            <place xml:id="linnpl004">
+               <placeName>Fort Bartow</placeName>
+               <desc>Confederate fort on Roanoke Island (renamed Foster by Union forces)</desc>
+               <ref>
+                  <geo>35.923 -75.733</geo>
+               </ref>
+            </place>
             <place xml:id="linnpl023">
                <placeName>Fort Clark</placeName>
                <desc>Union Army camp near Hatteras, North Carolina</desc>
                <ref>
                   <geo>35.185 -75.723</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl034">
+               <placeName>Fort Defiance</placeName>
+               <desc>Confederate fort on Roanoke Island (renamed Russell by Union forces)</desc>
+               <ref>
+                  <geo>35.9 -75.71</geo>
                </ref>
             </place>
             <place xml:id="linnpl024">
@@ -252,6 +264,13 @@
                   <geo>34.697 -76.687</geo>
                </ref>
             </place>
+            <place xml:id="linnpl037">
+               <placeName>Fort Monroe</placeName>
+               <desc>Union Army camp near Hampton Roads, Virginia</desc>
+               <ref>
+                  <geo>37.002 -76.313</geo>
+               </ref>
+            </place>
             <place xml:id="linnpl030">
                <placeName>Fort Park</placeName>
                <desc>Union Army fort near Pamlico Sound</desc>
@@ -281,13 +300,6 @@
                   <geo>35.9 -75.71</geo>
                </ref>
             </place>
-            <place xml:id="linnpl034">
-               <placeName>Fort Defiance</placeName>
-               <desc>Confederate fort on Roanoke Island (renamed Russell by Union forces)</desc>
-               <ref>
-                  <geo>35.9 -75.71</geo>
-               </ref>
-            </place>
             <place xml:id="linnpl035">
                <placeName>Fort Sumter</placeName>
                <desc>Union Army fort in Charleston, South Carolina</desc>
@@ -301,13 +313,6 @@
                <desc>Union Army fort near New Bern, North Carolina</desc>
                <ref>
                   <geo>35.107 -77.058</geo>
-               </ref>
-            </place>
-            <place xml:id="linnpl037">
-               <placeName>Fort Monroe</placeName>
-               <desc>Union Army camp near Hampton Roads, Virginia</desc>
-               <ref>
-                  <geo>37.002 -76.313</geo>
                </ref>
             </place>
             <place xml:id="linnpl038">
@@ -767,13 +772,6 @@
                <ref>
                   <idno type="Wikidata">https://www.wikidata.org/wiki/Q938699</idno>
                   <geo>37.2388 -76.5097</geo>
-               </ref>
-            </place>
-            <place xml:id="linnpl097">
-               <placeName>Asby's Harbor</placeName>
-               <desc>Landing on Roanoke Island</desc>
-               <ref>
-                  <geo>35.8894 -75.69</geo>
                </ref>
             </place>
          </listPlace>
