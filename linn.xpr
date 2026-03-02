@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qlinn.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="linn.xpr">
+        <folder path="."/>
+        <folder path="../../../Downloads/linn_diaries/"/>
+    </projectTree>
+</project>

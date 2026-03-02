@@ -774,6 +774,13 @@
                   <geo>37.2388 -76.5097</geo>
                </ref>
             </place>
+            <place xml:id="linnpl098">
+               <placeName>New Mexico</placeName>
+            </place>
+            <place xml:id="linnpl099">
+               <placeName>Pottsville</placeName>
+            </place>
+
          </listPlace>
       </body>
    </text>

@@ -363,6 +363,33 @@
             <person xml:id="jmlper085">
                <persName>William Schaffley</persName>
             </person>
+            <person xml:id="jmlper086">
+               <persName>Jesse Reno</persName>
+            </person>
+            <person xml:id="jmlper087">
+               <persName>Charles Kleckner</persName>
+            </person>
+            <person xml:id="jmlper088">
+               <persName>Dr. Hossack</persName>
+            </person>
+            <person xml:id="jmlper089">
+               <persName>Capt. Neal</persName>
+            </person>
+            <person xml:id="jmlper090">
+               <persName>Col. Allen</persName>
+            </person>
+            <person xml:id="jmlper091">
+               <persName>Capt. Bennet</persName>
+            </person>
+            <person xml:id="jmlper092">
+               <persName>Mr. Carpenter</persName>
+            </person>
+           <person xml:id="jmlper093">
+              <persName>Capt. Potts</persName>
+           </person>
+            <person xml:id="jml094">
+               <persName>Nathanial Banks</persName>
+            </person>
 
          </listPerson>
       </body>
