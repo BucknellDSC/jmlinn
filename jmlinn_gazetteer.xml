@@ -780,6 +780,21 @@
             <place xml:id="linnpl099">
                <placeName>Pottsville</placeName>
             </place>
+            <place xml:id="linnpl100">
+               <placeName>James River</placeName>
+            </place>
+            <place xml:id="linnpl101">
+               <placeName>Apalachicola</placeName>
+            </place>
+            <place xml:id="linnpl102">
+               <placeName>Florida</placeName>
+            </place>
+            <place xml:id="linnpl103">
+               <placeName>Patuxet River</placeName>
+            </place>
+            <place xml:id="linnpl104">
+               <placeName>Minot Ledge Lighthouse</placeName>
+            </place>
 
          </listPlace>
       </body>
