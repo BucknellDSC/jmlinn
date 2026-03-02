@@ -63,12 +63,6 @@
                <occupation>soldier</occupation>
                <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
-            <person xml:id="jmlper007">
-               <persName>
-                  <surname>Linn</surname>
-                  <forename>John Blair</forename>
-               </persName>
-            </person>
             <person xml:id="jmlper008">
                <persName type="standard">Ambrose Burnside</persName>
                <ref target="https://www.wikidata.org/wiki/Q355444"/>
@@ -404,6 +398,15 @@
             </person>
             <person xml:id="jmlper099">
                <persName>Major Wood</persName>
+            </person>
+            <person xml:id="jmlper100">
+               <persName>Henry Miller</persName>
+            </person>
+            <person xml:id="jmlper101">
+               <persName>Hogan</persName>
+            </person>
+            <person xml:id="jmlper102">
+               <persName>Kelly</persName>
             </person>
 
          </listPerson>
