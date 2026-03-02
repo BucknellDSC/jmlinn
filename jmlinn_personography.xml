@@ -387,8 +387,23 @@
            <person xml:id="jmlper093">
               <persName>Capt. Potts</persName>
            </person>
-            <person xml:id="jml094">
+            <person xml:id="jmlper094">
                <persName>Nathanial Banks</persName>
+            </person>
+            <person xml:id="jmlper095">
+               <persName>Capt. Hancock</persName>
+            </person>
+            <person xml:id="jmlper096">
+               <persName>Major Clark</persName>
+            </person>
+            <person xml:id="jmlper097">
+               <persName>Lt. Col. Potter</persName>
+            </person>
+            <person xml:id="jmlper098">
+               <persName>Henry Bentley</persName>
+            </person>
+            <person xml:id="jmlper099">
+               <persName>Mayor Wood</persName>
             </person>
 
          </listPerson>
