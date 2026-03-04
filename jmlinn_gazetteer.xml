@@ -810,6 +810,9 @@
                <placeName>Fort Raleigh</placeName>
                <desc>Union Fort on Roanoke Island</desc>
             </place>
+            <place xml:id="linnpl109">
+               <placeName>Meekim's Hill</placeName>
+            </place>
 
          </listPlace>
       </body>
