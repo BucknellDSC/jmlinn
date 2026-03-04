@@ -822,6 +822,20 @@
             <place xml:id="linnpl112">
                <placeName>Gaston House</placeName>
             </place>
+            <place xml:id="linnpl113">
+               <placeName>Fort Thompson</placeName>
+               <desc>Confederate fort near New Bern on the Neuse River</desc>
+               <ref>
+                  <geo>35.048-77.076</geo>
+               </ref>
+            </place>
+            <place xml:id="linnpl114">
+               <placeName>Fort Dixie</placeName>
+               <desc>Confederate fort at Johnson's Point on the Neuse River</desc>
+               <ref>
+                  <geo>35.040-77.063</geo>
+               </ref>
+            </place>
 
          </listPlace>
       </body>
