@@ -447,7 +447,7 @@
                <persName>Mr. Morton</persName>
             </person>
             <person xml:id="jmlper117">
-               <persName>Stewart</persName>
+               <persName>Charles Stewart</persName>
             </person>
             <person xml:id="jmlper118">
                <persName>Walter</persName>
@@ -516,7 +516,7 @@
                <persName>Harrison Hause</persName>
             </person>
             <person xml:id="jmlper140">
-               <persName>Murphy</persName>
+               <persName>John Murphy</persName>
             </person>
             <person xml:id="jmlper141">
                <persName>Warner</persName>
@@ -532,6 +532,15 @@
             </person>
             <person xml:id="jmlper145">
                <persName>Quartermaster Hall</persName>
+            </person>
+            <person xml:id="jmlper146">
+               <persName>John Hartz</persName>
+            </person>
+            <person xml:id="jmlper147">
+               <persName>James Dougherty</persName>
+            </person>
+            <person xml:id="jmlper148">
+               <persName>Capt. Taylor</persName>
             </person>
             
             
