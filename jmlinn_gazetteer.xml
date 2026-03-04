@@ -813,6 +813,9 @@
             <place xml:id="linnpl109">
                <placeName>Meekim's Hill</placeName>
             </place>
+            <place xml:id="linnpl110">
+               <placeName>Croatan Island</placeName>
+            </place>
 
          </listPlace>
       </body>
