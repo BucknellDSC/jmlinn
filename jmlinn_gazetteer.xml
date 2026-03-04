@@ -819,6 +819,9 @@
             <place xml:id="linnpl111">
                <placeName>New Jersey</placeName>
             </place>
+            <place xml:id="linnpl112">
+               <placeName>Gaston House</placeName>
+            </place>
 
          </listPlace>
       </body>
