@@ -839,6 +839,9 @@
             <place xml:id="linnpl115">
                <placeName>Island Number Ten</placeName>
             </place>
+            <place xml:id="linnpl116">
+               <placeName>Currituck Courthouse</placeName>
+            </place>
 
          </listPlace>
       </body>
