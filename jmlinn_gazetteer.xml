@@ -45,6 +45,9 @@
                   <geo>38.9784 -76.4922</geo>
                </location>
             </place>
+            <place xml:id="linnpl101">
+               <placeName>Apalachicola, FL</placeName>
+            </place>
             <place xml:id="linnpl097">
                <placeName>Ashby's Harbor</placeName>
                <desc>Landing on Roanoke Island</desc>
@@ -487,6 +490,9 @@
                   <geo>35.108333 -77.044444</geo>
                </ref>
             </place>
+            <place xml:id="linnpl098">
+               <placeName>New Mexico</placeName>
+            </place>
             <place xml:id="linnpl060">
                <placeName>New Orleans</placeName>
                <desc>Largest city of the state of Louisiana</desc>
@@ -774,18 +780,14 @@
                   <geo>37.2388 -76.5097</geo>
                </ref>
             </place>
-            <place xml:id="linnpl098">
-               <placeName>New Mexico</placeName>
-            </place>
+ 
             <place xml:id="linnpl099">
                <placeName>Pottsville</placeName>
             </place>
             <place xml:id="linnpl100">
                <placeName>James River</placeName>
             </place>
-            <place xml:id="linnpl101">
-               <placeName>Apalachicola</placeName>
-            </place>
+            
             <place xml:id="linnpl102">
                <placeName>Florida</placeName>
             </place>
@@ -794,6 +796,19 @@
             </place>
             <place xml:id="linnpl104">
                <placeName>Minot Ledge Lighthouse</placeName>
+            </place>
+            <place xml:id="linnpl105">
+               <placeName>Rhode Island</placeName>
+            </place>
+            <place xml:id="linnpl106">
+               <placeName>Scranton, PA</placeName>
+            </place>
+            <place xml:id="linnpl107">
+               <placeName>Norristown</placeName>
+            </place>
+            <place xml:id="linnpl108">
+               <placeName>Fort Raleigh</placeName>
+               <desc>Union Fort on Roanoke Island</desc>
             </place>
 
          </listPlace>

@@ -188,9 +188,9 @@
       <body>
          <div type="entry">
             <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary81.jpg"/>
-            <dateline>Wednesday 25.</dateline>
-            <p>It was a fine pleasant day. The morning we spent at bayonet exercise - this
-               afternoon Regimental drill. Col Nagle was here to make his affidavit for pay -
+            <dateline><date>Wednesday 25.</date></dateline>
+            <p>It was <name type="weather">a fine pleasant day</name>. The morning we spent at bayonet exercise - this
+               afternoon Regimental drill. <persName>Col Nagle</persName> was here to make his affidavit for pay -
                he is an essential dutchman though fine looking and said to be a fine drill
                master. He has a queer high toned voice with a squawk to it- he pronounces
                rather oddly - speaking of some thing he said it was his “Karculation”. Capt
