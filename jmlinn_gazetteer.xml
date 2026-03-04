@@ -816,6 +816,9 @@
             <place xml:id="linnpl110">
                <placeName>Croatan Island</placeName>
             </place>
+            <place xml:id="linnpl111">
+               <placeName>New Jersey</placeName>
+            </place>
 
          </listPlace>
       </body>
