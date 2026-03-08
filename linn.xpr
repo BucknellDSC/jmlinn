@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../zeller/zeller.odd</String>
+                                    <String>jmlinn_gazetteer.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>6/tei/teip5odd.framework/TEI ODD/TEI ODD to RELAX NG XML</String>
+                                        <String>6/tei/teip5.framework/TEI P5/TEI P5 DOCX</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -30,11 +30,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>jmlinn_gazetteer.xml</String>
+                                    <String>../zeller/zeller.odd</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>6/tei/teip5.framework/TEI P5/TEI P5 DOCX</String>
+                                        <String>6/tei/teip5odd.framework/TEI ODD/TEI ODD to RELAX NG XML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">

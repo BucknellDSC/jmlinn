@@ -842,6 +842,9 @@
             <place xml:id="linnpl116">
                <placeName>Currituck Courthouse</placeName>
             </place>
+            <place xml:id="linnpl117">
+               <placeName>Hayman's Landing</placeName>
+            </place>
 
          </listPlace>
       </body>
