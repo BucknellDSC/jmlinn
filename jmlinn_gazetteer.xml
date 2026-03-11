@@ -845,6 +845,9 @@
             <place xml:id="linnpl117">
                <placeName>Hayman's Landing</placeName>
             </place>
+            <place xml:base="linnpl118">
+               <placeName>Rhode Island</placeName>
+            </place>
 
          </listPlace>
       </body>
