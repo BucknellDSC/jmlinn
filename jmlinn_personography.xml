@@ -588,7 +588,19 @@
                <persName>Col. Alberto Maggi</persName>
             </person>
             <person xml:id="jmlper164">
-               <persName></persName>
+               <persName>Col. Kurtz</persName>
+            </person>
+            <person xml:id="jmlper165">
+               <persName>Capt. Biggs</persName>
+            </person>
+            <person xml:id="jmlper166">
+               <persName>Sgt. Grassmine</persName>
+            </person>
+            <person xml:id="jmlper167">
+               <persName>Col. Nagel</persName>
+            </person>
+            <person xml:id="jmlper168">
+               <persName>Col. Martin</persName>
             </person>
             
             
