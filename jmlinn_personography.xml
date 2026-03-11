@@ -498,7 +498,7 @@
                <persName>Mr. Walton</persName>
             </person>
             <person xml:id="jmlper134">
-               <persName>Gov. Stanley</persName>
+               <persName>Gen. David S. Stanley</persName>
             </person>
             <person xml:id="jmlper135">
                <persName>Lt. Van Buren</persName>
@@ -607,6 +607,9 @@
             </person>
             <person xml:id="jmlper170">
                <persName>Edward Mauran</persName>
+            </person>
+            <person xml:id="jmlper171">
+               <persName>Lt. van Heusen</persName>
             </person>
             
             
