@@ -611,8 +611,12 @@
             <person xml:id="jmlper171">
                <persName>Lt. van Heusen</persName>
             </person>
-            
-            
+            <person xml:id="jmlper172">
+               <persName>Lt Col Joshua K Sigfried</persName>
+            </person>
+            <person xml:id="jmlper173">
+               <persName>Jacob Bachenheimer</persName>
+            </person>
   
             
             
