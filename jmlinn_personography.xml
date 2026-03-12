@@ -623,8 +623,15 @@
             <person xml:id="jmlper175">
                <persName>Col. George Schall</persName>
             </person>
-           
-            
+           <person xml:id="jmlper176">
+              <persName>John Miller</persName>
+           </person>
+            <person xml:id="jmlper177">
+               <persName>John Hummel</persName>
+            </person>
+            <person xml:id="jmlper178">
+               <persName>Charley Shriner</persName>
+            </person>
             
             
             
