@@ -58,7 +58,7 @@
                <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
             <person xml:id="jmlper072">
-               <persName>Thomas Bell</persName>
+               <persName>Col. Thomas Bell</persName>
             </person>
             <person xml:id="jmlper091">
                <persName>Capt. Bennet</persName>
@@ -183,7 +183,7 @@
                <ref target="https://www.wikidata.org/wiki/Q1594218"/>
             </person>
             <person xml:id="jmlper077">
-               <persName>Thomas Holliday Hicks</persName>
+               <persName>Gov. Thomas Holliday Hicks</persName>
                <occupation>politician</occupation>
                <ref target="https://www.wikidata.org/wiki/Q433015"/>
             </person>
@@ -641,7 +641,12 @@
             <person xml:id="jmlper181">
                <persName>David Clark</persName>
             </person>
-            
+            <person xml:id="jmlper182">
+               <persName>Lt. Abraham Hart</persName>
+            </person>
+            <person xml:id="jmlper183">
+               <persName>Capt. W.W. Armstrong</persName>
+            </person>
             
             
            
