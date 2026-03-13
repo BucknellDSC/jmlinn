@@ -1,0 +1,13 @@
+element,key,ref,type,tagged_content,date,source_file
+"objectName","","","weather","came up a storm last night","1862-03-07","1862-03-07.xml"
+"name","","","weather","raining and snowing","1862-03-07","1862-03-07.xml"
+"name","","","weather","blowing fearfully","1862-03-07","1862-03-07.xml"
+"name","","","weather","The Sound was very rough","1862-03-07","1862-03-07.xml"
+"placeName","Pamlico Sound","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl065","Water","Sound","1862-03-07","1862-03-07.xml"
+"objectName","","","vehicle","boats","1862-03-07","1862-03-07.xml"
+"objectName","","","vehicle","ship","1862-03-07","1862-03-07.xml"
+"objectName","","","readable","Lansings pictorial fact book","1862-03-07","1862-03-07.xml"
+"name","","","weather","the sunset was beautifully clear.","1862-03-07","1862-03-07.xml"
+"persName","","","","surgeon","1862-03-07","1862-03-07.xml"
+"name","","","weather","roughness of the sea","1862-03-07","1862-03-07.xml"
+"persName","George Shorkley","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper002","real","Shorkley","1862-03-07","1862-03-07.xml"

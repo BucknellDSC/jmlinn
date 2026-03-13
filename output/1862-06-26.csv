@@ -1,0 +1,6 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","pleasant day – air stirring","1862-06-26","1862-06-26.xml"
+"objectName","","","readables","applications","1862-06-26","1862-06-26.xml"
+"persName","","","","Mackenzie","1862-06-26","1862-06-26.xml"
+"persName","","","","Dr Elder","1862-06-26","1862-06-26.xml"
+"placeName","Philadelphia","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl069","","Philadelphia","1862-06-26","1862-06-26.xml"

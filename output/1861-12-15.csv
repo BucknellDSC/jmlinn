@@ -1,0 +1,9 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","bright day","","1861-12-15.xml"
+"orgName","","","","Company","","1861-12-15.xml"
+"orgName","","","","regimental","","1861-12-15.xml"
+"objectName","","","","knapsacks","","1861-12-15.xml"
+"objectName","","","equipment","knapsacks","","1861-12-15.xml"
+"persName","Jacob G. Beaver","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003","real","Beaver","","1861-12-15.xml"
+"persName","Thomas Grier","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper076","real","Tom","","1861-12-15.xml"
+"placeName","","","","Presbyterian Church","","1861-12-15.xml"

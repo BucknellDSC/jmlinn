@@ -674,6 +674,18 @@
             <person xml:id="jmlper192">
                <persName>Capt. Flowers</persName>
             </person>
+            <person xml:id="jmlper193">
+               <persName>Jewett S. Harding</persName>
+            </person>
+            <person xml:id="jmlper194">
+               <persName>Bensiger</persName>
+            </person>
+            <person xml:id="jmlper195">
+               <persName>Albion S. Knode</persName>
+            </person>
+            <person xml:id="jmlper196">
+               <persName>Col. Neil</persName>
+            </person>
          </listPerson>
       </body>
    </text>

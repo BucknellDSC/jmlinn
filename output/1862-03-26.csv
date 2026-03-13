@@ -1,0 +1,11 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","raining","","1862-03-26.xml"
+"placeName","New Orleans","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl060","","New Orleans","","1862-03-26.xml"
+"placeName","Island Number Ten","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl115","","Island No 10","","1862-03-26.xml"
+"objectName","","","equipment","ammunition","","1862-03-26.xml"
+"persName","John Hartranft","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper056","","Col. Hartranft","","1862-03-26.xml"
+"objectName","","","ship","the New York","","1862-03-26.xml"
+"persName","Dick Langley","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper103","","Dick","","1862-03-26.xml"
+"objectName","","","food","raised bread","","1862-03-26.xml"
+"persName","G. H. Hassenplug","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper035","","Hassenplug","","1862-03-26.xml"
+"persName","Sergt. Etwine","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper113","","Etwine","","1862-03-26.xml"

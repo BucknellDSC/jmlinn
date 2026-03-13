@@ -1,0 +1,13 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","rained","1862-06-10","1862-06-10.xml"
+"orgName","","","military","Regimental","1862-06-10","1862-06-10.xml"
+"persName","Santo","","lieutenant","Santo","1862-06-10","1862-06-10.xml"
+"persName","Bobst","","private","Bobst","1862-06-10","1862-06-10.xml"
+"placeName","Beaufort","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl005","city","Beaufort","1862-06-10","1862-06-10.xml"
+"persName","Phillips","","private","Phillips","1862-06-10","1862-06-10.xml"
+"objectName","","","clothing","shoes","1862-06-10","1862-06-10.xml"
+"objectName","","","clothing","stockings","1862-06-10","1862-06-10.xml"
+"orgName","","","","9th New Jersey","1862-06-10","1862-06-10.xml"
+"persName","Mitchell","","captain","Capt. Mitchell","1862-06-10","1862-06-10.xml"
+"persName","Simms","","captain","Capt. Simms","1862-06-10","1862-06-10.xml"
+"orgName","","","military","51st New York","1862-06-10","1862-06-10.xml"

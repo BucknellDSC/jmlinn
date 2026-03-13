@@ -1,0 +1,13 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","rained","1862-06-08","1862-06-08.xml"
+"name","","","weather","cool","1862-06-08","1862-06-08.xml"
+"name","","","weather","pleasant","1862-06-08","1862-06-08.xml"
+"persName","Morris","","private","Morris","1862-06-08","1862-06-08.xml"
+"persName","Burnside","","general","Gen. Burnside","1862-06-08","1862-06-08.xml"
+"placeName","Norfolk, Virginia","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl062","city","Norfolk","1862-06-08","1862-06-08.xml"
+"placeName","Great Dismal Swamp","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl041","city","Dismal swamp","1862-06-08","1862-06-08.xml"
+"objectName","","","vehicle","gun boats","1862-06-08","1862-06-08.xml"
+"objectName","","","food","roast pork","1862-06-08","1862-06-08.xml"
+"objectName","","","food","boiled ham","1862-06-08","1862-06-08.xml"
+"objectName","","","food","tomatoes","1862-06-08","1862-06-08.xml"
+"objectName","","","food","potatoes","1862-06-08","1862-06-08.xml"

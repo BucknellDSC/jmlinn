@@ -1,0 +1,11 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","bright","1862-03-04","1862-03-04.xml"
+"name","","","weather","clear","1862-03-04","1862-03-04.xml"
+"objectName","","","equipment","rifles","1862-03-04","1862-03-04.xml"
+"persName","James A. Kelley","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper045","real","Jim Kelly","1862-03-04","1862-03-04.xml"
+"persName","Dr. Hossack","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper088","real","Surgeon Hassack","1862-03-04","1862-03-04.xml"
+"objectName","","","furniture","bed","1862-03-04","1862-03-04.xml"
+"objectName","","","food","medicine","1862-03-04","1862-03-04.xml"
+"persName","Colonel","","","Col.","1862-03-04","1862-03-04.xml"
+"persName","Dr. Hossack","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper088","","Hassack","1862-03-04","1862-03-04.xml"
+"persName","Dr. Noble","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper130","","Dr. Noble","1862-03-04","1862-03-04.xml"

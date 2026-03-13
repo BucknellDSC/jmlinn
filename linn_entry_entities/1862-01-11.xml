@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary20.jpg"/>
+            <dateline>Sunday 11.</dateline>
+            <p>This was a <objectType>bright fine day</objectType>. A lot of us got into a <objectName>surf boat</objectName> and went to shore. We
+               first went to the <placeName>Fortress</placeName>. It is immense and the number of cannon surprised us. I
+               think it is a mile and a half around the ramparts, and encloses 80 acres. In the
+               inside are houses for officers and quarters, and trees - live oak. The 10th N.
+               York Vols or National Zouaves are quartered in it. Their <objectName type="clothing">uniform light blue</objectName>, with pink selvage trimming. We saw the <objectName type="equipment">Union Gun</objectName> down on the beach, 12 inch bore, and
+               the Floyd lying beside it, not mounted. There are an immense number of <objectName>guns</objectName>, many
+               of them ten inch, lying outside. 150 at least are mounted. Grass is grown over the
+               piles of ball inside. From one side we saw <placeName>Camp Hamilton</placeName>, and the ruins of
+               Hamilton - nothing but the stacks of chimnies standing up, like ghosts. We went to
+               a store - a little store but got everything you asked for. I got some drawing
+               paper. The grocery also furnished everything wanted at very advanced prices
+               however. <persName>Capt. Cook</persName>, formerly of the old Fourth met us on the beach and came over
+               and took dinner with us. I amused myself trying to sketch the ripraps - but the <objectName type="vehicle">vessel</objectName>
+               kept swinging around and I was so slow that I did not succeed &amp; wound up my
+               labors sketching a hermaphrodite brig lying near us. As the Adjt. came in <persName>Blair</persName>
+               says "There comes consolidated report." "Consolidated Bible" says <persName>Mallory.</persName> "Bound
+               in calf" says <persName>Blair</persName>. The <objectName type="vehicle">"Scout"</objectName> and the <objectName type="vehicle">Brig</objectName> that we towed sailed somewhere this
+               afternoon. Part of the fleet is gone. We have to coal - 25 tons &amp; take in
+               water yet - 100 tons of coal last six days. Do we go up the Potomac? Up the <placeName>James River? </placeName>We have our bay pilot on board yet. Captain says he won't know but his pilot
+               will be changed. 1/2 past nine o'clock. P.M. <persName>Lt. Reno</persName> just came in, and gave
+               orders to get upstream and start. It may be interesting, hereafter, to note our
+               conjectures. <persName>Rodamel</persName> asserts that we will not go out of <placeName>James River</placeName>.<persName> Bently</persName>, the
+               reporter, says we are going to <placeName>Lynhaven Bay</placeName> - behind <placeName>Norfolk</placeName>. <persName>Beaver</persName> asserts that
+               we go to <placeName>Savannah</placeName>. The Col. said that we go to sea.</p>
+         
+         
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary21.jpg"/>
+            <fw>Saturday January 11.</fw>
+            <p>Ten o'clock P.M. anchor heaved and we start. The water in the roads smooth as
+               glass but it heaves now that we are out in the bay. The Col, rec'd sealed orders,
+               merely told us that we were going to sea. Blair gets the prop but can't fish it
+               yet. The Col. says he will tell us our destination in the morning. The commissary
+               says that there are no better [?] than we have. The chief engineer has been on
+               this boat 8 years, plying in the stormy coast between Portland and St. Johns that she
+               was thoroughly overhauled at New York before coming to Annapolis - so that so far
+               as good steamanship, good enginners and a staunch boat can carry us we will go
+               safely. 12 o'clock, our bay pilot takes leave of us at the light ship, and we
+               steam out into the [?]</p>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,5 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","It began to rain during the forenoon, & kept up almost all the day.","1862-02-03","1862-02-03.xml"
+"objectName","","","","boat","1862-02-03","1862-02-03.xml"
+"placeName","","","","Roanoke","1862-02-03","1862-02-03.xml"
+"placeName","Roanoke Island","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl076","","Roanoke","1862-02-03","1862-02-03.xml"

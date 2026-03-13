@@ -1,0 +1,8 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","pleasant ","","1862-02-26.xml"
+"placeName","Fort Park","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl030","","Ft. Park","","1862-02-26.xml"
+"placeName","Meekim's Hill","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl109","house","Meekim's hill","","1862-02-26.xml"
+"placeName","Fort Park","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl030","","fort","","1862-02-26.xml"
+"name","","","weather","rain","","1862-02-26.xml"
+"objectName","","","building","home","","1862-02-26.xml"
+"name","","","weather","rainy","","1862-02-26.xml"

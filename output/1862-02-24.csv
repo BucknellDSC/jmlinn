@@ -1,0 +1,8 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","very windy","","1862-02-24.xml"
+"placeName","","","","Sound","","1862-02-24.xml"
+"placeName","","","","beach","","1862-02-24.xml"
+"persName","Dr. Cutter","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper124","real","Dr Cutter","","1862-02-24.xml"
+"persName","Dr. Hossack","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper088","real","Dr Hossack","","1862-02-24.xml"
+"objectName","","","vehicle","Cossack","","1862-02-24.xml"
+"placeName","","","","hospital.","","1862-02-24.xml"

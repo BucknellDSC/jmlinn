@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>James Merrill Linn Diary: 1861-1862</title>
+				<author>James Merrill Linn</author>
+				<respStmt>
+					<name>
+						<persName>Diane K. Jakacki</persName>
+						<orgName>Bucknell University </orgName>
+					</name>
+					<resp>Professor, Lead Investigator</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Junior Alejandro</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Matteo Antenucci</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>NinaArsov</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Caroline Colucci</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Drew Fisher</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Olivia Garcia</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Harvey Harvison</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Reilly Hope</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Matti Kruger</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Selena Liu</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Gayda Makki</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Ben Maya</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Calvin McGuire</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Natalie Monroe</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Luke Nowicki</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Ori Raz</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Grayson Renkert</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Amadou Samb</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Ben Samuels</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Rose Schmidt</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Nyah von Haam</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Bucknell University</authority>
+				<address>
+					<settlement>Lewisburg</settlement>
+					<region>Pennsylvania</region>
+					<country>USA</country>
+				</address>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+						Attribution-NonCommercial-ShareAlike 4.0 International </licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<sponsor>Bucknell University Special Collections and University
+						Archives</sponsor>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260306111404346",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-06T16:14:04.346Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/95",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Junior Alejandro"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260306111404346#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260306111404346#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/dateline/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl002",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260306111422490",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-06T16:14:22.490Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/95",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Junior Alejandro"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260306111422490#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260306111422490#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper100",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260306111804743",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-06T16:18:04.743Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/95",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Junior Alejandro"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260306111804743#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260306111804743#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper018",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260306111933307",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-06T16:19:33.307Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/95",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Junior Alejandro"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260306111933307#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260306111933307#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper045",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260311230942812",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-12T03:09:42.812Z",
+	"dcterms:modified": "2026-03-12T03:09:50.683Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/95",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Junior Alejandro"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260311230942812#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260311230942812#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl042",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260311231000680",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-12T03:10:00.680Z",
+	"dcterms:modified": "2026-03-12T03:10:00.680Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/95",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Junior Alejandro"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260311231000680#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260311231000680#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260311231230376",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-12T03:12:30.376Z",
+	"dcterms:modified": "2026-03-12T03:12:35.429Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/95",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Junior Alejandro"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260311231230376#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1861-11-22_0_0_0_0_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260311231230376#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl091",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+				</rdf:Description>
+			</rdf:RDF></xenoData>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="entry">
+				<pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary01_0.jpg"/>
+				<dateline><placeName key="Annapolis, MD"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl002"
+						>Annapolis, Maryland, Camp Burnside November</placeName> —<date> Friday,
+						Thursday 22, 1861</date></dateline>
+				<p xml:id="a1"><name type="weather ">This is a bright fair day</name>. We got up
+					about seven, <objectName type="food">breakfast</objectName>, company drill,
+					dress parade, supper brought &amp; is quickly through &amp; evening. Visited
+					over to see our sick — <persName key="Henry Miller"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper100"
+						>Henry Miller</persName>, <persName>Hogan</persName> &amp; <persName
+						key="James A. Kelley"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper045"
+						>Kelly</persName> in the <placeName>hospital</placeName>. Sent them
+						<objectName type="food">tea and toast</objectName>. The
+						<placeName>hospital</placeName> situation and the
+						<placeName>hospital</placeName> arrangements are far from comfortable.
+					Besides them lay <persName key="Charles Drainer"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper018"
+						>Charles Drainer,</persName> weakened down with a severe hemorrhage, &amp;
+					not long for this world. He was with our <orgName>company</orgName> in the three
+					months service &amp; was lately in <placeName key="Hagerstown, MD"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl042"
+						>Hagerstown.</placeName> He has been discharged in the service, went out
+					into <placeName>town</placeName> to inquire for <persName>Mrs.
+						Monroe,</persName> but since he has moved away to take charge of
+						a<placeName> school</placeName> at <placeName>Frederick.</placeName> His
+						<persName> brother Harry </persName>has now charge of the seminary.
+						<persName> Col. Hartshorne’s lady</persName> was here this evening. The
+						<persName>Col.</persName> returned from <placeName key="Washington, D.C."
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl091"
+						>Washington</placeName> this evening.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

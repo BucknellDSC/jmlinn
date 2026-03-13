@@ -1,0 +1,11 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","bright fine day","","1861-12-25.xml"
+"orgName","","","organization","companies","","1861-12-25.xml"
+"orgName","","","church","Episcopal church.","","1861-12-25.xml"
+"persName","Gen. Reno","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml","","Gen. Reno","","1861-12-25.xml"
+"objectName","","","clothing","white gloves","","1861-12-25.xml"
+"persName","","","","Col.","","1861-12-25.xml"
+"objectName","","","equipment","old barrels","","1861-12-25.xml"
+"persName","Beaver","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml","","Beaver","","1861-12-25.xml"
+"persName","","","","Shorkly","","1861-12-25.xml"
+"persName","Shorkly","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml","","Shorkly","","1861-12-25.xml"

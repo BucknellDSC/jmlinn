@@ -1,0 +1,11 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","rained","","1862-03-30.xml"
+"persName","Thomas Grier","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper076","","Tom. Grier","","1862-03-30.xml"
+"persName","","","","Kline","","1862-03-30.xml"
+"persName","","","","Lt. Applegat","","1862-03-30.xml"
+"persName","Capt. McChesney","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper120","","Capt. McChesney","","1862-03-30.xml"
+"persName","Capt. McChesney","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper120","real","Capt. McChesney","","1862-03-30.xml"
+"persName","","","","Capt Hayes","","1862-03-30.xml"
+"objectName","","","equipment","revolver","","1862-03-30.xml"
+"persName","Capt. McChesney","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper120","","McChesney","","1862-03-30.xml"
+"objectName","","","equipment","bayonets","","1862-03-30.xml"

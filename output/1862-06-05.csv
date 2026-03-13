@@ -1,0 +1,6 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","Dark and lowering with some rain","1862-06-05","1862-06-05.xml"
+"placeName","Yorktown, Virginia","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl096","","town","1862-06-05","1862-06-05.xml"
+"placeName","Washington N.C","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl090","","Washington N.C","1862-06-05","1862-06-05.xml"
+"placeName","Richmond, Virginia","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl075","","Richmond","1862-06-05","1862-06-05.xml"
+"name","","","weather","rain","1862-06-05","1862-06-05.xml"

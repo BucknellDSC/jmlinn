@@ -1,0 +1,13 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","rained","1862-03-02","1862-03-02.xml"
+"name","","","weather","drizzled","1862-03-02","1862-03-02.xml"
+"objectName","","","equipment","payrolls","1862-03-02","1862-03-02.xml"
+"persName","John Morris","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper057","","John Morris","1862-03-02","1862-03-02.xml"
+"placeName","New Berne","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059","","Newbern","1862-03-02","1862-03-02.xml"
+"placeName","Nashville","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl056","","Nashville","1862-03-02","1862-03-02.xml"
+"placeName","Memphis","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl054","","Memphis","1862-03-02","1862-03-02.xml"
+"placeName","Savannah","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl078","","Savannah","1862-03-02","1862-03-02.xml"
+"persName","John E. Wool","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper054","real","Gen Wool","1862-03-02","1862-03-02.xml"
+"placeName","Norfolk, Virginia","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl062","","Norfolk","1862-03-02","1862-03-02.xml"
+"objectName","","","readable","Chronicle","1862-03-02","1862-03-02.xml"
+"objectName","","","equipment","stove","1862-03-02","1862-03-02.xml"

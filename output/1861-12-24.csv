@@ -1,0 +1,11 @@
+element,key,ref,type,tagged_content,date,source_file
+"persName","Shorkly","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml","","Shorkly","","1861-12-24.xml"
+"persName","Beaver","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml","","Beaver","","1861-12-24.xml"
+"persName","","","","Beaver Tom","","1861-12-24.xml"
+"placeName","Annapolis","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml","","Annapolis","","1861-12-24.xml"
+"placeName","","","Church","Episcopal servic","","1861-12-24.xml"
+"placeName","episcopal church","","","church","","1861-12-24.xml"
+"objectName","","","building","arches","","1861-12-24.xml"
+"objectName","","","building","stained windows","","1861-12-24.xml"
+"objectName","","","building","decorations","","1861-12-24.xml"
+"objectName","","","building","white walls","","1861-12-24.xml"

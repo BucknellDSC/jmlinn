@@ -1,0 +1,11 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","The wind blew pretty hard all day, and this evening set in with storm and rain","","1862-01-31.xml"
+"objectName","","","","schooner","","1862-01-31.xml"
+"objectName","","","","gunboats","","1862-01-31.xml"
+"objectName","","","","sail","","1862-01-31.xml"
+"placeName","Middleton","http://www.wikidata.org/entity/Q6841976","","Middleton","","1862-01-31.xml"
+"placeName","Hyde County","https://sws.geonames.org/4472505","","Hyde County","","1862-01-31.xml"
+"placeName","Roanoke Island","https://sws.geonames.org/4488228","","Roanoke Island","","1862-01-31.xml"
+"objectName","","","","mail","","1862-01-31.xml"
+"persName","John","http://www.wikidata.org/entity/Q4925477","","John","","1862-01-31.xml"
+"persName","Annie","http://www.wikidata.org/entity/Q566893","","Annie","","1862-01-31.xml"
