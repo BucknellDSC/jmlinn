@@ -678,7 +678,7 @@
                <persName>Jewett S. Harding</persName>
             </person>
             <person xml:id="jmlper194">
-               <persName>Bensiger</persName>
+               <persName>Benziger</persName>
             </person>
             <person xml:id="jmlper195">
                <persName>Albion S. Knode</persName>
@@ -691,6 +691,9 @@
             </person>
             <person xml:id="jmlper198">
                <persName>Col. Pollack</persName>
+            </person>
+            <person xml:id="jmlper199">
+               <persName>James Christie</persName>
             </person>
          </listPerson>
       </body>
