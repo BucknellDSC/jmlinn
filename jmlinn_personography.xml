@@ -686,6 +686,12 @@
             <person xml:id="jmlper196">
                <persName>Col. Neil</persName>
             </person>
+            <person xml:id="jmlper197">
+               <persName>Col. Corcoran</persName>
+            </person>
+            <person xml:id="jmlper198">
+               <persName>Col. Pollack</persName>
+            </person>
          </listPerson>
       </body>
    </text>
