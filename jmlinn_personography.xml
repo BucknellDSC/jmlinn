@@ -650,24 +650,30 @@
             <person xml:id="jmlper184">
                <persName>(Capt.) Cipriano Ferrandini</persName>
             </person>
-            
-            
-           
-            
-
-            
-            
-           
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
+            <person xml:id="jmlper185">
+               <persName>Capt. Willard</persName>
+            </person>
+            <person xml:id="jmlper186">
+               <persName>Lt. Merriam</persName>
+            </person>
+            <person xml:id="jmlper187">
+               <persName>Mr. Welsh</persName>
+            </person>
+            <person xml:id="jmlper188">
+               <persName>Capt. Griffin</persName>
+            </person>
+            <person xml:id="jmlper189">
+               <persName>Capt. O'Malley</persName>
+            </person>
+            <person xml:id="jmlper190">
+               <persName>Capt. Gilmore</persName>
+            </person>
+            <person xml:id="jmlper191">
+               <persName>Major Cantel</persName>
+            </person>
+            <person xml:id="jmlper192">
+               <persName>Capt. Flowers</persName>
+            </person>
          </listPerson>
       </body>
    </text>
