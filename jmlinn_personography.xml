@@ -695,6 +695,9 @@
             <person xml:id="jmlper199">
                <persName>James Christie</persName>
             </person>
+            <person xml:id="jmlper200">
+               <persName>Col. Emory</persName>
+            </person>
          </listPerson>
       </body>
    </text>
