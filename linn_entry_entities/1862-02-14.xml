@@ -667,7 +667,7 @@
             <p>Another <name type="weather ">delightful day</name>. <orgName>Our Regiment</orgName> was on guard yesterday, and we were up last
                night. I got a tub last night, took a bath, one of the islanders had washed some
                <objectName>clothes</objectName> for us, and now I feel a new man. <persName cert="high" key="Jacob G. Beaver" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003" type="real">Beaver</persName> and I went over to see the
-               site of <origPlace><placeName cert="high" key="Fort Raleigh" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl108">Ft Raleigh<precision match="@ref" precision="high"/></placeName></origPlace>. The [?] of a mound, but grown over with <objectName type="nature ">trees</objectName> fifty or a
+               site of <placeName cert="high" key="Fort Raleigh" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl108">Ft Raleigh<precision match="@ref" precision="high"/></placeName>. The [?] of a mound, but grown over with <objectName type="nature ">trees</objectName> fifty or a
                hundred years old, are to be seen. it is in an <objectName>overgrown thicket</objectName>. <persName>Jim</persName> a
                darky piloted us to it - He was a <objectName>ship</objectName> launcher - that is helped to get off <objectName type="equipment ">ships</objectName>
                that were beached - He said the rebels told him that we would put him in [?]

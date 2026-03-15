@@ -1,7 +1,7 @@
 element,key,ref,type,tagged_content,date,source_file
 "name","","","weather","rained incessantly","1862-02-08","1862-02-08.xml"
 "placeName","","","","the comfortable cabin","1862-02-08","1862-02-08.xml"
-"placeName","","","ship","the Cossack","1862-02-08","1862-02-08.xml"
+"objectName","","","ship","the Cossack","1862-02-08","1862-02-08.xml"
 "placeName","","","","the porch of the house","1862-02-08","1862-02-08.xml"
 "persName","George Shorkley","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper002","real","Shorkley","1862-02-08","1862-02-08.xml"
 "persName","Jacob G. Beaver","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003","","Beaver","1862-02-08","1862-02-08.xml"

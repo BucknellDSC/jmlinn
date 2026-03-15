@@ -1,187 +1,198 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>James Merrill Linn Diary: 1861-1862</title>
-            <author>James Merrill Linn</author>
-            <respStmt>
-               <name>
-                  <persName>Diane K. Jakacki</persName>
-                  <orgName>Bucknell University </orgName>                 
-               </name>
-               <resp>Professor, Lead Investigator</resp>
-            </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Junior Alejandro</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Matteo Antenucci</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-                  
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>NinaArsov</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Caroline Colucci</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Drew Fisher</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Olivia Garcia</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Harvey Harvison</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Reilly Hope</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Matti Kruger</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Selena Liu</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Gayda Makki</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ben Maya</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Calvin McGuire</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Natalie Monroe</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Luke Nowicki</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ori Raz</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Grayson Renkert</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Amadou Samb</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ben Samuels</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Rose Schmidt</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Nyah von Haam</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Bucknell University</authority>
-            <address>
-               <settlement>Lewisburg</settlement>
-               <region>Pennsylvania</region>
-               <country>USA</country>
-            </address>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-                  Attribution-NonCommercial-ShareAlike 4.0 International
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>James Merrill Linn Diary: 1861-1862</title>
+				<author>James Merrill Linn</author>
+				<respStmt>
+					<name>
+						<persName>Diane K. Jakacki</persName>
+						<orgName>Bucknell University </orgName>
+					</name>
+					<resp>Professor, Lead Investigator</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Junior Alejandro</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Matteo Antenucci</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>NinaArsov</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Caroline Colucci</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Drew Fisher</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Olivia Garcia</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Harvey Harvison</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Reilly Hope</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Matti Kruger</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Selena Liu</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Gayda Makki</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Ben Maya</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Calvin McGuire</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Natalie Monroe</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Luke Nowicki</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Ori Raz</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Grayson Renkert</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Amadou Samb</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Ben Samuels</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Rose Schmidt</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Nyah von Haam</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Bucknell University</authority>
+				<address>
+					<settlement>Lewisburg</settlement>
+					<region>Pennsylvania</region>
+					<country>USA</country>
+				</address>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+						Attribution-NonCommercial-ShareAlike 4.0 International </licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<sponsor>Bucknell University Special Collections and University
+						Archives</sponsor>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -258,10 +269,9 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -334,10 +344,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -410,10 +419,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -488,10 +496,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -568,10 +575,9 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -646,10 +652,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -726,10 +731,9 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -804,10 +808,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -885,10 +888,9 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -964,10 +966,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1045,10 +1046,9 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1124,10 +1124,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1205,10 +1204,9 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1282,10 +1280,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1362,10 +1359,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1442,10 +1438,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1522,10 +1517,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1602,10 +1596,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1681,10 +1674,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1758,10 +1750,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1835,10 +1826,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1915,10 +1905,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1995,10 +1984,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2072,78 +2060,133 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader>
-  <text>
-      <body>
-         <div type="entry">
-            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary59.jpg"/>
-            <fw>On Board Guide</fw> 
-            <dateline><date>Thursday April 17. 1862</date></dateline>
-            <p>Yesterday we got orders about noon to go on board the <objectName type="vehicle">"Guide"</objectName> with
-               six days <objectName type="food">provision</objectName>. In two hours we were on our march. Leaving all the sick we
-               have seven hundred solid men with us. We marched through <placeName cert="high" key="New Berne" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059">New Bern<precision match="@ref" precision="high"/></placeName>, past <placeName>Gen. Burnside's &amp; Reno's headquarters</placeName> - The streets of the town are sandy like a
-               sea-shore - <name type="weather">the day was very hot</name> - &amp; though equipped for light marching it
-               was very hard on us. We went to the<placeName> wharf at the railroad depo</placeName>t, on the
-               <objectName type="vehicle">Neuse</objectName>?, &amp; the <persName>Pilot-Boy</persName> took us one wing at a time, down to <objectName>the Guide</objectName>
-               lying below Town.<name> <objectName>The Guide</objectName></name> is a very fine boat 32 feet longer than the<name> <objectName>Cossack</objectName></name>
-               - &amp; her style finer. We are quartered very comfortable, though the
-               men are very much crowded, and<name type="weather"> between decks it is very hot</name>.<persName> Capt. Shawl</persName> is
-               usual drunk as a fool - I was reading at the table when he came up, took the
-               light and made a drunken endeavour to light his <objectName>pipe</objectName>. My first impression was
-               that the wind had blown it out. As I looked up he had his pipe upside down,
-               swaying to &amp; fro until he scorched his nose. "Don't you like it you can
-               lump it" he said. I now register this now, that twere I have excused his
-               impertince, because he was drunk, but here after, I will go upon the rule of
-               law as to drunkeness, that is - every man is supposed to know the consequences
-               of his own [?]. He commenced talking about getting killed - that we were to
-               have a battle on this expedition. I shall never vary my belief in his innate
-               cowardice. The only time he kept sober was when he led us away from
-               <placeName key="Centreville, Maryland" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnp0l14">Centreville</placeName>. He was drunk when we landed at <placeName cert="high" key="Roanoke Island" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl076">Roanoke<precision match="@ref" precision="high"/></placeName>, he was drunk at the
-               battle. He was drunk at <placeName key="Slocum Creek" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl079">Slocum's Creek</placeName> &amp; presented a most contemptible
-               aspect - having fallen in the <objectName type="nature">mud</objectName>. The <objectName type="equipment">hair matress</objectName> was too warm for me to
-               sleep on, in the close state room, having slept in the open air for a month.
-               <name type="weather">Toward morning it became cooler &amp; I slept</name>. I have today been better than I
-               have been for sometime. I have been bothered with pain in the back, head and
-               back of the neck &amp; stomach - I was not alarmed though they were symptoms of
-               small-pox. But today my both hands broke out with red-spots &amp; pimples.
-               There we are thinks I - only regretting that I was not back to<placeName cert="high" key="New Berne" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059"> New Berne,<precision match="@ref" precision="high"/></placeName> and
-               the length of time it would put me off duty. However after looking at it
-               suspiciously all day, I found they turned out to be watering pimples - bless my
-               soul - was ever man known to rejoice that he had caught the Itch - [?] it was -
-               &amp; no small-pox -</p>
-            
-            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary60.jpg"/>
-            
-            
-            <fw>Thursday 17. continued. </fw>
-            <p>We left <placeName key="New Berne" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059">New Berne </placeName>about six o’clock. We looked with interest, at<placeName cert="high" key="Slocum Creek" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl079"> Slocum’s creek<precision match="@ref" precision="high"/></placeName>
-               - but I spent most of the day on the confessions of love queen. We passed
-               <placeName key="Ocracoke inlet" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl064">Ocracoke inlet</placeName> about 11 o’clock, passed a steamer, <placeName cert="high" key="Port Royal" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl072">Port Royal<precision match="@ref" precision="high"/></placeName>, and 7 schooners
-               - <placeName key="Hatteras Inlet" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl045">Hatteras inlet</placeName> somewhat after one, and got aground between 4 &amp; 5 miles or
-               so this side of <placeName cert="high" key="Roanoke Island" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl076">Roanoke Island<precision match="@ref" precision="high"/></placeName>, just the place where the Guide got aground when
-               we first went up. The <objectName type="vehicle">Massasoit</objectName> came down about dusk &amp; took our men off to
-               lighten the boat. <objectName type="vehicle">The Cossack</objectName> passed us taking the sick and wounded north.
-               There is something singular about this expedition. The <orgName>N.Y. 51, Mass. 21. 48 Penna</orgName> were ordered to go on it.<placeName> Lt. Col. Bell</placeName> &amp; some of our officers were
-               sitting on the <persName cert="medium" key="Henry Miller" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper100" type="real">Gen-Court Martial</persName>, &amp; <persName cert="high" key="Capt. Mitchell" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper132">Capt. Mitchel</persName> <orgName>51 N.Y</orgName>. &amp; other
-               officers had just got excused, to go on the expedition, &amp; they were
-               twitting <persName cert="medium" key="Thomas Bell" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072" type="real">Lt. Col. Bell</persName> on his noting left behind, when the order came
-               countermanding the orders of other regiments and our one substituted. The
-               officers of the other regiments are as mad as forty. An inspection of marching
-               return showed that our regiment has as many effective men as the other three
-               together. <persName cert="high" key="Frank Reno" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper102">Gen. Reno</persName> &amp; <persName key="Ambrose Burnside" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008" type="real">Burnside</persName> are to join us. <orgName>Co. E. Capt Hassenplug’s Company</orgName> had to go without a commissioned officer. Foster is evidently
-               consumpted &amp; it will go hard with him if he gets home. He may attribute it
-               all to his own work - dissipation especially at <placeName>Harrisburg</placeName>. When our regiment
-               came on board, one of the the hands asked where we were from - said that we
-               were the quietest men he ever saw - It took but a half of hour before every man
-               was quiet in his bunk - every other regiment he said, in a half hour would have
-               the <objectName type="vehicle">ship</objectName> upside down in a half hour. <persName>The Capt</persName> asked the <persName cert="medium" key="Thomas Bell" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072" type="real">Col</persName>. to make proper
-               arrangements for order. <persName cert="high" key="Thomas Bell" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072">The Col</persName> said he shouldn’t trouble about that - “Thats
-               what <persName>the Cols</persName> of other regiments said &amp; we always had a row.” <persName>The Capt</persName>. [bail] expressed himself agreeably surprised. He is a young man, highly
-               educated, literary - mode sailor and though very young has been master for nine
-               years. We are happily off now, but ...
-            </p>
-         </div>
-      </body>
-  </text>
+				</rdf:Description>
+			</rdf:RDF></xenoData>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="entry">
+				<pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary59.jpg"/>
+				<fw>On Board Guide</fw>
+				<dateline><date>Thursday April 17. 1862</date></dateline>
+				<p>Yesterday we got orders about noon to go on board the <objectName type="vehicle"
+						>"Guide"</objectName> with six days <objectName type="food"
+						>provision</objectName>. In two hours we were on our march. Leaving all the
+					sick we have seven hundred solid men with us. We marched through <placeName
+						cert="high" key="New Berne"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059"
+						>New Bern</placeName>, past
+						<placeName>Gen. Burnside's &amp; Reno's headquarters</placeName> - The
+					streets of the town are sandy like a sea-shore - <name type="weather">the day
+						was very hot</name> - &amp; though equipped for light marching it was very
+					hard on us. We went to the<placeName> wharf at the railroad depo</placeName>t,
+					on the <objectName type="vehicle">Neuse</objectName>?, &amp; the
+						<objectName>Pilot-Boy</objectName> took us one wing at a time, down to
+						<objectName>the Guide</objectName> lying below Town.<name>
+						<objectName>The Guide</objectName></name> is a very fine boat 32 feet longer
+					than the<name>
+						<objectName>Cossack</objectName></name> - &amp; her style finer. We are
+					quartered very comfortable, though the men are very much crowded, and<name
+						type="weather"> between decks it is very hot</name>.<persName> Capt.
+						Shawl</persName> is usual drunk as a fool - I was reading at the table when
+					he came up, took the light and made a drunken endeavour to light his
+						<objectName>pipe</objectName>. My first impression was that the wind had
+					blown it out. As I looked up he had his pipe upside down, swaying to &amp; fro
+					until he scorched his nose. "Don't you like it you can lump it" he said. I now
+					register this now, that twere I have excused his impertince, because he was
+					drunk, but here after, I will go upon the rule of law as to drunkeness, that is
+					- every man is supposed to know the consequences of his own [?]. He commenced
+					talking about getting killed - that we were to have a battle on this expedition.
+					I shall never vary my belief in his innate cowardice. The only time he kept
+					sober was when he led us away from <placeName key="Centreville, Maryland"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnp0l14"
+						>Centreville</placeName>. He was drunk when we landed at <placeName
+						cert="high" key="Roanoke Island"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl076"
+							>Roanoke</placeName>, he was
+					drunk at the battle. He was drunk at <placeName key="Slocum Creek"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl079"
+						>Slocum's Creek</placeName> &amp; presented a most contemptible aspect -
+					having fallen in the <objectName type="nature">mud</objectName>. The <objectName
+						type="equipment">hair matress</objectName> was too warm for me to sleep on,
+					in the close state room, having slept in the open air for a month. <name
+						type="weather">Toward morning it became cooler &amp; I slept</name>. I have
+					today been better than I have been for sometime. I have been bothered with pain
+					in the back, head and back of the neck &amp; stomach - I was not alarmed though
+					they were symptoms of small-pox. But today my both hands broke out with
+					red-spots &amp; pimples. There we are thinks I - only regretting that I was not
+					back to<placeName cert="high" key="New Berne"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059"
+						> New Berne,</placeName> and the
+					length of time it would put me off duty. However after looking at it
+					suspiciously all day, I found they turned out to be watering pimples - bless my
+					soul - was ever man known to rejoice that he had caught the Itch - [?] it was -
+					&amp; no small-pox -</p>
+				<pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary60.jpg"/>
+				<fw>Thursday 17. continued. </fw>
+				<p>We left <placeName key="New Berne"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059"
+						>New Berne </placeName>about six o’clock. We looked with interest,
+						at<placeName cert="high" key="Slocum Creek"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl079"
+						> Slocum’s creek</placeName> - but
+					I spent most of the day on the confessions of love queen. We passed <placeName
+						key="Ocracoke inlet"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl064"
+						>Ocracoke inlet</placeName> about 11 o’clock, passed a steamer, <placeName
+						cert="high" key="Port Royal"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl072"
+						>Port Royal</placeName>, and 7
+					schooners - <placeName key="Hatteras Inlet"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl045"
+						>Hatteras inlet</placeName> somewhat after one, and got aground between 4
+					&amp; 5 miles or so this side of <placeName cert="high" key="Roanoke Island"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl076"
+						>Roanoke Island<precision match="@ref" precision="high"/></placeName>, just
+					the place where the Guide got aground when we first went up. The <objectName
+						type="vehicle">Massasoit</objectName> came down about dusk &amp; took our
+					men off to lighten the boat. <objectName type="vehicle">The Cossack</objectName>
+					passed us taking the sick and wounded north. There is something singular about
+					this expedition. The <orgName>N.Y. 51, Mass. 21. 48 Penna</orgName> were ordered
+					to go on it.<placeName> Lt. Col. Bell</placeName> &amp; some of our officers
+					were sitting on the <persName cert="medium" key="Henry Miller"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper100"
+						type="real">Gen-Court Martial</persName>, &amp; <persName cert="high"
+						key="Capt. Mitchell"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper132"
+						>Capt. Mitchel</persName>
+					<orgName>51 N.Y</orgName>. &amp; other officers had just got excused, to go on
+					the expedition, &amp; they were twitting <persName cert="medium"
+						key="Thomas Bell"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072"
+						type="real">Lt. Col. Bell</persName> on his noting left behind, when the
+					order came countermanding the orders of other regiments and our one substituted.
+					The officers of the other regiments are as mad as forty. An inspection of
+					marching return showed that our regiment has as many effective men as the other
+					three together. <persName cert="high" key="Frank Reno"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper102"
+						>Gen. Reno</persName> &amp; <persName key="Ambrose Burnside"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008"
+						type="real">Burnside</persName> are to join us. <orgName>Co. E. Capt
+						Hassenplug’s Company</orgName> had to go without a commissioned officer.
+					Foster is evidently consumpted &amp; it will go hard with him if he gets home.
+					He may attribute it all to his own work - dissipation especially at
+						<placeName>Harrisburg</placeName>. When our regiment came on board, one of
+					the the hands asked where we were from - said that we were the quietest men he
+					ever saw - It took but a half of hour before every man was quiet in his bunk -
+					every other regiment he said, in a half hour would have the <objectName
+						type="vehicle">ship</objectName> upside down in a half hour. <persName>The
+						Capt</persName> asked the <persName cert="medium" key="Thomas Bell"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072"
+						type="real">Col</persName>. to make proper arrangements for order. <persName
+						cert="high" key="Thomas Bell"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072"
+						>The Col</persName> said he shouldn’t trouble about that - “Thats what
+						<persName>the Cols</persName> of other regiments said &amp; we always had a
+					row.” <persName>The Capt</persName>. [bail] expressed himself agreeably
+					surprised. He is a young man, highly educated, literary - mode sailor and though
+					very young has been master for nine years. We are happily off now, but ... </p>
+			</div>
+		</body>
+	</text>
 </TEI>

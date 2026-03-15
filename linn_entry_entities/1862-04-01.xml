@@ -1,187 +1,198 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>James Merrill Linn Diary: 1861-1862</title>
-            <author>James Merrill Linn</author>
-            <respStmt>
-               <name>
-                  <persName>Diane K. Jakacki</persName>
-                  <orgName>Bucknell University </orgName>                 
-               </name>
-               <resp>Professor, Lead Investigator</resp>
-            </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Junior Alejandro</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Matteo Antenucci</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-                  
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>NinaArsov</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Caroline Colucci</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Drew Fisher</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Olivia Garcia</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Harvey Harvison</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Reilly Hope</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Matti Kruger</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Selena Liu</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Gayda Makki</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ben Maya</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Calvin McGuire</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Natalie Monroe</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Luke Nowicki</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ori Raz</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Grayson Renkert</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Amadou Samb</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ben Samuels</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Rose Schmidt</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Nyah von Haam</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Bucknell University</authority>
-            <address>
-               <settlement>Lewisburg</settlement>
-               <region>Pennsylvania</region>
-               <country>USA</country>
-            </address>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-                  Attribution-NonCommercial-ShareAlike 4.0 International
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>James Merrill Linn Diary: 1861-1862</title>
+				<author>James Merrill Linn</author>
+				<respStmt>
+					<name>
+						<persName>Diane K. Jakacki</persName>
+						<orgName>Bucknell University </orgName>
+					</name>
+					<resp>Professor, Lead Investigator</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Junior Alejandro</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Matteo Antenucci</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>NinaArsov</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Caroline Colucci</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Drew Fisher</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Olivia Garcia</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Harvey Harvison</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Reilly Hope</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Matti Kruger</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Selena Liu</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Gayda Makki</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Ben Maya</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Calvin McGuire</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Natalie Monroe</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Luke Nowicki</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Ori Raz</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Grayson Renkert</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Amadou Samb</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Ben Samuels</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Rose Schmidt</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+				<respStmt>
+					<name>
+						<persName>Nyah von Haam</persName>
+						<orgName>Bucknell University</orgName>
+					</name>
+					<resp>Encoding editor</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Bucknell University</authority>
+				<address>
+					<settlement>Lewisburg</settlement>
+					<region>Pennsylvania</region>
+					<country>USA</country>
+				</address>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+						Attribution-NonCommercial-ShareAlike 4.0 International </licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<sponsor>Bucknell University Special Collections and University
+						Archives</sponsor>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -259,10 +270,9 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -338,10 +348,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -417,10 +426,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -496,10 +504,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -577,10 +584,9 @@
 	"cwrc:hasCertainty": "cwrc:unknown",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -654,10 +660,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -734,10 +739,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -814,10 +818,9 @@
 	},
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -894,10 +897,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -974,10 +976,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1053,10 +1054,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1133,10 +1133,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1210,10 +1209,9 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1290,10 +1288,9 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1370,10 +1367,9 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1449,42 +1445,101 @@
 		"schema:softwareVersion": "4.0.0-beta.1"
 	}
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader>
-  <text>
-      <body>
-         <div type="entry">
-            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary53.jpg"/>
-            <dateline><date>Tuesday April 1. 1862.</date></dateline>
-            <p>The day was <name type="Weather">hot</name>, the sun making it so - but <name type="Weather">the air would at times feel chilly</name>.
-               I was quite unwell during the forenoon, weakened down by my cold and diarrhoea.
-               After dinner owing to some startling rumors I was induced to [?] over to <placeName role="City / town" cert="high" key="New Berne" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059">New Berne<precision match="@ref" precision="high"/></placeName>. The [?] was as still as death, but the quiet work going on was amazing.
-               <objectName key="Equipment">Artillery</objectName> was being hauled out back of town: the <orgName role="Military">57th N.Y.</orgName> &amp; <orgName role="Military">11th Conn.</orgName>
-               sent to work on the <objectName key="Building">fort</objectName>. Our <orgName key="Army">pickets</orgName> had been attacked last night one killed -
-               <persName role="Soldier">one rebel</persName> killed &amp; a deserter came in, who gave the information, that 5000
-               <orgName role="Military">rebels</orgName> were <placeName role="Next to Kingston" key="Kingston" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl048">five miles this side of Kingston</placeName>, and 25,000 in <placeName role="Town" key="Kingston" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl048">Kingston</placeName> advancing
-               this way, under command of <persName key="Robert Ransom" role="Soldier" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper068" type="real">Gen. Ransom</persName>, an old West Pointer, well known to our
-               Generals, and said to be a man of considerable dash. 
-               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary54.jpg"/>
-               <fw>April 1 continued.</fw> The [?] [?] was sent to <placeName role="Base" cert="unknown" key="Hatteras Light House" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl046">Hatteras<precision match="@ref" precision="high"/></placeName> last night at
-               twelve o'clock to hasten the <orgName role="Military">reinforcements</orgName>. <persName role="Admiral">The Admiral</persName> came in while I was
-               over there, &amp; we saw <objectName key="Vehicles" role="Ship">the Cossack</objectName> go up afterwards I met <persName role="newspaper correspondent" cert="high" key="Fitzpatrick" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper123" type="real">Fitzpatrick</persName>, cor.
-               of Herald, who gave me <objectName key="Readable">papers</objectName> with the <objectName key="Readable">news</objectName> of the Battle of <placeName role="Battle site" cert="high" key="Winchester" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl094">Winchester</placeName>. He
-               said the <orgName role="Military">17. Mass</orgName>. <orgName role="Military">103. N York</orgName>, &amp; <orgName role="Military">2 Maryland</orgName> were there - &amp; some
-               <orgName key="Army">batteries</orgName> in all 3000. [Parke's?] Brigade with the companies New Jersey are at
-               <placeName role="Fort" key="Fort Macon" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl029">F Macon<precision match="@ref" precision="high"/></placeName>, so that we have of our old force, <orgName role="Military">25. 23. 27. 24. Mass</orgName> <orgName role="Military">10th 11th Conn</orgName>,
-               <orgName role="Military">51st N.Y.</orgName> <orgName role="Military">57. Penna.</orgName> <orgName role="Military">21 Mass</orgName>, &amp; <orgName role="Military">4 companies 9th New Jersey</orgName>, <orgName role="Military">6 of the 48th Penna</orgName>, about 6000 effective men, &amp; the reinforcements 3000, 9000 in all. It
-               is wonderful how the regiments are reduced by sickness and death. Our regiment
-               for instance, had but 450 men on dress parade - &amp; say [200?] Guard &amp;
-               other details make us a little over 500 strong. I have nineteen sick in my own
-               company. But prospects of a battle would call the sick out. It appeared to be a
-               matter of anxiety to <persName key="Ambrose Burnside" role="Soldier" cert="high" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008" type="real">Gen Burnside</persName> that the troops were broken down so, and he
-               attributed it partly to want of <objectName key="Food">fresh beef</objectName> &amp; <objectName key="Food">vegetables</objectName> &amp; he said that
-               he had written to <placeName key="Washington N.C" role="City" cert="medium" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl090">Washington</placeName> urging <objectName key="Food">beef</objectName> to be sent. If the rebels wouldnt come
-               for a week, they couldnt come past that <objectName key="Building">fort</objectName>. <persName key="Thomas Bell" role="Soldier" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072">Col. Bell</persName> says his orders are
-               that if he hears heavy firing to form and march to <objectName key="Vehicle" type="Ship">the Ferry.</objectName> <persName key="Thomas Bell" role="Soldier" cert="high" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072" type="real">Lt Bell</persName> that was
-               with <persName key="Capt. McRae" role="Soldier" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper119">Capt. McRae</persName> in the battle with the <orgName role="Enemy forces">Texans</orgName> and <placeName role="Territory" cert="high" key="New Mexico" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl098">New Mexico<precision match="@ref" precision="high"/></placeName> was <persName>his brother</persName>.</p>
-         </div>
-      </body>
-  </text>
+				</rdf:Description>
+			</rdf:RDF></xenoData>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="entry">
+				<pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary53.jpg"/>
+				<dateline><date>Tuesday April 1. 1862.</date></dateline>
+				<p>The day was <name type="Weather">hot</name>, the sun making it so - but <name
+						type="Weather">the air would at times feel chilly</name>. I was quite unwell
+					during the forenoon, weakened down by my cold and diarrhoea. After dinner owing
+					to some startling rumors I was induced to [?] over to <placeName
+						role="City / town" cert="high" key="New Berne"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059"
+						>New Berne</placeName>. The [?]
+					was as still as death, but the quiet work going on was amazing. <objectName
+						key="Equipment">Artillery</objectName> was being hauled out back of town:
+					the <orgName role="Military">57th N.Y.</orgName> &amp; <orgName role="Military"
+						>11th Conn.</orgName> sent to work on the <objectName key="Building"
+						>fort</objectName>. Our <orgName key="Army">pickets</orgName> had been
+					attacked last night one killed - <persName role="Soldier">one rebel</persName>
+					killed &amp; a deserter came in, who gave the information, that 5000 <orgName
+						role="Military">rebels</orgName> were <placeName role="Next to Kingston"
+						key="Kingston"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl048"
+						>five miles this side of Kingston</placeName>, and 25,000 in <placeName
+						role="Town" key="Kingston"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl048"
+						>Kingston</placeName> advancing this way, under command of <persName
+						key="Robert Ransom" role="Soldier"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper068"
+						type="real">Gen. Ransom</persName>, an old West Pointer, well known to our
+					Generals, and said to be a man of considerable dash. <pb
+						facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary54.jpg"/>
+					<fw>April 1 continued.</fw> The [?] [?] was sent to <placeName role="Base"
+						cert="unknown" key="Hatteras Light House"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl046"
+							>Hatteras<precision match="@ref" precision="high"/></placeName> last
+					night at twelve o'clock to hasten the <orgName role="Military"
+						>reinforcements</orgName>. <persName role="Admiral">The Admiral</persName>
+					came in while I was over there, &amp; we saw <objectName key="Vehicles"
+						role="Ship">the Cossack</objectName> go up afterwards I met <persName
+						role="newspaper correspondent" cert="high" key="Fitzpatrick"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper123"
+						type="real">Fitzpatrick</persName>, cor. of Herald, who gave me <objectName
+						key="Readable">papers</objectName> with the <objectName key="Readable"
+						>news</objectName> of the Battle of <placeName role="Battle site"
+						cert="high" key="Winchester"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl094"
+						>Winchester</placeName>. He said the <orgName role="Military">17.
+						Mass</orgName>. <orgName role="Military">103. N York</orgName>, &amp;
+						<orgName role="Military">2 Maryland</orgName> were there - &amp; some
+						<orgName key="Army">batteries</orgName> in all 3000. [Parke's?] Brigade with
+					the companies New Jersey are at <placeName role="Fort" key="Fort Macon"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl029"
+						>F Macon<precision match="@ref" precision="high"/></placeName>, so that we
+					have of our old force, <orgName role="Military">25. 23. 27. 24. Mass</orgName>
+					<orgName role="Military">10th 11th Conn</orgName>, <orgName role="Military">51st
+						N.Y.</orgName>
+					<orgName role="Military">57. Penna.</orgName>
+					<orgName role="Military">21 Mass</orgName>, &amp; <orgName role="Military">4
+						companies 9th New Jersey</orgName>, <orgName role="Military">6 of the 48th
+						Penna</orgName>, about 6000 effective men, &amp; the reinforcements 3000,
+					9000 in all. It is wonderful how the regiments are reduced by sickness and
+					death. Our regiment for instance, had but 450 men on dress parade - &amp; say
+					[200?] Guard &amp; other details make us a little over 500 strong. I have
+					nineteen sick in my own company. But prospects of a battle would call the sick
+					out. It appeared to be a matter of anxiety to <persName key="Ambrose Burnside"
+						role="Soldier" cert="high"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008"
+						type="real">Gen Burnside</persName> that the troops were broken down so, and
+					he attributed it partly to want of <objectName key="Food">fresh
+						beef</objectName> &amp; <objectName key="Food">vegetables</objectName> &amp;
+					he said that he had written to <placeName key="Washington N.C" role="City"
+						cert="medium"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl090"
+						>Washington</placeName> urging <objectName key="Food">beef</objectName> to
+					be sent. If the rebels wouldnt come for a week, they couldnt come past that
+						<objectName key="Building">fort</objectName>. <persName key="Thomas Bell"
+						role="Soldier"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072"
+						>Col. Bell</persName> says his orders are that if he hears heavy firing to
+					form and march to <objectName key="Vehicle" type="Ship">the Ferry.</objectName>
+					<persName key="Thomas Bell" role="Soldier" cert="high"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072"
+						type="real">Lt Bell</persName> that was with <persName key="Capt. McRae"
+						role="Soldier"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper119"
+						>Capt. McRae</persName> in the battle with the <orgName role="Enemy forces"
+						>Texans</orgName> and <placeName role="Territory" cert="high"
+						key="New Mexico"
+						ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl098"
+						>New Mexico<precision match="@ref" precision="high"/></placeName> was
+						<persName>his brother</persName>.</p>
+			</div>
+		</body>
+	</text>
 </TEI>

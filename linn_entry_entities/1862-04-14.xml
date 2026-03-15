@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>James Merrill Linn Diary: 1861-1862</title>
@@ -7,158 +8,157 @@
             <respStmt>
                <name>
                   <persName>Diane K. Jakacki</persName>
-                  <orgName>Bucknell University </orgName>                 
+                  <orgName>Bucknell University </orgName>
                </name>
                <resp>Professor, Lead Investigator</resp>
             </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Junior Alejandro</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Matteo Antenucci</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-                  
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>NinaArsov</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Caroline Colucci</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Drew Fisher</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Olivia Garcia</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Harvey Harvison</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Reilly Hope</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Matti Kruger</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Selena Liu</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Gayda Makki</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ben Maya</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Calvin McGuire</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Natalie Monroe</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Luke Nowicki</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ori Raz</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Grayson Renkert</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Amadou Samb</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Ben Samuels</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Rose Schmidt</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
-               <respStmt>
-                  <name>
-                     <persName>Nyah von Haam</persName>
-                     <orgName>Bucknell University</orgName>
-                  </name>
-                  <resp>Encoding editor</resp>
-               </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Junior Alejandro</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matteo Antenucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>NinaArsov</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Caroline Colucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Drew Fisher</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Olivia Garcia</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Harvey Harvison</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Reilly Hope</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matti Kruger</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Selena Liu</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Gayda Makki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Maya</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Calvin McGuire</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Natalie Monroe</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Luke Nowicki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ori Raz</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Grayson Renkert</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Amadou Samb</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Samuels</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Rose Schmidt</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Nyah von Haam</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>Bucknell University</authority>
@@ -169,8 +169,7 @@
             </address>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-                  Attribution-NonCommercial-ShareAlike 4.0 International
-               </licence>
+                  Attribution-NonCommercial-ShareAlike 4.0 International </licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -179,9 +178,19 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
-  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+            xmlns:as="http://www.w3.org/ns/activitystreams#"
+            xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#"
+            xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#"
+            xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+            xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+            xmlns:org="http://www.w3.org/ns/org#">
+            <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+               <![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -259,18 +268,33 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
-  <text>
+            </rdf:Description>
+         </rdf:RDF></xenoData>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+            xmlns:as="http://www.w3.org/ns/activitystreams#"
+            xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#"
+            xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#"
+            xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+            xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+            xmlns:org="http://www.w3.org/ns/org#"/></xenoData>
+   </teiHeader>
+   <text>
       <body>
          <div type="entry">
             <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary58.jpg"/>
             <dateline><date>Monday. 14</date>.</dateline>
-            <p>I have been exceedingly unwell - had to leave the drill this afternoon. I got
-               some <objectName type="equipment">medicine</objectName>, went out to dress parade &amp; it had a bad effect on me. My
-               head is giddy, bones ache, burning fever. But I hope I'll be better soon. We
-               have the news of the Battle of <placeName cert="high" key="Corinth, Mississippi" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl018">Corinth<precision match="@ref" precision="high"/></placeName> confirmed.</p>
+            <p>I have been exceedingly unwell - had to leave the drill this afternoon. I got some
+                  <objectName type="equipment">medicine</objectName>, went out to dress parade &amp;
+               it had a bad effect on me. My head is giddy, bones ache, burning fever. But I hope
+               I'll be better soon. We have the news of the Battle of <placeName cert="high"
+                  key="Corinth, Mississippi"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl018"
+                     >Corinth</placeName> confirmed.</p>
          </div>
       </body>
-  </text>
+   </text>
 </TEI>

@@ -1,7 +1,6 @@
 element,key,ref,type,tagged_content,date,source_file
 "name","","","weather","The day was dark and murky in the morning but it cleared towards noon and was hot during the afternoon","","1862-04-08.xml"
 "orgName","","","","company","","1862-04-08.xml"
-"objectName","","","","two letters","","1862-04-08.xml"
 "objectName","","","readible","two letters","","1862-04-08.xml"
 "persName","John Blair Linn","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper051","","John","","1862-04-08.xml"
 "objectName","","","readible","payrolls","","1862-04-08.xml"

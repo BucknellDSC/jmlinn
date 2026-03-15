@@ -8,7 +8,7 @@ element,key,ref,type,tagged_content,date,source_file
 "objectName","","","","boat","","1862-02-10.xml"
 "objectName","","","","biscuit","","1862-02-10.xml"
 "objectName","","","","coffee","","1862-02-10.xml"
-"placeName","","","ship","Cossack","","1862-02-10.xml"
+"objectName","","","ship","Cossack","","1862-02-10.xml"
 "persName","Dick Coulter","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper025","","Dick","","1862-02-10.xml"
 "objectName","","","vehicle","boat","","1862-02-10.xml"
 "name","","","weather","snowing","","1862-02-10.xml"

@@ -1,0 +1,8 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","weather is so hot","","1862-05-21.xml"
+"persName","","","","John Quincy Adams","","1862-05-21.xml"
+"persName","Dick Langley","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper103","","Dick’s","","1862-05-21.xml"
+"persName","Jacob G. Beaver","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003","","Beaver","","1862-05-21.xml"
+"persName","Jacob G. Beaver","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003","","Beaver","","1862-05-21.xml"
+"persName","Jacob G. Beaver","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003","","Beaver","","1862-05-21.xml"
+"placeName","Roanoke Island","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl076","","Roanoke","","1862-05-21.xml"

@@ -1,0 +1,6 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","Warm, very warm","","1862-05-28.xml"
+"placeName","Trent River","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083","","Trent","","1862-05-28.xml"
+"orgName","","","","22nd Division","","1862-05-28.xml"
+"placeName","Beaufort","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl005","","Beaufort","","1862-05-28.xml"
+"persName","A.F.C. Phillips","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper009","","Phillips","","1862-05-28.xml"

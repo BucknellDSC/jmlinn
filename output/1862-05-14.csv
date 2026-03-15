@@ -1,0 +1,13 @@
+element,key,ref,type,tagged_content,date,source_file
+"name","","","weather","he morning was lowering, and this afternoon we had a furious thunderstorm","","1862-05-14.xml"
+"placeName","","","","West Point","","1862-05-14.xml"
+"placeName","","","","Williamsburg","","1862-05-14.xml"
+"persName","John Blair Linn","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper051","","John","","1862-05-14.xml"
+"orgName","","","","7th","","1862-05-14.xml"
+"orgName","","","","Col Emory's Brigade","","1862-05-14.xml"
+"orgName","","","","2nd","","1862-05-14.xml"
+"placeName","","","","Maryland","","1862-05-14.xml"
+"persName","Ambrose Burnside","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008","","Gen. Burnside","","1862-05-14.xml"
+"placeName","Camden","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl008","","Camden","","1862-05-14.xml"
+"placeName","Fort Totten","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl036","","Fort Totten","","1862-05-14.xml"
+"placeName","New Berne","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl059","","New Bern","","1862-05-14.xml"
