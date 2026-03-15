@@ -851,6 +851,42 @@
             <place xml:id="linnpl119">
                <placeName>Mifflinburg, PA</placeName>
             </place>
+            <place xml:id="linnpl120">
+               <placeName>Sewell's Point</placeName>
+            </place>
+            <place xml:id="linnpl121">
+               <placeName>Bald Beach, NC</placeName>
+            </place>
+            <place xml:id="linnpl122">
+               <placeName>Pine Swamp, NC</placeName>
+            </place>
+            <place xml:id="linnpl123">
+               <placeName>Raleigh, NC</placeName>
+            </place>
+            <place xml:id="linnpl124">
+               <placeName>Hampton Roads</placeName>
+            </place>
+            <place xml:id="linnpl125">
+               <placeName>Hanover, VA</placeName>
+            </place>
+            <place xml:id="linnpl126">
+               <placeName>James Island, SC</placeName>
+            </place>
+            <place xml:id="linnpl127">
+               <placeName>Kentucky</placeName>
+            </place>
+            <place xml:id="linnpl128">
+               <placeName>Lynnhaven Bay</placeName>
+            </place>
+            <place xml:id="linnpl129">
+               <placeName>Mound City, KS</placeName>
+            </place>
+            <place xml:id="linnpl130">
+               <placeName>White River</placeName>
+            </place>
+            <place xml:id="linnpl131">
+               <placeName>West Point, GA</placeName>
+            </place>
 
          </listPlace>
       </body>
