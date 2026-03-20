@@ -792,7 +792,7 @@
                <placeName>Florida</placeName>
             </place>
             <place xml:id="linnpl103">
-               <placeName>Patuxet River</placeName>
+               <placeName>Patuxent River</placeName>
             </place>
             <place xml:id="linnpl104">
                <placeName>Minot Ledge Lighthouse</placeName>
@@ -886,6 +886,9 @@
             </place>
             <place xml:id="linnpl131">
                <placeName>West Point, GA</placeName>
+            </place>
+            <place xml:id="linnpl132">
+               <placeName>Chesapeake</placeName>
             </place>
 
          </listPlace>
