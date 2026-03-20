@@ -890,6 +890,9 @@
             <place xml:id="linnpl132">
                <placeName>Chesapeake</placeName>
             </place>
+            <place xml:id="linnpl133">
+               <placeName>Shirleysburg, PA</placeName>
+            </place>
 
          </listPlace>
       </body>
