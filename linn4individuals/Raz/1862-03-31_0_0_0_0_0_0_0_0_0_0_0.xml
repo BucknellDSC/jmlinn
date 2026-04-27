@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114707766",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-02-27T16:47:07.766Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/109",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ori Raz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114707766#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114707766#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper057",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114721038",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-02-27T16:47:21.038Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/109",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ori Raz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114721038#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114721038#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper079",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114811501",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-02-27T16:48:11.501Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/109",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ori Raz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114811501#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114811501#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper002",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114830715",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-02-27T16:48:30.715Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/109",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ori Raz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114830715#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114830715#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[7]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper022",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260227114851627",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-02-27T16:48:51.627Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/109",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ori Raz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260227114851627#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260227114851627#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl058",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:unknown",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114913128",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-02-27T16:49:13.128Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/109",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ori Raz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114913128#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114913128#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114930810",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-02-27T16:49:30.810Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/109",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ori Raz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114930810#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260227114930810#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260227114945478",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-02-27T16:49:45.478Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/109",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ori Raz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260227114945478#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?place_annotation_20260227114945478#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260302111623348",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T16:16:23.348Z",
+	"dcterms:modified": "2026-03-02T16:16:31.211Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/109",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ori Raz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260302111623348#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-03-31_0_0_0_0_0_0_0_0_0_0.xml?person_annotation_20260302111623348#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper086",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary53.jpg"/>
+            <dateline><date>Monday. 31.</date></dateline>
+            <p><time>The morning</time> was <name key="Negetive" type="Weather">raw and chilly</name> - such as we have in September. <name type="Weather">Then the sun came out</name> about <time>ten o'clock</time> and was <name type="Weather">very hot</name> <time>until evening</time>, when it became <name type="weather">chilly</name>. Whisky has been ordered to be served to the men, an <objectName key="Drink">ounce</objectName> in the morning I had
+               determined to make application for a commission in <orgName role="Army">the regular army</orgName>, &amp; got a
+               recommendation from <persName key="Thomas Bell" role="Soldier" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072">Lt. Col. Bell.</persName> I went over to <persName key="Jesse Reno" role="Soldeir" cert="high" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper086" type="real">Gen Reno</persName>. He and <persName key="Ambrose Burnside" role="Soldier" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008">Gen Burnside</persName>
+               both advised me to hold on to my rank here, as <orgName key="Military">the army</orgName> would be reorganized,
+               and Captains would receive commissions to recruit companies: that I could not
+               get a higher rank than 2nd Lieut &amp; would have to rise from it. <persName key="John Morris" cert="high" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper057" type="real">Morris </persName>&amp;
+               I rode out about a half mile, where <persName key="Thomas Williams" role="Soldier" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper079">Capt. Williamson</persName> was building a <objectName key="Building">fort</objectName>. This
+               is large to contain 8 acres, an <objectName key="Building">enclosed fort</objectName>, &amp; is about a half mile from
+               <placeName role="River" key="Trent River" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083">the Trent</placeName>. Another is to be built 3/4 of a mile further toward <placeName role="River" cert="unknown" key="Neuse River" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl058">the Neuse<precision match="@ref" precision="high"/></placeName>, &amp;
+               about a half mile from it. We had dress parade <time>this evening</time> &amp; <persName key="George Shorkley" role="Soldier" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper002">Lt. Shorkley</persName>
+               acted as adjutant, <persName key="Daniel Bible" role="Soldier" cert="high" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper022" type="real">Bible</persName> being sick. Since last night, everything has moved
+               with an unusual.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

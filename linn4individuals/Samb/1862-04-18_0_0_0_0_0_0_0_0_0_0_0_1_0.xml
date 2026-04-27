@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml?person_annotation_20260304111012922",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-04T16:10:12.922Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/111",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amadou Samb"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml?person_annotation_20260304111012922#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml?person_annotation_20260304111012922#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper040",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml?place_annotation_20260318165408117",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-18T20:54:08.117Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/111",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amadou Samb"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml?place_annotation_20260318165408117#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml?place_annotation_20260318165408117#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl022",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml?place_annotation_20260318165423214",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-18T20:54:23.214Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/111",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amadou Samb"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml?place_annotation_20260318165423214#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-03/1862-04-18_0_0_0_0_0_0_0_0_0_0_0_1.xml?place_annotation_20260318165423214#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl022",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary60.jpg"/>
+            <head><date>Friday 18th</date></head>
+            <p><name type="weather">This was a bright fine day.</name> <persPronouns>We</persPronouns>
+               ran up toward the head of the <placeName>Island</placeName> and got aground. We were better off on the
+               <objectName subtype="boat" type="vehicle">Ocean Wave</objectName> and with the assistance of the tug <objectName subtype="boat" type="vehicle">Champion,</objectName> <objectName subtype="boat" type="vehicle">The Guide</objectName> got through
+               and anchored above the <placeName>light house</placeName>. <objectName subtype="boat">The Northerner</objectName> came up with the 21st Mass
+               and anchored near us. About 3 o’clock the <placeName subtype="boat">Picket</placeName>, <objectName subtype="boat">Phoenix</objectName>, <objectName subtype="boat">Massasoit</objectName>, <objectName subtype="boat">Ocean Wave</objectName> and <objectName subtype="boat">Pilot Boy</objectName> came along with <objectName>hooks</objectName>. They were the <orgName subtype="regiment">6th N.H. 9</orgName> &amp; <orgName subtype="regiment">89 N.Y, 21 Mass</orgName>. <persPronouns>We</persPronouns> were to wait until <placeName subtype="boat">The Phil.</placeName> came along <persPronouns>She</persPronouns> came with a flat
+               and <objectName>guns</objectName> on, and about five o’clock got under way across <placeName>the Sound</placeName>. The wind
+               blew strongly and it was very rough making some sea-sick. We understand that we
+               are to land at <placeName cert="high" key="Elizabeth City" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl022">Elizabeth City<precision match="@ref" precision="high"/></placeName>, march up to <placeName key="Grape Mills" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl040">Grape Mills</placeName> destroy the <objectName>locks</objectName> &amp;
+               come down the left Bank- root out some <objectName>batteries</objectName>. Its said our friends the <orgName subtype="regiment">3rd Georgia</orgName> &amp; <orgName subtype="regiment">Lousiana Tigers</orgName> are here - and that <persName cert="high" key="Henry Wise" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper040" type="real">Gen Wise</persName> was seen in <placeName cert="high" key="Elizabeth City" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl022">EC <precision match="@ref" precision="high"/></placeName>               yesterday </p>
+            
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary61.jpg"/>
+            
+            <fw>Friday 18. continued </fw>
+            <p><name type="weather">The weather was warm but the wind makes it cool this evening.</name> Eight o'clock
+               aground again. It would be very mortifying if <persPronouns>we</persPronouns> were left behind - especially
+               would the jealous party for whom <persPronouns>we</persPronouns> were substituted would twit <persPronouns>us</persPronouns>.<persPronouns> I</persPronouns> have been
+               unwell most of the day. But this evening I<persPronouns/> am pretty well. If the march is 25
+               miles it will go tough with <persPronouns>me</persPronouns>.</p>
+
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204525499",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:45:25.499Z",
+	"dcterms:modified": "2026-03-02T01:45:25.499Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204525499#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204525499#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204602544",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:46:02.544Z",
+	"dcterms:modified": "2026-03-02T01:46:02.544Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204602544#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204602544#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204613083",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:46:13.083Z",
+	"dcterms:modified": "2026-03-02T01:46:24.148Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204613083#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204613083#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:low",
+	"cwrc:hasPrecision": "cwrc:lowCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204628932",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:46:28.932Z",
+	"dcterms:modified": "2026-03-02T01:46:34.551Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204628932#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204628932#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204651832",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:46:51.832Z",
+	"dcterms:modified": "2026-03-02T01:46:51.832Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204651832#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204651832#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204702780",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:47:02.780Z",
+	"dcterms:modified": "2026-03-02T01:47:02.780Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204702780#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204702780#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204710748",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:47:10.748Z",
+	"dcterms:modified": "2026-03-02T01:47:10.748Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204710748#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204710748#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204722830",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:47:22.830Z",
+	"dcterms:modified": "2026-03-02T01:47:28.349Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204722830#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?person_annotation_20260301204722830#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204736914",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:47:36.914Z",
+	"dcterms:modified": "2026-03-02T01:47:42.076Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204736914#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204736914#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204755081",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:47:55.081Z",
+	"dcterms:modified": "2026-03-02T01:47:55.081Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204755081#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204755081#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204921044",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:49:21.044Z",
+	"dcterms:modified": "2026-03-02T01:49:28.809Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204921044#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204921044#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204934115",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:49:34.115Z",
+	"dcterms:modified": "2026-03-02T01:49:34.115Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204934115#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204934115#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204948564",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:49:48.564Z",
+	"dcterms:modified": "2026-03-02T01:49:48.564Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204948564#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204948564#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[7]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204956931",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:49:56.931Z",
+	"dcterms:modified": "2026-03-02T01:49:56.931Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204956931#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301204956931#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205004531",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:50:04.531Z",
+	"dcterms:modified": "2026-03-02T01:50:13.966Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205004531#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205004531#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[9]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnp0l11",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205017247",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:50:17.247Z",
+	"dcterms:modified": "2026-03-02T01:50:17.247Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205017247#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205017247#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[10]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205031996",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:50:31.996Z",
+	"dcterms:modified": "2026-03-02T01:50:39.732Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205031996#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205031996#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl079",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:medium",
+	"cwrc:hasPrecision": "cwrc:mediumCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205051881",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:50:51.881Z",
+	"dcterms:modified": "2026-03-02T01:50:51.881Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205051881#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205051881#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205102462",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-02T01:51:02.462Z",
+	"dcterms:modified": "2026-03-02T01:51:10.474Z",
+	"dcterms:creator": {
+		"@id": "https://leaf.bucknell.edu/user/113",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rose Schmidt"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205102462#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0-beta.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2026-02/1862-05-30_0_0_0_0_0_1_0.xml?place_annotation_20260301205102462#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/placeName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnp0l11",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0-beta.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary72.jpg"/>
+            <dateline><date when="1862-05-30">Friday 30</date>.</dateline>
+            <p>The <name type="weather">day was very warm</name>. We took down our <objectName type="equipment">tents</objectName> &amp; packed, “waiting for the
+<objectName type="equipment"> wagon</objectName>” when about 9 o’clock the <persName type="Military">wagon master</persName> came, and told us he had <objectName type="readable">orders</objectName>
+               from <persName type="Military">Quarter master Hall </persName>not to haul any more over the road until it was
+               repaired, and that he would furnish transportation to the <placeName type="river" cert="low" key="Trent River" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083">river<precision match="@ref" precision="low"/></placeName>, and on the
+               other side of the <placeName key="Trent River" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083">river</placeName>. If my <objectName type="equipment">tents</objectName> hadn’t been down I wouldn’t have budged -
+ we asked "what then - is there a <objectName type="vehicle">boat</objectName>”, well his instructions didn’t go any
+               further. Some peoples was mad, and an indefinite amount of hard swearing done.
+ We expected this from <persName type="Military">Hall</persName>, but yet we couldn’t restrain our indignation. Our
+<persName type="Union"> Quartermaster</persName> starts off with the<persName type="Union"> wagon-master</persName> to see about a <objectName type="vehicle">boat</objectName>. Directly
+               the teams came, &amp; we of course thought there was a <objectName type="vehicle">boat</objectName> - loaded up -
+<persName role="Military" key="Jacob G. Beaver" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003"> Beaver</persName> went with the teams - I started with the company by the road. It must be
+               5 miles - we crossed the <placeName type="Trent" key="Trent River" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083">Trent by the Bridge</placeName>, part of which we knocked down
+               when we went through the draw with the <orgName role="Military " type="Vidette">Vidette</orgName>, and up the left <placeName type="Bank">Bank of the Trent</placeName>. Within a mile or perhaps less, a <objectName type="nature">deep creek</objectName> 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary73.jpg"/> joins the <placeName type="river" cert="high" key="Trent River" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083">Trent<precision match="@ref" precision="high"/></placeName>, then
+               runs along it up, with perhaps <objectName type="nature">500 yards of land</objectName> between, covered with <objectName type="nature">grass</objectName>
+               like <placeName type="Timothy">Timothy</placeName>, then makes a bend like a <objectName type="nature">horseshoe</objectName> &amp; comes back again –
+               across the <objectName type="nature">neck</objectName> it is but a few hundred yards, but the <placeName role="Union" type="Peninsula">peninsula</placeName> contains
+               several hundred <objectName type="nature">acres</objectName> – on the <placeName>peninsula</placeName> is our <placeName role="Union" type="Camp" cert="high" key="Camp Union" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnp0l11">camp<precision match="@ref" precision="high"/></placeName>: <objectName type="nature">covered with grass &amp; shaded with pines</objectName> - the <placeName>banks</placeName> covered with <objectName type="nature">luxuriant foliage of pines and trees &amp; flowers</objectName> </p>
+            <figure>
+               <ab>[drawing of camp on river]</ab>
+            </figure>
+            <p>The <objectName type="nature">stately cypress</objectName>, made venerable by the <orgName type="spanish">gray-beards of Spanish moss</orgName> – The
+<placeName cert="medium" key="Slocum Creek" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl079"> creek<precision match="@ref" precision="medium"/></placeName> is very deep. Oh it is a lovely place. But we waited long and wearily.
+               The others have their <objectName type="equipment">tents</objectName> pitched, and our prospect seemed to be to roost on
+               the <objectName type="nature">trees</objectName> or spread on the <objectName type="nature">grass</objectName>. Just at dusk and we saw a<objectName type="vehicle"> big <pb/> flat</objectName> come
+               floating up. Polled with long <objectName type="equipment">poles</objectName> – we had a great time unloading – everybody
+               cross – sharpers looking out for <objectName type="equipment">boards</objectName> - men quarreling over their piles – for
+<placeName role="luxuries" type="camp"> boards</placeName> are considered the luxuries of the <placeName cert="high" key="Camp Union" ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnp0l11">camp<precision match="@ref" precision="high"/></placeName>. The <objectName type="equipment">tents</objectName> were hastily pitched
+               in the dark, &amp; we all took a good sleep. </p>
+         </div>
+      </body>
+  </text>
+</TEI>

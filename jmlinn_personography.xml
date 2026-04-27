@@ -53,7 +53,7 @@
                <persName>Frank Beale</persName>
             </person>
             <person xml:id="jmlper003">
-               <persName>Jacob G. Beaver</persName>
+               <persName>Private Jacob G. Beaver</persName>
                <occupation>soldier</occupation>
                <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
@@ -61,7 +61,7 @@
                <persName>Col. Thomas Bell</persName>
             </person>
             <person xml:id="jmlper091">
-               <persName>Capt. Bennet</persName>
+               <persName>Capt. Henry Bennet</persName>
             </person>
             <person xml:id="jmlper098">
                <persName>Henry Bentley</persName>
@@ -90,7 +90,7 @@
                <persName>Thomas Bulger</persName>
             </person>
             <person xml:id="jmlper008">
-               <persName type="standard">Ambrose Burnside</persName>
+               <persName type="standard">Gen. Ambrose Burnside</persName>
                <ref target="https://www.wikidata.org/wiki/Q355444"/>
                <occupation>soldier</occupation>
                <affiliation>Union Army</affiliation>
@@ -99,12 +99,12 @@
                <persName>Jacob Buskirk</persName>
             </person>
             <person xml:id="jmlper004">
-               <persName>William F. Campbell</persName>
+               <persName>Sgt. William F. Campbell</persName>
                <occupation>soldier</occupation>
                <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
             <person xml:id="jmlper083">
-               <persName>William Cameron</persName>
+               <persName>Maj. William Cameron</persName>
             </person>
             <person xml:id="jmlper092">
                <persName>Mr. Carpenter</persName>
@@ -113,7 +113,7 @@
                <persName>Capt. Thomas Chamberlain</persName>
             </person>
             <person xml:id="jmlper096">
-               <persName>Major Clark</persName>
+               <persName>Maj. James Clark</persName>
             </person>
             <person xml:id="jmlper046">
                <persName>James Conoway</persName>
@@ -122,7 +122,7 @@
                <persName>Dick Coulter</persName>
             </person>
             <person xml:id="jmpler014">
-               <persName>Andrew Curtin</persName>
+               <persName>Gov. Andrew Curtin</persName>
                <occupation>politician</occupation>
                <ref target="https://www.wikidata.org/wiki/Q504966"/>
             </person>
@@ -151,7 +151,7 @@
                <persName>Thomas Grier</persName>
             </person>
             <person xml:id="jmlper056">
-               <persName>John Hartranft</persName>
+               <persName>Gen. John Hartranft</persName>
                <occupation>soldier</occupation>
                <affiliation>Union Army</affiliation>
                <ref target="https://www.wikidata.org/wiki/Q373157"/>

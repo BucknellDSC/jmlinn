@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>                 
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Junior Alejandro</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matteo Antenucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+                  
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>NinaArsov</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Caroline Colucci</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Drew Fisher</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Olivia Garcia</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Harvey Harvison</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Reilly Hope</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Matti Kruger</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Selena Liu</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Gayda Makki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Maya</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Calvin McGuire</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Natalie Monroe</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Luke Nowicki</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ori Raz</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Grayson Renkert</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Amadou Samb</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Ben Samuels</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Rose Schmidt</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>
+                     <persName>Nyah von Haam</persName>
+                     <orgName>Bucknell University</orgName>
+                  </name>
+                  <resp>Encoding editor</resp>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+  <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary21.jpg"/>
+            <dateline>Monday Jan 13.</dateline>
+            <p>When I woke up this morning the <objectName type="vehicle">ship</objectName> was pitching and rolling very much. Every one
+               almost was sick. I went out to wash, and came back for a touch when it struck me
+               about the pit of the stomach - I got outside &amp; got well enough, until I came
+               in to get breakfast - &amp; had to rush out, and got up all the bile in me.
+               About ten we arrived opposite <placeName>Hatteras inlet</placeName> &amp; in a half hour crossed the bar
+               and anchored opposite <placeName>Ft. Clark</placeName>. I could not help laughing at the woe begone
+               expression of the countenances for the last few days; <persName>John Smith</persName>, the Col's
+               servant suffered particularly. <persName>Dick </persName>was sick too until we stopped inside the bar.
+               <persName>Cap Snyder</persName>, <persName>Lt Gaulen</persName>, <persName>Beaver</persName> and several others were sick all the time. The
+               Col. was also in best most of his time. I had a sort of tremulous fear of it,
+               until last night, when though there was a <objectName type="weather">good deal of high seas</objectName>, I felt so well
+               that I had given up all expectation of being sick. During the night there was a
+               <objectName type="weather">severe wind</objectName>, and nearly every one on the <objectName type="vehicle">boat</objectName> was sick. I however slept through it
+               all - toward morning I wakened up by being nearly pitched out. I had no suspicion
+               of my own fate until I got up. I found <persName>Dick</persName> rolling around the floor, and after
+               the most ridiculous attempts falling over my trunk pitching in to <persName>Capt Shawl's</persName>
+               <objectName type="food">bread basket</objectName> with my head, and seeing <persName>Capt. Shawl</persName> immediately after make a motion
+               as if he were going 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary22.jpg"/> to die, and landing head formost among a pile
+               of trunks. I steadied myself with one arm around a post, and managed to get my
+               stock on. I then went out to wash - &amp; coming back was seized with a burning
+               sensation in the pit of the stomach and commenced gaging: I rushed out, but it
+               ended in gaging. I went out on the side of the stern and lay there watching the
+               fleet. We were farthest out, just opposite <placeName>Cape Hatteras</placeName>. Between us and the shore
+               was a white steamer, the <objectName type="vehicle">Eastern Queen</objectName>, the <objectName type="vehicle">George Peabody</objectName>, having the little
+               propeller <objectName type="vehicle">Picket</objectName> in tow, and several other steamers following behind. They were in
+               the worst of the <objectName type="weather">rolling waves,</objectName> and rolled and pitched wonderfully: we could see
+               them roll down until the sides were covered. We could see<persName> Gen. Burnside</persName> standing
+               on the Deck of the <objectName type="vehicle">Picket</objectName>, seemingly unaffected. The propellers rolled like logs.
+               We soon stood in towards shore, and crossed the bow of the <objectName type="vehicle">Peabody</objectName>. A splendid
+               steamship came up past us, the <objectName type="vehicle">Spaulding</objectName> - the little gunboat pilot came out, she
+               hailed us, and asked our draft - 8 feet replied the Captain - "Too much sea to
+               cross the Bar." Our paddles stopped, but the <objectName type="vehicle">Spaulding</objectName> &amp; <objectName type="vehicle">Picket</objectName> made a dash.
+               It was a splendid sight - The <objectName type="weather">waves rolling</objectName> and chasing each other until they
+               broke in madness, dashing high the spray - the <objectName type="vehicle">Spaulding</objectName> went through, and we
+               followed hard after her, getting in before the little <objectName type="vehicle">Picket</objectName>. I stood on the
+               hurricane deck as we went through. Even our big boat pitched so that we had to
+               hold fast. But just before this I had been down aft - <persName>Foster</persName> came out pale and
+               dizzy looking -<persName> John Smith </persName>stuck his out of a little window - had colored in hue -
+               each making desperate efforts to relieve the stomach. Foster recovered and
+               proposed to go in to breakfast. I consented - went in - took a piece of <objectName type="food">ham</objectName> -
+               &amp; was waiting for <objectName type="food">bread</objectName> - when I was seized with an intense nausea - I started
+               aft - fell over a trunk overset the Col's table, which went down with a tremendous
+               clatter - &amp; succeeded in getting out to relieve myself of considerable bile.
+               Since then I have been perfectly well, except being weak from not having eaten
+               anything. Four o'clock we had dinner and a hungrier set of men were never seen -
+               Some had not eaten for two days. I feel most splendidly now. All have recovered
+               &amp; are in fine spirits. This is a dreadful windy place. We interested ourselves
+               in watching the other ships come through the inlet. Very few of the sailing
+               vessels have come through, owing to the <objectName type="weather">head winds</objectName>, and are riding outside. But
+               nearly all the steamships have arrived, and the harbor looks lively. The point is
+               a low beach of sand - <placeName>Fort Clark</placeName> near the point, with one or two board houses on it.
+               The inlet is but a quarter of a mile wide and very dangerous. The book prescribes that no one should go in without a pilot. When we reached <placeName>Cape Hatteras</placeName> last evening, we turned back and ran north until midnight &amp; then
+               turned passing the light house at the Cape about nine o'clock. The 48th Penn Reg,
+               Col Nagle is on this place garrisoning <placeName>Ft. Clark.</placeName></p>
+         </div>
+      </body>
+  </text>
+</TEI>

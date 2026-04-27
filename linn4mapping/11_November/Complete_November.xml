@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Junior Alejandro</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matteo Antenucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>NinaArsov</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Caroline Colucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Drew Fisher</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Olivia Garcia</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Harvey Harvison</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Reilly Hope</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matti Kruger</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Selena Liu</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Gayda Makki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Maya</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Calvin McGuire</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Natalie Monroe</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Luke Nowicki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ori Raz</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Grayson Renkert</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Amadou Samb</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Samuels</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Rose Schmidt</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Nyah von Haam</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl status="draft">
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary01_0.jpg"/>
+            <dateline>
+               <placeName key="Annapolis, MD"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl002"
+                  >Annapolis, Maryland, Camp Burnside November</placeName> —<date when="1861-11-22">
+                  Friday, Thursday 22, 1861</date>
+            </dateline>
+            <p>
+               <name type="weather ">This is a bright fair day</name>. We got up about seven,
+                  <objectName type="food">breakfast</objectName>, company drill, dress parade,
+               supper brought &amp; is quickly through &amp; evening. Visited over to see our sick —
+                  <persName key="Henry Miller"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper100"
+                  >Henry Miller</persName>, <persName>Hogan</persName> &amp; <persName
+                  key="James A. Kelley"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper045"
+                  >Kelly</persName> in the <placeName>hospital</placeName>. Sent them <objectName
+                  type="food">tea and toast</objectName>. The <placeName>hospital</placeName>
+               situation and the <placeName>hospital</placeName> arrangements are far from
+               comfortable. Besides them lay <persName key="Charles Drainer"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper018"
+                  >Charles Drainer,</persName> weakened down with a severe hemorrhage, &amp; not
+               long for this world. He was with our <orgName>company</orgName> in the three months
+               service &amp; was lately in <placeName key="Hagerstown, MD"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl042"
+                  >Hagerstown.</placeName> He has been discharged in the service, went out into
+                  <placeName>town</placeName> to inquire for <persName>Mrs. Monroe,</persName> but
+               since he has moved away to take charge of a<placeName> school</placeName> at
+                  <placeName key="Frederick, Maryland"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl038"
+                  >Frederick.</placeName> His <persName> brother Harry </persName>has now charge of
+               the seminary. <persName> Col. Hartshorne’s lady</persName> was here this evening. The
+                  <persName>Col.</persName> returned from <placeName key="Washington, D.C."
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl091"
+                  >Washington</placeName> this evening.</p>
+         </div>
+         <div type="entry">
+            <pb n="2" facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary01_0.jpg"/>
+            <dateline>
+               <date when="1861-11-23">Saturday 23</date>
+            </dateline>
+            <p>This morning when we got up it was <name type="weather">rainin<name type="weather"/>g
+                  and the <placeName>camp</placeName> was <name type="weather">wet and
+                  dreary</name>.</name> I felt as if I was glad it<name type="Weather">
+                  rained</name> to get relieved. But it cleared off about <time>ten o'clock</time>.
+               There was regimental drill but as our <objectName type="weapon">muskets
+               </objectName>were freshly marked, I got excused, but we were out for dress parade
+               &amp; had a march in review. We had the pleasure of welcoming <persName
+                  key="Seth Housel"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper071"
+                  >Seth Housel </persName>back this afternoon, and this evening <persName
+                  key="Jacob G. Beaver"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003"
+                  >Beaver </persName>returned, bringing all that we expected of him, <persName
+                  key="George Shorkley"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper002"
+                  >George Shorkley</persName> is lieutenant of the guard today. We had an
+                  <objectName type="food">oyster pie</objectName> for dinner, but we were hurried
+               &amp; didn't enjoy it.<objectName/>
+            </p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary01_0.jpg"/>
+            <dateline>
+               <date when="1861-11-24">&amp;gt;Sunday 24</date>.</dateline>
+            <p>The <name type="weather">day was gloomy</name> - sadly overcast - <name
+                  type="weather">air windy &amp; this evening it commenced snowing.</name> We had a
+               preaching by our Chaplain. "Rebellion is as the sin of witchcraft," the text. This
+               afternoon, <persName key="George Shorkley"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper002"
+                  >Shorkleley</persName>, <persName key="Jacob G. Beaver"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003"
+                  >Beaver</persName> &amp; I took a stroll through the <placeName key="Navy Yard"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl057"
+                  >navy yard</placeName>, <placeName>town &amp; </placeName>
+               <placeName>cemetery</placeName>. Everything has an air of decay. </p>
+            <p xml:id="a2">The <placeName key="Navy Yard"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl057"
+                  >navy yard </placeName>does not look like it did when I first saw it last spring.
+               The old Battery looks natural enough. So the <placeName>Cemetery</placeName>. There
+               are the graves of the <persName>Randalls</persName>, [?] &amp; many old familiar
+               names. As we came out of the <placeName>cemetery</placeName>, we met an
+                  <placeName>officer</placeName> with a [squad?] of men from the cavalry Regiment
+               going to dig a grave. </p>
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary02.jpg"/>
+            <fw>
+               <placeName key="Annapolis, MD"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl002"
+                  >Anapolis Md</placeName>. <placeName key="Camp Union"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnp0l11"
+                  >Camp Burnside</placeName>
+               <lb/>
+               <date> November Sunday 24 1861.</date>
+            </fw>
+            <p xml:id="a3">This evening,<persName key="Thomas Grier"
+                  ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper076"
+                  > Tom Grier </persName>and I went to the <placeName>Presbyterian
+                  Church</placeName> &amp; came home through<name type="weather"> rain and
+                  snow</name>. We saw several handsome ladies, one in particular. I got vaccinated
+               yesterday, &amp; this evening it itches considerable I have two slight scars on my
+               arm, but they are very slight.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

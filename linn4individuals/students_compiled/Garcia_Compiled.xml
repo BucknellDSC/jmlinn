@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Junior Alejandro</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matteo Antenucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>NinaArsov</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Caroline Colucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Drew Fisher</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Olivia Garcia</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Harvey Harvison</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Reilly Hope</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matti Kruger</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Selena Liu</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Gayda Makki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Maya</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Calvin McGuire</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Natalie Monroe</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Luke Nowicki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ori Raz</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Grayson Renkert</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Amadou Samb</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Samuels</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Rose Schmidt</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Nyah von Haam</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl status="draft">
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary23.jpg"/>
+            <dateline>
+               <date when="1862-12-15">Wednesday January 15</date>.</dateline>
+            <p>It was <name type="weather">foggy</name>
+               <time>this morning</time>. We could just see the <objectName type="Vehicle">"City of New York"</objectName> laying out in
+               the breakers. A <objectName type="vehicle">boat</objectName> came in to our ship with five men - they had swamped two <objectName type="vehicle">boats</objectName>
+               before they succeeded in getting off. The Captain lowered one of his <objectName type="vehicle">boats</objectName>, and
+               he, the Mate, the Col and &amp; <persName role="Doctor"
+                         subtype="Hossack"
+                         key="Dr. John Hossack"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper088">Dr Hossack</persName>started out. They arrived just in
+               time to see a little <objectName type="vehicle">boat</objectName> belonging to a <objectName type="vehicle">Schooner</objectName> take off the remaining crew.
+               Both <objectName type="vehicle">boats</objectName> came up to see us at the same time and <persName role="Captain"
+                         subtype="Bennet"
+                         key="Capt. Bennet"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper091">Captain Bennet</persName> called to us to
+               cheer the little white <objectName type="vehicle">boat,</objectName> that had rescued the crew, which we did with a hearty
+               good will. The capt and mate went away again and shortly after, the <objectName type="vehicle">Brig</objectName> "Hope"
+               swung against us, pushed in our wheel house, and kept digging at us until it had
+               all the out side works on the starboard side at the stern crushed - opened out
+               our cabin knocking to pieces <persName role="Captain"
+                         subtype="Bell"
+                         cert="high"
+                         key="Thomas Bell"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper072"
+                         type="real">Capt Bell's</persName> berth. Mine just escaped. While this was
+               going on we saw <persName role="Captain"
+                         subtype="Bennett"
+                         key="Capt. Bennet"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper091">Capt Bennet</persName> returning: I was standing at the side as the Captain
+               came up. His <objectName type="vehicle">boat</objectName> shot past the place for getting on. He scolded his crew
+               remarking with a forcible ejaculation that he "wouldn't give a handful of cow-dung
+               for the whole of them" We got up steam, and the Brig was towed away, leaving our
+               stern pretty well smashed on one side. <objectName type="vehicle">The City of New York"</objectName> was loaded with 70
+               cases <objectName type="equipment">muskets</objectName> and <objectName type="equipment">rifles</objectName>, <objectName type="equipment">ammunition</objectName>, <objectName type="equipment">hay</objectName>, <objectName type="equipment">shot and shell</objectName>, and a great deal of
+               Officers <objectName type="equipment">baggage</objectName>. She is lying on her side one side stoved in - the poor fellows
+               were on there for two days, and were clinging to her side when taken off. They had
+               no sleep for two days, and were 15 &amp; 1/2 feet, and why she should attempt to
+               cross with such a sea is owing to the government pilot. In calm sea she might have
+               made it as the channel is 17 feet. The sailors were pretty well whiskeyed when we
+               came on board. The Captain's name was <persName role="Captain" subtype="Nye">Nye</persName> and the sailors spoke highly of him. The
+               Quarter master, <persName role="Soldier"
+                         subtype="Shorkley"
+                         cert="high"
+                         key="George Shorkley"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper002"
+                         type="real">Shorkley,</persName>
+               <persName role="Soldier"
+                         subtype="Beaver"
+                         key="Jacob G. Beaver"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003">Beaver</persName>, <persName role="Soldier" subtype="Jones">Jones</persName> and I got a <objectName type="vehicle">boat</objectName>, and with little
+<persName key="Cuffy"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper114">Cubby?</persName>, a dark rich colored boy, with long dark locks, such luscious red lips
+               and black eyes, and another sailor boy, with a game eye, and big quid of <objectName type="food">tobacco</objectName>
+               in his cheeck went over to the shore. We picked up some <objectName type="nature">shells</objectName>, saw <persName role="General"
+                         subtype="Williams"
+                         cert="high"
+                         key="Thomas Williams"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper079"
+                         type="real">Gen Williams</persName>
+               and staff, and went into <placeName role="Fort"
+                          subtype="Hatteras"
+                          cert="high"
+                          key="Fort Hatteras"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl027">Fort Hatteras<precision match="@ref" precision="high"/>
+               </placeName>, which is built of <objectName type="nature">sods</objectName>, having <objectName type="equipment">barrels</objectName>
+               filled with <objectName type="nature">sand</objectName> for a foundation. There was a <objectName type="equipment">steam engine</objectName> making <objectName type="drink">fresh water</objectName>,
+               and a ten inch <objectName type="equipment">gun</objectName> outside. Three or four wrecked <objectName type="vehicle">schooners</objectName>, <objectName type="equipment">masts</objectName> and remains of
+               many other wrecks on the shore. We had a gay time getting our <objectName type="vehicle">boat</objectName> off the beach -
+               as the surf rolled heavily. <time>This morning</time> as we were standing on deck, we saw a
+               <objectName type="vehicle">boat</objectName> run to shore, and they buried some poor sailor on the lonely beach. There
+               will be nothing to mark his grave - the waves will soon smooth down the little
+               <objectName type="nature">hillock of sand</objectName> - He'll always have <name type="weather">storms</name> and <name type="weather">winds</name> and dashing waves over him.
+               The <persName role="Union Army Unit">ninth New York 48th Penna</persName> are on this beach. <persName>
+                  <orgName role="Military Company">Company C. 1st N.H.</orgName>
+               </persName> Artillery
+               have Fort <origPlace>Hatteras.</origPlace>
+               <origPlace>
+                  <placeName role="Fort"
+                             key="Fort Clark"
+                             ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl023">Fort Clark</placeName>
+               </origPlace> is just above.<placeName role="Camp"
+                          subtype="Bull"
+                          key="Camp Bull"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl009"> Camp Bull</placeName> is the N.Y. regiment &amp;
+               five miles above Camp [blank] of the 48th. We hear that the<orgName role="Regiment"> New Hampshire Regt</orgName> is
+               to be landed &amp; the <orgName>9th N.Y.</orgName> to go with us. Just as I was getting into the <objectName type="vehicle">boat</objectName>
+               I shook hands with <persName subtype="Morris"
+                         key="John Morris"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper057">Morris</persName> - the first I have seen him since we left <placeName role="City"
+                          subtype="Annapolis"
+                          cert="high"
+                          key="Annapolis, MD"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl002">Annapolis.<precision match="@ref" precision="high"/>
+               </placeName>
+            </p>
+            <p>
+               <persName role="Captain"
+                         subtype="Neal"
+                         key="Capt. Neal"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper089">Capt. Neal</persName> as adj. gen. came on board this evening, and told us that <persName role="Colonel"
+                         subtype="Allen"
+                         key="Col. Allen"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper090">Col. Allen</persName> of
+               the<orgName> 9th New Jersey</orgName> and the surgeon of that Regiment were drowned. Their <objectName type="vehicle">ship</objectName> lay
+               outside, and they came in on the yawl - and in returning were overset. Their
+               bodies were recovered, and taken on board of <objectName type="vehicle">the Highlander,</objectName> a brig passing by. I
+               saw their little boat dancing in the breakers, and afterwards saw <objectName type="vehicle">the Highlander</objectName>
+               towed in, but I did not dream of the tragedy. I did not even observe that their
+               bodies were lying on deck, as some of the rest did, and that they were rubbing
+               there, and that their <objectName type="clothing">coats </objectName>[?] up were those of officers. Just as they were
+               taking the bodies below deck, one of our sailors said "pretty hard boys, but it
+               can't be helped, drag 'em down." On the stern of one of the vessels which came in,
+               a woman was sitting. One of our fellows in his ecstacy cried out, "that sight's
+               worth a quarter, who shall I pay it to" turning round and plunging his hands into
+               his pocket. The engineer of the <objectName type="vehicle">City of New York</objectName>, as he left the <objectName type="vehicle">boat</objectName> tore off the
+               brass [?] in the engine room, and tied the colors around his neck.</p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary24.jpg"/>
+            <dateline>Ship Cossack. Hatteras Inlet. <date when="1862-01-16">Thursday January 16 1862.</date>
+            </dateline>
+            <p>The day was <name type="weather">cold and rainy</name>. One of Co D. <persName key="James Conoway"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper046"
+                         cert="high"
+                         type="real">James Conoway</persName> died last night of
+               consumption. They lowered him into the <objectName type="vehicle">surf boat</objectName>, the band playing the dead march,
+               and took him over to bury him on the lonely <objectName type="nature">sand beach</objectName>. The Col, Chaplain &amp; Dr
+               went along, but owing to the <name type="weather">wind</name> and tide they have not been able to return. The
+               Cap was out in a <objectName type="vehicle">boat</objectName>, and had to be towed back by a <objectName type="vehicle">steam tug</objectName>. This is a dreadful
+               <name type="weather">stormy</name> place. We loitered on deck <time>this morning</time>, the only thing of interest, to
+               watch our carpenters repairing our breaches, and the tide heaving out <objectName type="equipment">barrels</objectName>,
+               &amp; <objectName type="equipment">beds</objectName> &amp; pieces of the wreck which it brought in last night. <persName role="Doctor"
+                         key="James Gibson"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper047">Dr Gibson Chaplain</persName> of the 45th &amp; young <persName subtype="Gregg"
+                         key="Gregg"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper144">Gregg</persName> came on board, &amp; would not get off on
+               account of the <name type="weather">storm</name>. They came from <placeName role="City"
+                          subtype="Baltimore"
+                          cert="high"
+                          key="Baltimore"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl003">Baltimore<precision match="@ref" precision="high"/>
+               </placeName> on a <objectName type="vehicle">schooner</objectName>, which turned in
+               on account of the <name type="weather">storm</name>, on their way to join the 45th at <placeName role="Port"
+                          subtype="Royal"
+                          key="Port Royal"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl072">Port Royal.</placeName> I amused
+               myself reading the <objectName type="readable">army regulations</objectName> and the <title level="m">Mill on the Floss</title>. Lots of light
+               reading has turned up from somewhere, and as we can't drill, nor go ashore, we are pinned down to it. Rations are severe. We had <objectName type="food">fried pork</objectName>
+               <objectName type="food">boiled potatoes</objectName>
+               <objectName type="food">hard bread</objectName>
+               &amp; <objectName type="drink">coffee</objectName> for breakfast, <objectName type="food">boiled potatoes</objectName> and <objectName type="food">soup</objectName> for dinner - <objectName type="food">fried pork</objectName>,
+               <objectName type="food">boiled rice</objectName> and <objectName type="drink">tea</objectName> for suppr. Those that are fond of <objectName type="food">molasses</objectName> relish it probably
+               best - but it comes quite natural to me. We have settled in our own minds that we
+               are going up to the <placeName role="Island"
+                          cert="high"
+                          key="Roanoke Island"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl076">Roanoke Island<precision match="@ref" precision="high"/>
+               </placeName>. When, we have not settled. Reports are so covert and unfounded that I put no faith in them until I am completely
+               assured.</p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary25.jpg"/>
+            <dateline>
+               <date when="1862-01-18">Saturday, January 18.</date>
+            </dateline>
+            <p>
+               <persName>
+                  <persName key="Charles Kleckner"
+                            ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper087">Charles Kleckner</persName>
+               </persName>, a Lieut in the 48th, was on board yesterday. One of the
+               funniest things that has occurred is <persName subtype="Dick"
+                         cert="high"
+                         key="Dick Coulter"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper025"
+                         type="real">Dick's</persName> last merchantile transaction. He
+               bought a box of <objectName>cigars</objectName>, 100, of the sutler for five dollars, and went upstairs
+               and commenced selling them out at 3 cents apiece. The sutler went up after
+               while and told him he was losing 2 cents on every <objectName>cigar</objectName>. He was astounded and sold at 6, then became disgusted and sold at five. He managed to get out with
+               losing 25 cents, according to his own account. He paid that much for his
+               experience and will probably not embark on any more. We parted our cable <time>this morning</time> in trying to get clear of a bark, and got aground, and spent most of
+               <time>the morning</time> trying to get loose. We are still aground. <persName subtype="Reno"
+                         key="Gen. Jesse Reno"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper086">Reno</persName> said we must be
+               over the swash t<time>omorrow morning</time>, and <time>this evening</time>, we are [onclad?] to get out, arms and acoustic [events?] on board some tugs who are to take us over. Another <objectName type="vehicle">gunboat</objectName> was sunk today, so we have lost two <objectName type="vehicle">gunboats</objectName>, a <objectName type="vehicle">schooner</objectName> or two - several <objectName type="vehicle">ships</objectName> are fast aground. <persName role="Reporter"
+                         subtype="Carpenter"
+                         key="Mr. Carpenter"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper092">Mr Carpenter</persName> reports for [?], was on board <time>this morning</time>.
+               Also <persName role="Captain"
+                         subtype="Potts"
+                         key="Capt. Potts"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper093">Capt. Potts</persName> of <placeName role="City"
+                          subtype="Reading"
+                          key="Reading"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl074">Reading</placeName> or <placeName role="City"
+                          subtype="Pottsville"
+                          key="Pottsville"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl099">Pottsville</placeName>. The day has been <name type="weather">cold and windy</name>. The
+               <name type="weather">sun</name> came out <time>this evening</time>, but this is a dreary day [wast?]. I could not sleep <time>last night</time>, and<time> this afternoon</time>, my bones ache all over. I hope I am not going to be
+               sick, and that it is only temporary, from being confined on board so closely, and
+               from want of exercise. see [ante?] for conclusion.</p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary25.jpg"/>
+            <dateline>
+               <date when="1862-01-19">Sunday Jan 19.</date>
+            </dateline>
+            <p>It was very <name type="weather">foggy</name> during the <time>forenoon</time> - we were up early, had breakfast, and the
+               two <objectName type="vehicle">ferry boats</objectName>, <objectName type="vehicle">Patuxent</objectName>, <objectName type="vehicle">Pond Curlew</objectName> came alongside. We all got out, with <objectName type="equipment">arms</objectName>
+               and <objectName type="equipment">equipments</objectName> - our company getting on to the <objectName type="vehicle">Patuxent</objectName>. They were both fast to
+               the <objectName type="vehicle">Cossack</objectName>, and worked and pushed and crashed each others sides at a desperate
+               rate for a half hour. We began to fear that it would not move. While we were
+               watching it listlessly, both <objectName type="vehicle">boats</objectName> fell back &amp; raised together, and lifted the
+               <objectName type="vehicle">Cossack</objectName> right off - We held our breath awhile to be sure it was moving - we saw
+               all the other <objectName type="vehicle">ships</objectName> must be moving or else our long-hoped release had come - she
+               moved sure, and we gave three hearty cheers. A little regardless perhaps in the
+               delirium of moving again, the stem of the <objectName type="vehicle">Patuxent</objectName> struck a hole in our stern; it
+               was crowded with men - one was knocked off his feet and jumped into the <objectName type="vehicle">light boat</objectName>
+               - another pitched after him - The extent of the damage, however, was in drawing back of a <objectName type="equipment">musket</objectName>, and breaking off the front teeth of one of our men <persName role="Soldier"
+                         cert="high"
+                         key="Hugh M'Clure"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper005"
+                         type="real">Hugh McClure</persName>,
+               but it was a very narrow escape. We dropped astern and then hauled up to a
+               <objectName type="vehicle">schooner</objectName> &amp; lashed fast. We watched them unloading the <objectName type="vehicle">horses</objectName> from the <objectName type="vehicle">Peabody</objectName>.
+               It was anchored about 57 yards from shore - the <objectName type="vehicle">horses</objectName> pushed off the <objectName type="vehicle">ship</objectName>
+               tumbling down 4 of 5 feet until they reached the water, &amp; men in a<objectName type="vehicle"> boat</objectName> lead
+               them by a<objectName type="equipment"> rope</objectName> to shore - It seemed a cruel way of doing it, but was accomplished
+               safely. They were trotted around on shore, until there was no danger of chill. The
+               Capt of the <objectName type="vehicle">Patuxent</objectName> is named <persName role="Captain"
+                         subtype="Bennet"
+                         key="Capt. Bennet"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper091">Bennet</persName>, a short red faced man. The three <objectName type="vehicle">Ferry Boats</objectName>
+               <objectName type="vehicle">Curlew</objectName>, <objectName type="vehicle">Pilot-boy</objectName> were chartered at <placeName role="City"
+                          subtype="Philadelphia"
+                          cert="high"
+                          key="Philadelphia"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl069">Philadelphia<precision match="@ref" precision="high"/>
+               </placeName> by the Government to go to <placeName role="Port"
+                          key="Port Royal"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl072">Port Royal</placeName> and put in here on account of streak of weather, &amp; <persName role="Captain"
+                         subtype="Burnside"
+                         key="Ambrose Burnside"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008">Burnside</persName> put them in to
+               service. He used to run the Keystone state. He said he had been on this coast 16
+               years, and never knew such a week of such weather as last week. <time>About 11 o'clock </time>               we got back to our home in the <objectName type="vehicle">Cossack</objectName>. Our Captain <persName role="Captain"
+                         subtype="Burnside"
+                         cert="high"
+                         key="Ambrose Burnside"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008"
+                         type="real">Burnside,</persName>
+               <persName subtype="Reno"
+                         key="Gen. Jesse Reno"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper086">Reno</persName> &amp; the Pilot
+               were sounding the channel across the swash this afternoon. I spent the afternoon
+               reading. Some men from the Pocahontas came in the evening. They were wrecked about
+               15 miles above <placeName role="Fort"
+                          subtype="Hatteras"
+                          key="Hatteras Light House"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl046">Hatteras</placeName> light-house. Their <objectName type="equipment">boiler</objectName> gave out during the <name type="weather">storm</name>,
+               anchored and dragged on shore - out of 120 <objectName type="vehicle">horses</objectName> save 17 - All the men were
+               saved. The Pilot told me this evening that it is 52 miles to <placeName role="Island"
+                          key="Roanoke Island"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl076">Roanoke Island</placeName> - that
+               any vessel that can cross teh swash would go up the Sound - but the rebels had
+               taken up all the <objectName type="vehicle">light Boats</objectName> and <objectName type="equipment">buoys</objectName>. The name swash is probably a contraction
+               of sea-wash. We are anchored just inside the inlet, but before we can get into the
+               sound there is the <objectName type="nature">swash - a shoal of sand</objectName> yet to cross. We have a <objectName type="nature">sea-shell </objectName>               mania. Parties go out to the shore and collect <objectName type="nature">shells</objectName> - some are very beautiful -
+               some are lucky dogs and find nice ones. Others come in with a batch of very common
+               looking <objectName type="nature">shells</objectName>. They will be probably carried far <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary26.jpg"/>
+               <fw>
+                  <date when="1862-01-19">Sunday January 19, 1862</date>
+               </fw> or lost long before they get home - but they
+               serve to fill the hour - the tedious monotonous hours. I find I have injured my
+               eyes reading in this dark cabin - I long to get back to my canvass home. We had a
+               <objectName type="readable">New York Tribune</objectName> today which states that the [John Trucks?] which had the <orgName role="Infantry Group" subtype="Zoauves">Zouaves</orgName>
+               on board, put back to <placeName role="Fort" subtype="Monroe">
+                  <placeName key="Fort Monroe"
+                             ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl037">Fortress Monroe</placeName>
+               </placeName>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

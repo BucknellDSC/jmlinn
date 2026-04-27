@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\QCompilation extraction.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="Compilation%20extraction.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/linn.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Merrill Linn Diary: 1861-1862</title>
+            <author>James Merrill Linn</author>
+            <respStmt>
+               <name>
+                  <persName>Diane K. Jakacki</persName>
+                  <orgName>Bucknell University </orgName>
+               </name>
+               <resp>Professor, Lead Investigator</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Junior Alejandro</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matteo Antenucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>NinaArsov</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Caroline Colucci</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Drew Fisher</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Olivia Garcia</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Harvey Harvison</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Reilly Hope</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Matti Kruger</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Selena Liu</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Gayda Makki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Maya</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Calvin McGuire</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Natalie Monroe</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Luke Nowicki</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ori Raz</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Grayson Renkert</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Amadou Samb</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Ben Samuels</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Rose Schmidt</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>
+                  <persName>Nyah von Haam</persName>
+                  <orgName>Bucknell University</orgName>
+               </name>
+               <resp>Encoding editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Bucknell University</authority>
+            <address>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>USA</country>
+            </address>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  Attribution-NonCommercial-ShareAlike 4.0 International
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl status="draft">
+               <sponsor>Bucknell University Special Collections and University Archives</sponsor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary71.jpg"/>
+            <dateline>
+               <date when="1862-05-29">Thursday 29</date>.</dateline>
+            <p>
+               <name type="weather">A bright pleasant day</name>. We got a <objectName type="readable">mail</objectName>, small one, &amp; <objectName type="readable">papers</objectName> to the 25th. We
+               heard through <orgName type="confederates">rebel</orgName> sources that <persName role="Military" type="Banks">Banks</persName> was defeated &amp; 4000 prisoners taken.
+ We see by the <objectName type="readable">paper</objectName> that <persName role="Military" type="Col.Kenly ">Col. Kenly</persName> with the <orgName type="Confederate">1st Maryland</orgName> was defeated, &amp;
+ I judged that <persName role="Military" type="Banks">Banks</persName> was in a precarious condition. The <orgName type="Union">Reg’t</orgName> moved by
+               companies, and 6 companies were moved, so that we stay here tonight yet. <persName role="Military"
+                         key="Daniel Bible"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper022"
+                         cert="high"
+                         type="real">Adjt. Bible</persName> returned this evening. </p>
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary72.jpg"/>
+            <fw>
+               <date when="1862-05-29">Thursday 29</date>.</fw>
+            <p>
+               <persName type="Bible">He</persName> looks well. <persName type="Bible">He</persName> gives <orgName type="regiment">us</orgName> glowing <objectName type="readable">acts</objectName> of the <orgName type="Military">refutation of the 51st</orgName> - <persName type="Bible">He</persName>
+               tells a good story on <persName>old Brower of <placeName>Norristown</placeName>
+               </persName> who speaking of the <objectName type="equipment">sword</objectName>
+               <persName role="Military" type="Jones">Jones</persName>
+               sent home, “Just to think I never thought there was much in him and he had to
+               kill the men to take it.” &amp; some other one remarked that in after years he
+               would regret having killed a fellow creature.” Rec’d a <objectName type="readable">letter</objectName> from <persName role="Military" type="John">John</persName> with
+               the news that <persName role="Military" type="Personnel">May Husburgh</persName> had eloped with <persName role="Military" type="Lineweaver">Lineweaver</persName>. It is hard because some
+               of the members of <orgName type="Church">M H’s church at <placeName type="Lebanon"
+                             cert="high"
+                             key="Pennsylvania"
+                             ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl067">Lebanon<precision match="@ref" precision="high"/>
+                  </placeName>
+               </orgName> are involved in it, and it will never
+               be pleasant to remain there - It is an outrage because she is only 17 and he 35
+               years old. Stolen to from our <placeName>house</placeName>. <persName role="Military" type="John">John</persName> is particularly indignant on that
+               account. The minister who married them, they are determined to prosecute, &amp;
+               wish for conspiracy. <persName role="Military"
+                         type="real"
+                         cert="high"
+                         key="Thomas Grier"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper076">Tom Grier</persName> said that <persName role="Military"
+                         key="Edward Stanly"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper027">Gov. Stanly</persName> has commenced his reign
+               by suppressing <orgName type="School">Colyers night schools</orgName>, and the [d---] are in terror because It
+               is reported that he said they would all be remanded to their masters. One said
+               he would put a <objectName type="equipment">knife</objectName> in his <objectName type="body">gut</objectName> before he would go back to his Massa. This is
+               all right. It takes all <persName type="Abe">old Abes</persName> Wisdom to counteract the rascally radicalism
+               of such men as <persName role="General" type="Phelps">Phelps</persName> and <persName role="General" type="Hunter">Hunter</persName>, who are, by the way, among the best Generals
+               in the service. The <orgName type="Military">17 Mass</orgName> returned from picket duty. I understand that the
+               whole of the<orgName type="Military"> 1st Division</orgName> are to be encamped here.</p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary72.jpg"/>
+            <dateline>
+               <date when="1862-05-30">Friday 30</date>.</dateline>
+            <p>The <name type="weather">day was very warm</name>. We took down our <objectName type="equipment">tents</objectName> &amp; packed, “waiting for the
+<objectName type="equipment"> wagon</objectName>” when about 9 o’clock the <persName type="Military">wagon master</persName> came, and told us he had <objectName type="readable">orders</objectName>
+               from <persName type="Military">Quarter master Hall </persName>not to haul any more over the road until it was
+               repaired, and that he would furnish transportation to the <placeName type="river"
+                          cert="low"
+                          key="Trent River"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083">river<precision match="@ref" precision="low"/>
+               </placeName>, and on the
+               other side of the <placeName key="Trent River"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083">river</placeName>. If my <objectName type="equipment">tents</objectName> hadn’t been down I wouldn’t have budged -
+ we asked "what then - is there a <objectName type="vehicle">boat</objectName>”, well his instructions didn’t go any
+               further. Some peoples was mad, and an indefinite amount of hard swearing done.
+ We expected this from <persName type="Military">Hall</persName>, but yet we couldn’t restrain our indignation. Our
+<persName type="Union"> Quartermaster</persName> starts off with the<persName type="Union"> wagon-master</persName> to see about a <objectName type="vehicle">boat</objectName>. Directly
+               the teams came, &amp; we of course thought there was a <objectName type="vehicle">boat</objectName> - loaded up -
+<persName role="Military"
+                         key="Jacob G. Beaver"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper003"> Beaver</persName> went with the teams - I started with the company by the road. It must be
+               5 miles - we crossed the <placeName type="Trent"
+                          key="Trent River"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083">Trent by the Bridge</placeName>, part of which we knocked down
+               when we went through the draw with the <orgName role="Military " type="Vidette">Vidette</orgName>, and up the left <placeName type="Bank">Bank of the Trent</placeName>. Within a mile or perhaps less, a <objectName type="nature">deep creek</objectName>
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary73.jpg"/> joins the <placeName type="river"
+                          cert="high"
+                          key="Trent River"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl083">Trent<precision match="@ref" precision="high"/>
+               </placeName>, then
+               runs along it up, with perhaps <objectName type="nature">500 yards of land</objectName> between, covered with <objectName type="nature">grass</objectName>
+               like <placeName type="Timothy">Timothy</placeName>, then makes a bend like a <objectName type="nature">horseshoe</objectName> &amp; comes back again –
+               across the <objectName type="nature">neck</objectName> it is but a few hundred yards, but the <placeName role="Union" type="Peninsula">peninsula</placeName> contains
+               several hundred <objectName type="nature">acres</objectName> – on the <placeName>peninsula</placeName> is our <placeName role="Union"
+                          type="Camp"
+                          cert="high"
+                          key="Camp Union"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnp0l11">camp<precision match="@ref" precision="high"/>
+               </placeName>: <objectName type="nature">covered with grass &amp; shaded with pines</objectName> - the <placeName>banks</placeName> covered with <objectName type="nature">luxuriant foliage of pines and trees &amp; flowers</objectName>
+            </p>
+            <figure>
+               <ab>[drawing of camp on river]</ab>
+            </figure>
+            <p>The <objectName type="nature">stately cypress</objectName>, made venerable by the <orgName type="spanish">gray-beards of Spanish moss</orgName> – The
+<placeName cert="medium"
+                          key="Slocum Creek"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl079"> creek<precision match="@ref" precision="medium"/>
+               </placeName> is very deep. Oh it is a lovely place. But we waited long and wearily.
+               The others have their <objectName type="equipment">tents</objectName> pitched, and our prospect seemed to be to roost on
+               the <objectName type="nature">trees</objectName> or spread on the <objectName type="nature">grass</objectName>. Just at dusk and we saw a<objectName type="vehicle"> big <pb/> flat</objectName> come
+               floating up. Polled with long <objectName type="equipment">poles</objectName> – we had a great time unloading – everybody
+               cross – sharpers looking out for <objectName type="equipment">boards</objectName> - men quarreling over their piles – for
+<placeName role="luxuries" type="camp"> boards</placeName> are considered the luxuries of the <placeName cert="high"
+                          key="Camp Union"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnp0l11">camp<precision match="@ref" precision="high"/>
+               </placeName>. The <objectName type="equipment">tents</objectName> were hastily pitched
+               in the dark, &amp; we all took a good sleep. </p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary73.jpg"/>
+            <dateline>
+               <date when="1862-05-31">Saturday 31</date>.</dateline>
+            <p>We were roused early to get ready to march to <placeName cert="medium"
+                          key="Washington N.C"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl090">town<precision match="@ref" precision="medium"/>
+               </placeName> to the review of our
+<orgName> division</orgName>. We went as far as the <placeName type="Camp">48th Camp at the Bridge</placeName>, when it was <name type="weather">raining furiously</name> – we got word that the review was postponed until four o'clock. The
+               rest trudged back and I went to <placeName cert="medium"
+                          key="Washington N.C"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl090">town<precision match="@ref" precision="medium"/>
+               </placeName> with <persName type="real"
+                         cert="high"
+                         key="Capt. Mitchell"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper132">Capt. Mitchell</persName>. He is a highly
+               cultivated and talented man, &amp; I spent a very agreeable day. We went to see
+<persName key="Lt. Van Buren"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper135"> Lt. Van Buren</persName> Military Sec of <persName key="Gov. Stanley"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper134"
+                         cert="high"
+                         type="real">Gov Stanley</persName>. <persName cert="high"
+                         key="Gov. Stanley"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper134"
+                         type="real">Stanley</persName> is a medium sized man with
+<objectName type="body"> sandy gray hair</objectName>, thin &amp; not very prepossessing in his looks. I returned
+               with <persName key="Capt. Mitchell"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper132">the Capt</persName> to <orgName type="Camp">51 N.Y.</orgName> Camp, &amp; met the <orgName type="Union">Reg't</orgName> in the afternoon when the
+               review took place. <name type="weather">Hot and tiresome</name>. I met <persName type="real"
+                         cert="high"
+                         key="Capt. McChesney"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper120">Capt. McChesney</persName> who was wounded and
+               just returned – it appears that 
+               <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary74.jpg"/>
+               <fw>
+                  <date when="1862-05-31">May 31</date>. continued</fw>
+            </p>
+            <p>
+               <persName key="Capt. Mitchell"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper132">Capt. Mitchell</persName> had met <persName cert="high"
+                         key="Capt. McChesney"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper120"
+                         type="real">Capt McChesney</persName> just after the
+               battle, had rendered him some assistance and given him a <objectName type="drink">drink of whiskey</objectName> out
+               of his <objectName type="drink">flask</objectName>. They had not met since - so we talked the whole battle over again
+               and I think gleaned more of it from this intelligent talk than I knew of it
+               before - &amp; could understand, because we were but a few hundred yards behind
+ them. Then they found mutual acquaintances in New Jersey. We were reviewed by
+               the <persName key="Ambrose Burnside"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper008">Gov, Burnside</persName> and a very brilliant <orgName>staff</orgName>. There was no show, but everything
+               looked uncommonly substantial and in good fighting order. Oh, what a <name type="weather">hot march home - everybody hot &amp; tired</name> - out of humor, and swearing enough to take
+               out <objectName type="clothing">hats</objectName> off. </p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary74.jpg"/>
+            <dateline>
+               <date when="1862-06-01">Sunday June 1</date>.</dateline>
+            <p>We had a sermon from <persName cert="high"
+                         key="Charles Mallory"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper019"
+                         type="real">Mr. Mallory</persName> in a grove of <objectName type="nature">pines</objectName> and we lounged through the
+               day - <name type="weather">it was excessively hot</name> - we put up the <objectName type="equipment">tent</objectName> sides and counted take every
+               breath of air. The pleasant places have their annoyances - <objectName type="nature">wood ticks</objectName> abound -
+               a <objectName type="nature">reddish brown bug</objectName>, about the size of a <objectName type="nature">bed bug</objectName>, which plugs its <objectName type="nature/body">nipper</objectName> into
+               the <objectName type="body">flesh</objectName> and cant be pulled out, you have to cut them off, leaving the <objectName type="nature/body">nipper</objectName>
+               stuck in. there are <objectName type="nature">alligators</objectName> in the <placeName role="near union regiment"
+                          type="creek"
+                          cert="medium"
+                          key="Slocum Creek"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl079">creek<precision match="@ref" precision="medium"/>
+               </placeName> and these <placeName>cypress swamps</placeName>. Whew,
+               what a nice time we’ll have. </p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary74.jpg"/>
+            <dateline>
+               <date when="1862-06-02">Monday June 2</date>.</dateline>
+            <p>The <persName type="paymaster">pay master</persName> came this morning and we were mostly engaged in receiving the
+<objectName type="equipment"> greenbacks</objectName> and fixing up the <objectName type="equipment">tents</objectName>. I hear that <persName role="military"
+                         type="real"
+                         cert="high"
+                         key="A.F.C. Phillips"
+                         ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper009">Phillips</persName> was taken up by the
+<orgName role="military"> pickets of the New Jersey 9</orgName>, but could not hear anything further of <persName type="Phillips">him</persName>.</p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary74.jpg"/>
+            <dateline>
+               <date when="1862-06-03">Tuesday 3</date>.</dateline>
+            <p>We went to <placeName type="Town"
+                          cert="medium"
+                          key="Washington N.C"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl090">town<precision match="@ref" precision="medium"/>
+               </placeName>. We have a <objectName type="vehicle">boat</objectName> and boats crew, and it is a pleasant ride down.
+               We were fortunate in going today, by being enabled to see the review of the <orgName role="Military" type="Division">1st division</orgName>. It was really splendid, the <orgName role="soldiers" type="Pioneers">pioneers</orgName> had <objectName type="clothing">leather or linen aprons</objectName> -
+               the long train of <objectName type="equipment">artillery</objectName>, the savage, devilish looking <objectName type="equipment">marine battery</objectName>, drawn
+               by <orgName type="Sailors">sailors</orgName> &amp; <orgName role="Combat Branch" type="Cavalry">the cavalry</orgName>.</p>
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary75.jpg"/>
+            <p>Made a spectacle such as I have never yet witnessed. In display it far exceeded
+               ours - they are all <orgName role="military" type="union">Yankee regiments</orgName> - <placeName role="Yankee Regiments" type="State">Massachusetts</placeName>. This then you know, they
+               call us the fighting <orgName role="Union" type="division">division</orgName>
+            </p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary75.jpg"/>
+            <dateline>
+               <date type="1862-06-04">Wednesday 4th</date>.</dateline>
+            <p>
+               <name type="weather">It rained and stormed fiercely all day</name>. We were to have a brigade drill, but it was, of course, postponed.</p>
+         </div>
+         <div type="entry">
+            <pb facs="https://leaf.bucknell.edu/sites/default/files/2026-01/diary75.jpg"/>
+            <dateline>
+               <date when="1862-06-05">Tuesday 5th</date>.</dateline>
+            <p>
+               <name type="weather">Dark and lowering with some rain</name>. I went to <placeName cert="low"
+                          key="Yorktown, Virginia"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl096">town<precision match="@ref" precision="low"/>
+               </placeName> having some business and
+               anxious to have news, but had to return without hearing any. We did hear that
+<placeName cert="high"
+                          key="Washington N.C"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl090"> Washington N.C<precision match="@ref" precision="high"/>
+               </placeName>. was burned, and that they commenced fighting at <placeName cert="high"
+                          key="Richmond, Virginia"
+                          ref="https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_gazetteer.xml#linnpl075">Richmond<precision match="@ref" precision="high"/>
+               </placeName>, but
+               had to cease on account of the <name type="weather">rain</name>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

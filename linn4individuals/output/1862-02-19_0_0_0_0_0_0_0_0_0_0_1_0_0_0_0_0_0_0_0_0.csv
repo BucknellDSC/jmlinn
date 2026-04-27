@@ -1,0 +1,9 @@
+element,key,ref,type,tagged_content,date_when,date_label,source_file
+"persName","Mr. Carpenter","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper092","real","Mr Carpenter","1862-02-19","Wednesday 19th","1862-02-19_0_0_0_0_0_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0.xml"
+"persName","","","officer","quarter master","1862-02-19","Wednesday 19th","1862-02-19_0_0_0_0_0_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0.xml"
+"persName","","","person","grey headed darky","1862-02-19","Wednesday 19th","1862-02-19_0_0_0_0_0_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0.xml"
+"persName","Thomas Bobst","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper074","","Bobst","1862-02-19","Wednesday 19th","1862-02-19_0_0_0_0_0_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0.xml"
+"persName","","","","Shorkley","1862-02-19","Wednesday 19th","1862-02-19_0_0_0_0_0_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0.xml"
+"persName","","","friend","Shorkley","1862-02-19","Wednesday 19th","1862-02-19_0_0_0_0_0_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0.xml"
+"persName","George Shorkley","https://raw.githubusercontent.com/BucknellDSC/jmlinn/refs/heads/main/jmlinn_personography.xml#jmlper002","real","Shorkley","1862-02-19","Wednesday 19th","1862-02-19_0_0_0_0_0_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0.xml"
+"persName","","","","Captain","1862-02-19","Wednesday 19th","1862-02-19_0_0_0_0_0_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0.xml"
