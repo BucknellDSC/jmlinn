@@ -139,7 +139,7 @@
                <persName>Charles Drainer</persName>
             </person>
             <person xml:id="jmlper055">
-               <persName>John Foster</persName>
+               <persName>Gen. John Foster</persName>
             </person>
             <person xml:id="jmlper029">
                <persName>Em French</persName>
@@ -160,7 +160,7 @@
                <persName>G. H. Hassenplug</persName>
             </person>
             <person xml:id="jmlper026">
-               <persName>Edward Hatch</persName>
+               <persName>Gen. Edward Hatch</persName>
                <occupation>soldier</occupation>
                <affiliation>Union Army</affiliation>
                <ref target="https://www.wikidata.org/wiki/Q5343364"/>
@@ -177,7 +177,7 @@
                <persName>Fred Herman</persName>
             </person>
             <person xml:id="jmlper069">
-               <persName>Samuel P. Heintzelman</persName>
+               <persName>Maj. Gen. Samuel P. Heintzelman</persName>
                <occupation>soldier</occupation>
                <affiliation>Union Army</affiliation>
                <ref target="https://www.wikidata.org/wiki/Q1594218"/>
@@ -194,13 +194,13 @@
                <persName>Seth Housel</persName>
             </person>
             <person xml:id="jmlper011">
-               <persName>Albert Sidney Johnson</persName>
+               <persName>Gen. Albert Sidney Johnson</persName>
                <ref type="https://www.wikidata.org/wiki/Q361140"/>
                <occupation>soldier</occupation>
                <affiliation>Confederate Army</affiliation>
             </person>
             <person xml:id="jmlper045">
-               <persName>James A. Kelley</persName>
+               <persName>Private James A. Kelley</persName>
             </person>
             <person xml:id="jmlper087">
                <persName>Charles Kleckner</persName>
@@ -223,7 +223,7 @@
                <persName>Annie Catherine Linn</persName>
             </person>
             <person xml:id="jmlper001">
-               <persName type="standard">James Merrill Linn</persName>
+               <persName type="standard">Capt. James Merrill Linn</persName>
                <occupation>lawyer</occupation>
                <occupation>soldier</occupation>
                <affiliation>Pennsylvania 51st, Co. H</affiliation>
@@ -246,7 +246,7 @@
                <persName>Samuel Markley</persName>
             </person>
             <person xml:id="jmlper036">
-               <persName>George McClellan</persName>
+               <persName>Gen. George McClellan</persName>
                <occupation>soldier</occupation>
                <ref target="https://www.wikidata.org/wiki/Q310192"/>
             </person>
@@ -270,10 +270,10 @@
                <persName>Joseph Antoine Viguier De Monteil</persName>
             </person>
             <person xml:id="jmlper057">
-               <persName>John Morris</persName>
+               <persName>Lt. John Morris</persName>
             </person>
             <person xml:id="jmlper049">
-               <persName>Jeremiah Morse</persName>
+               <persName>Jeremiah W. Morse</persName>
             </person>
             <person xml:id="jmlper089">
                <persName>Capt. Neal</persName>
@@ -285,7 +285,7 @@
                <persName>Thomas O'Mara</persName>
             </person>
             <person xml:id="jmlper058">
-               <persName>John Parke</persName>
+               <persName>Maj. Gen. John Parke</persName>
                <occupation>soldier</occupation>
                <affiliation>Union Army</affiliation>
                <ref target="https://www.wikidata.org/wiki/Q4345359"/>
@@ -299,7 +299,7 @@
                <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
             <person xml:id="jmlper032">
-               <persName>Frank Porter</persName>
+               <persName>Maj. Gen. Frank Porter</persName>
             </person>
             <person xml:id="jmlper097">
                <persName>Lt. Col. Robert B. Potter</persName>
@@ -311,13 +311,10 @@
                <persName>Alice Price</persName>
             </person>
             <person xml:id="jmlper068">
-               <persName>Robert Ransom</persName>
+               <persName>Maj. Gen. Robert Ransom</persName>
                <occupation>soldier</occupation>
                <affiliation>Confederate Army</affiliation>
                <ref target="https://www.wikidata.org/wiki/Q3938402"/>
-            </person>
-            <person xml:id="jmlper102">
-               <persName>Frank Reno</persName>
             </person>
             <person xml:id="jmlper086">
                <persName>Gen. Jesse Reno</persName>
@@ -352,7 +349,7 @@
                <persName>Michael Shires</persName>
             </person>
             <person xml:id="jmlper002">
-               <persName type="standard">George Shorkley</persName>
+               <persName type="standard">Capt. George Shorkley</persName>
                <occupation>soldier</occupation>
                <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
@@ -362,12 +359,12 @@
                <affiliation>Pennsylvania 51st, Co. H</affiliation>
             </person>
             <person xml:id="jmlper027">
-               <persName>Edward Stanly</persName>
+               <persName>Gov. Edward Stanly</persName>
                <occupation>politician</occupation>
                <ref target="https://www.wikidata.org/wiki/Q1293755"/>
             </person>
             <person xml:id="jmlper044">
-               <persName>Jacob Sweitzer</persName>
+               <persName>Col. Jacob Sweitzer</persName>
             </person>
             <person xml:id="jmlper065">
                <persName>Matthew Vandine</persName>
@@ -396,37 +393,37 @@
                <ref target="https://www.wikidata.org/wiki/Q878516"/>
             </person>
             <person xml:id="jmlper099">
-               <persName>Major (Josiah?) Wood</persName>
+               <persName>Maj. Josiah Wood</persName>
             </person>
             <person xml:id="jmlper054">
-               <persName>John E. Wool</persName>
+               <persName>Gen. John E. Wool</persName>
                <occupation>soldier</occupation>
                <affiliation>Union Army</affiliation>
                <ref target="https://www.wikidata.org/wiki/Q3181406"/>
             </person>
             <person xml:id="jmlper080">
-               <persName>W.H. Worthington</persName>
+               <persName>Lt. W.H. Worthington</persName>
             </person>
             <person xml:id="jmlper104">
                <persName>Capt. Picot</persName>
             </person>
             <person xml:id="jmlper105">
-               <persName>Lt. Seldon</persName>
+               <persName>Lt. Selden</persName>
             </person>
             <person xml:id="jmlper106">
-               <persName>Capt. Bolton</persName>
+               <persName>Capt. David Bolton</persName>
             </person>
             <person xml:id="jmlper107">
                <persName>Capt. Snyder</persName>
             </person>
             <person xml:id="jmlper108">
-               <persName>Buskin</persName>
+               <persName>Jacob Buskin</persName>
             </person>
             <person xml:id="jmlper109">
                <persName>Capt. Ritchie</persName>
             </person>
             <person xml:id="jmlper110">
-               <persName>Dr. Hassack</persName>
+               <persName>Dr. Hossack</persName>
             </person>
             <person xml:id="jmlper111">
                <persName>Rodumel</persName>
@@ -435,7 +432,7 @@
                <persName>Dr. Church</persName>
             </person>
             <person xml:id="jmlper113">
-               <persName>Sergt. Etwine</persName>
+               <persName>Srgt. Jaccob Etwine</persName>
             </person>
             <person xml:id="jmlper114">
                <persName>Cuffy</persName>
@@ -450,7 +447,7 @@
                <persName>Charles Stewart</persName>
             </person>
             <person xml:id="jmlper118">
-               <persName>Walter</persName>
+               <persName>Col. Walter Smith</persName>
             </person>
             <person xml:id="jmlper119">
                <persName>Capt. McRae</persName>
@@ -480,7 +477,7 @@
                <persName>Capt. Perkin</persName>
             </person>
             <person xml:id="jmlper128">
-               <persName>Moseby</persName>
+               <persName>Col. John S. Moseby</persName>
             </person>
             <person xml:id="jmlper129">
                <persName>Connolly</persName>
@@ -522,7 +519,7 @@
                <persName>Warner</persName>
             </person>
             <person xml:id="jmlper142">
-               <persName>Oliver Otis Howard</persName>
+               <persName>Col. Oliver Otis Howard</persName>
             </person>
             <person xml:id="jmlper143">
                <persName>Nye</persName>
@@ -531,7 +528,7 @@
                <persName>Gregg</persName>
             </person>
             <person xml:id="jmlper145">
-               <persName>Quartermaster Hall</persName>
+               <persName>Maj. Hall</persName>
             </person>
             <person xml:id="jmlper146">
                <persName>John Hartz</persName>
@@ -549,7 +546,7 @@
                <persName>Charles Kline</persName>
             </person>
             <person xml:id="jmlper151">
-               <persName>Lt. Lanig</persName>
+               <persName>Lt. John Lanig</persName>
             </person>
             <person xml:id="jmlper152">
                <persName>Stitzer</persName>
@@ -591,7 +588,7 @@
                <persName>Col. Kurtz</persName>
             </person>
             <person xml:id="jmlper165">
-               <persName>Capt. Biggs</persName>
+               <persName>Capt. William Biggs</persName>
             </person>
             <person xml:id="jmlper166">
                <persName>Sgt. Grassmine</persName>
@@ -603,7 +600,7 @@
                <persName>Col. Martin</persName>
             </person>
             <person xml:id="jmlper169">
-               <persName>Col. Ferrero</persName>
+               <persName>Col. Edward Ferrero</persName>
             </person>
             <person xml:id="jmlper170">
                <persName>Edward Mauran</persName>
@@ -623,20 +620,20 @@
             <person xml:id="jmlper175">
                <persName>Col. George Schall</persName>
             </person>
-           <person xml:id="jmlper176">
-              <persName>John Miller</persName>
-           </person>
+            <person xml:id="jmlper176">
+               <persName>John Miller</persName>
+            </person>
             <person xml:id="jmlper177">
                <persName>John Hummel</persName>
             </person>
             <person xml:id="jmlper178">
-               <persName>Charley Shriner</persName>
+               <persName>Charles Shriner</persName>
             </person>
             <person xml:id="jmlper179">
                <persName>Capt. William H. Blair</persName>
             </person>
             <person xml:id="jmlper180">
-               <persName>Peter Schmidt</persName>
+               <persName>Lt. Peter Schmidt</persName>
             </person>
             <person xml:id="jmlper181">
                <persName>David Clark</persName>
@@ -654,10 +651,10 @@
                <persName>Capt. Willard</persName>
             </person>
             <person xml:id="jmlper186">
-               <persName>Lt. Merriam</persName>
+               <persName>Lt. John C. Merriam</persName>
             </person>
             <person xml:id="jmlper187">
-               <persName>Mr. Welsh</persName>
+               <persName>Capt. F.W. Welsh</persName>
             </person>
             <person xml:id="jmlper188">
                <persName>Capt. Griffin</persName>
@@ -669,7 +666,7 @@
                <persName>Capt. Gilmore</persName>
             </person>
             <person xml:id="jmlper191">
-               <persName>Major Cantel</persName>
+               <persName>Maj. Cantel</persName>
             </person>
             <person xml:id="jmlper192">
                <persName>Capt. Flowers</persName>
@@ -678,7 +675,7 @@
                <persName>Jewett S. Harding</persName>
             </person>
             <person xml:id="jmlper194">
-               <persName>Benziger</persName>
+               <persName>Dr. Daniel Benziger</persName>
             </person>
             <person xml:id="jmlper195">
                <persName>Albion S. Knode</persName>
@@ -697,6 +694,240 @@
             </person>
             <person xml:id="jmlper200">
                <persName>Col. Emory</persName>
+            </person>
+            <person xml:id="jmlper201">
+               <persName>Capt. Cook</persName>
+            </person>
+            <person xml:id="jmlper202">
+               <persName>Cumberland</persName>
+            </person>
+            <person xml:id="jmlper203">
+               <persName>Mrs. D'Epineuil</persName>
+            </person>
+            <person xml:id="jmlper204">
+               <persName>Baron Egglestein</persName>
+            </person>
+            <person xml:id="jmlper205">
+               <persName>Dr Elder</persName>
+            </person>
+            <person xml:id="jmlper206">
+               <persName>Mr. Glott</persName>
+            </person>
+            <person xml:id="jmlper207">
+               <persName>Goodridge</persName>
+            </person>
+            <person xml:id="jmlper208">
+               <persName>Grossonfer</persName>
+            </person>
+            <person xml:id="jmlper209">
+               <persName>Capt. Hayes</persName>
+            </person>
+            <person xml:id="jmlper210">
+               <persName>Em Hayes</persName>
+            </person>
+            <person xml:id="jmlper211">
+               <persName>Hogan</persName>
+            </person>
+            <person xml:id="jmlper212">
+               <persName>Hunter</persName>
+            </person>
+            <person xml:id="jmlper213">
+               <persName>May Husburgh</persName>
+            </person>
+            <person xml:id="jmlper214">
+               <persName>Ives</persName>
+            </person>
+            <person xml:id="jmlper215">
+               <persName>Dr. Jackson</persName>
+            </person>
+            <person xml:id="jmlper216">
+               <persName>Jones</persName>
+            </person>
+            <person xml:id="jmlper217">
+               <persName>Judge Jones</persName>
+            </person>
+            <person xml:id="jmlper218">
+               <persName>Col. Kenly</persName>
+            </person>
+            <person xml:id="jmlper219">
+               <persName>John Kennedy</persName>
+            </person>
+            <person xml:id="jmlper220">
+               <persName>Kenney</persName>
+            </person>
+            <person xml:id="jmlper221">
+               <persName>Lidd</persName>
+            </person>
+            <person xml:id="jmlper222">
+               <persName>Lineweaver</persName>
+            </person>
+            <person xml:id="jmlper223">
+               <persName>Gov. Lyon</persName>
+            </person>
+            <person xml:id="jmlper224">
+               <persName>Lord Lyons</persName>
+            </person>
+            <person xml:id="jmlper225">
+               <persName>Mackenzie</persName>
+            </person>
+            <person xml:id="jmlper226">
+               <persName>McDonald</persName>
+            </person>
+            <person xml:id="jmlper227">
+               <persName>Charles McGregor</persName>
+            </person>
+            <person xml:id="jmlper228">
+               <persName>Mr. Monroe</persName>
+            </person>
+            <person xml:id="jmlper229">
+               <persName>Mrs. Monroe</persName>
+            </person>
+            <person xml:id="jmlper230">
+               <persName>Maj. Morill</persName>
+            </person>
+            <person xml:id="jmlper231">
+               <persName>Capt. Neal</persName>
+            </person>
+            <person xml:id="jmlper232">
+               <persName>James Niley</persName>
+            </person>
+            <person xml:id="jmlper233">
+               <persName>George Peabody</persName>
+            </person>
+            <person xml:id="jmlper234">
+               <persName>Plummer</persName>
+            </person>
+            <person xml:id="jmlper235">
+               <persName>Potts</persName>
+            </person>
+            <person xml:id="jmlper236">
+               <persName>Prawe</persName>
+            </person>
+            <person xml:id="jmlper237">
+               <persName>Daniel Pulaney</persName>
+            </person>
+            <person xml:id="jmlper238">
+               <persName>Lt. Reed</persName>
+            </person>
+            <person xml:id="jmlper239">
+               <persName>Reeder</persName>
+            </person>
+            <person xml:id="jmlper240">
+               <persName>Capt. Renaut</persName>
+            </person>
+            <person xml:id="jmlper241">
+               <persName>Rengler</persName>
+            </person>
+            <person xml:id="jmlper242">
+               <persName>Ripley</persName>
+            </person>
+            <person xml:id="jmlper243">
+               <persName>Col. Satterlie</persName>
+            </person>
+            <person xml:id="jmlper244">
+               <persName>George Schaffer</persName>
+            </person>
+            <person xml:id="jmlper245">
+               <persName>Mr. Schell</persName>
+            </person>
+            <person xml:id="jmlper246">
+               <persName>Dr. Peter Seldon</persName>
+            </person>
+            <person xml:id="jmlper247">
+               <persName>Capt. Henry Shawl</persName>
+            </person>
+            <person xml:id="jmlper248">
+               <persName>Capt. Simms</persName>
+            </person>
+            <person xml:id="jmlper249">
+               <persName>John Smith</persName>
+            </person>
+            <person xml:id="jmlper250">
+               <persName>Spaight</persName>
+            </person>
+            <person xml:id="jmlper251">
+               <persName>Jack Stanley</persName>
+            </person>
+            <person xml:id="jmlper252">
+               <persName>Stenner</persName>
+            </person>
+            <person xml:id="jmlper253">
+               <persName>Stetson</persName>
+            </person>
+            <person xml:id="jmlper254">
+               <persName>Benjamin Tasker</persName>
+            </person>
+            <person xml:id="jmlper255">
+               <persName>Capt. Thoms</persName>
+            </person>
+            <person xml:id="jmlper256">
+               <persName>Matthew Tilghman</persName>
+            </person>
+            <person xml:id="jmlper257">
+               <persName>Col. Upton</persName>
+            </person>
+            <person xml:id="jmlper258">
+               <persName>Maj. Anderson</persName>
+            </person>
+            <person xml:id="jmlper259">
+               <persName>Lt. Applegat</persName>
+            </person>
+            <person xml:id="jmlper260">
+               <persName>Joseph Arnold</persName>
+            </person>
+            <person xml:id="jmlper261">
+               <persName>Gen. Nathanial Baily</persName>
+            </person>
+            <person xml:id="jmlper262">
+               <persName>Isaac Beauregard</persName>
+            </person>
+            <person xml:id="jmlper263">
+               <persName>Col. Thomas</persName>
+            </person>
+            <person xml:id="jmlper264">
+               <persName>Capt. William H. Beck</persName>
+            </person>
+            <person xml:id="jmlper265">
+               <persName>Thomas Blair Bladen</persName>
+            </person>
+            <person xml:id="jmlper266">
+               <persName>Miss Bulger</persName>
+            </person>
+            <person xml:id="jmlper267">
+               <persName>William Butcher Burton</persName>
+            </person>
+            <person xml:id="jmlper268">
+               <persName>Rebecca</persName>
+            </person>
+            <person xml:id="jmlper269">
+               <persName>Louisa</persName>
+            </person>
+            <person xml:id="jmlper270">
+               <persName>Aunt Margery</persName>
+            </person>
+            <person xml:id="jmlper271">
+               <persName>Yerkes</persName>
+            </person>
+            <person xml:id="jmlper272">
+               <persName>Wright</persName>
+            </person>
+            <person xml:id="jmlper273">
+               <persName>Wilter</persName>
+            </person>
+            <person xml:id="jmlper274">
+               <persName>Samuel Wilson</persName>
+            </person>
+            <person xml:id="jmlper275">
+               <persName>Margaret Carroll</persName>
+            </person>
+            <person xml:id="jmlper276">
+               <persName>Thomas Carroll</persName>
+            </person>
+            <person xml:id="jmlper277">
+               <persName>Claude</persName>
+            </person>
+            <person xml:id="jmlper278">
+               <persName>Cleat</persName>
             </person>
          </listPerson>
       </body>
