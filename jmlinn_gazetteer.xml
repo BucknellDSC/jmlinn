@@ -893,6 +893,9 @@
             <place xml:id="linnpl133">
                <placeName>Shirleysburg, PA</placeName>
             </place>
+            <place xml:id="linnpl134">
+               <placeName>Camp Franklin</placeName>
+            </place>
 
          </listPlace>
       </body>
