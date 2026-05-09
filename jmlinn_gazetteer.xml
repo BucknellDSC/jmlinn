@@ -896,7 +896,24 @@
             <place xml:id="linnpl134">
                <placeName>Camp Franklin</placeName>
             </place>
-
+            <place xml:id="linnpl135">
+               <placeName>Pittsburgh, PA</placeName>
+            </place>
+            <place xml:id="linnpl136">
+               <placeName>Cincinnati, OH</placeName>
+            </place>
+            <place xml:id="linnpl137">
+               <placeName>Louisville, KY</placeName>
+            </place>
+            <place xml:id="linnpl138">
+               <placeName>Parkersburg, WV</placeName>
+            </place>
+            <place xml:id="linnpl139">
+               <placeName>Biennerhasset Island, WV</placeName>
+            </place>
+            <place xml:id="linnpl140">
+               <placeName>West Branch,Susquehanna River</placeName>
+            </place>
          </listPlace>
       </body>
    </text>
