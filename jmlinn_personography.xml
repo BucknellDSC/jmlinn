@@ -938,6 +938,21 @@
             <person xml:id="jmlper281">
                <persName>Gen. Henry Thomas</persName>
             </person>
+            <person xml:id="jmlper282">
+               <persName>Comm. Joseph E. Johnston</persName>
+            </person>
+            <person xml:id="jmlper283">
+               <persName>Gen. Robert E. Lee</persName>
+            </person>
+            <person xml:id="jmlper284">
+               <persName>Thompson Linn</persName>
+            </person>
+            <person xml:id="jmlper285">
+               <persName>Josiah Kelly</persName>
+            </person>
+            <person xml:id="jmlper286">
+               <persName>Jovin</persName>
+            </person>
          </listPerson>
       </body>
    </text>

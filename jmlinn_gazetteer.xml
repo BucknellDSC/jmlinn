@@ -914,6 +914,9 @@
             <place xml:id="linnpl140">
                <placeName>West Branch,Susquehanna River</placeName>
             </place>
+            <place xml:id="linnpl141">
+               <placeName>Shiloh, TN</placeName>
+            </place>
          </listPlace>
       </body>
    </text>
