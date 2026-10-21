@@ -967,6 +967,39 @@
             <place xml:id="linnpl158">
                <placeName>Somerset, TN</placeName>
             </place>
+            <place xml:id="linnpl159">
+               <placeName>Insane Asylum, Vicksburg</placeName>
+            </place>
+            <place xml:id="linnpl160">
+               <placeName>Belmont Ft. Henry</placeName>
+            </place>
+            <place xml:id="linnpl161">
+               <placeName>Camp Dick Robinson</placeName>
+            </place>
+            <place xml:id="linnpl162">
+               <placeName>Dick's Creek</placeName>
+            </place>
+            <place xml:id="linnpl163">
+               <placeName>Hickman bridge</placeName>
+            </place>
+            <place xml:id="linnpl164">
+               <placeName>Morris Depot</placeName>
+            </place>
+            <place xml:id="linnpl165">
+               <placeName>Snyder's Bluff</placeName>
+            </place>
+            <place xml:id="linnpl166">
+               <placeName>Somerset, TN</placeName>
+            </place>
+            <place xml:id="linnpl167">
+               <placeName>Vicksburg State House</placeName>
+            </place>
+            <place xml:id="linnpl168">
+               <placeName>Benjamin's Battery</placeName>
+            </place>
+            <place xml:id="linnpl169">
+               <placeName>Durell‘s Battery</placeName>
+            </place>
          </listPlace>
       </body>
    </text>

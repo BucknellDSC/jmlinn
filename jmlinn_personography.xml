@@ -1049,6 +1049,9 @@
             <person xml:id="jmlper318">
                <persName>Mr. Wingarch</persName>
             </person>
+            <person xml:id="jmlper319">
+               <persName>Clapham</persName>
+            </person>
          </listPerson>
       </body>
    </text>
