@@ -40,7 +40,8 @@
             </place>
             <place xml:id="linnpl002">
                <placeName ref="https://www.wikidata.org/wiki/Q28271">Annapolis, MD </placeName>
-               <label>City in and county seat of Anne Arundel County, Maryland, United States</label>
+               <label>City in and county seat of Anne Arundel County, Maryland, United
+                  States</label>
                <location>
                   <geo>38.9784 -76.4922</geo>
                </location>
@@ -780,14 +781,12 @@
                   <geo>37.2388 -76.5097</geo>
                </ref>
             </place>
- 
             <place xml:id="linnpl099">
                <placeName>Pottsville</placeName>
             </place>
             <place xml:id="linnpl100">
                <placeName>James River</placeName>
             </place>
-            
             <place xml:id="linnpl102">
                <placeName>Florida</placeName>
             </place>
@@ -916,6 +915,57 @@
             </place>
             <place xml:id="linnpl141">
                <placeName>Shiloh, TN</placeName>
+            </place>
+            <place xml:id="linnpl142">
+               <placeName>Belmont ft henry</placeName>
+            </place>
+            <place xml:id="linnpl143">
+               <placeName> Benjamin's Battery</placeName>
+            </place>
+            <place xml:id="linnpl144">
+               <placeName>Camp dick robinson</placeName>
+            </place>
+            <place xml:id="linnpl145">
+               <placeName>Clapham</placeName>
+            </place>
+            <place xml:id="linnpl146">
+               <placeName>Crab orchard</placeName>
+            </place>
+            <place xml:id="linnpl147">
+               <placeName>E tennessee</placeName>
+            </place>
+            <place xml:id="linnpl148">
+               <placeName>Helena (Mississippi?)</placeName>
+            </place>
+            <place xml:id="linnpl149">
+               <placeName>Hickman bridge</placeName>
+            </place>
+            <place xml:id="linnpl150">
+               <placeName>Island no 10</placeName>
+            </place>
+            <place xml:id="linnpl151">
+               <placeName>Lancaster, KY </placeName>
+            </place>
+            <place xml:id="linnpl152">
+               <placeName>Morris depot</placeName>
+            </place>
+            <place xml:id="linnpl153">
+               <placeName>Mr gebharts farm</placeName>
+            </place>
+            <place xml:id="linnpl154">
+               <placeName>Mr. cameron’s wood</placeName>
+            </place>
+            <place xml:id="linnpl155">
+               <placeName>Buffalo Valley</placeName>
+            </place>
+            <place xml:id="linnpl156">
+               <placeName>Stanford Road</placeName>
+            </place>
+            <place xml:id="linnpl157">
+               <placeName>Lancaster</placeName>
+            </place>
+            <place xml:id="linnpl158">
+               <placeName>Somerset</placeName>
             </place>
          </listPlace>
       </body>
