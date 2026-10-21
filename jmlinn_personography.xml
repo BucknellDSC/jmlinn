@@ -1037,6 +1037,18 @@
             <person xml:id="jmlper314">
                <persName>Sibley</persName>
             </person>
+            <person xml:id="jmlper315">
+               <persName>Dr. Treichler</persName>
+            </person>
+            <person xml:id="jmlper316">
+               <persName>Gen. Wilcox</persName>
+            </person>
+            <person xml:id="jmlper317">
+               <persName>James Strawbridge</persName>
+            </person>
+            <person xml:id="jmlper318">
+               <persName>Mr. Wingarch</persName>
+            </person>
          </listPerson>
       </body>
    </text>

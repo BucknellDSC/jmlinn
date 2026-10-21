@@ -929,10 +929,10 @@
                <placeName>Clapham</placeName>
             </place>
             <place xml:id="linnpl146">
-               <placeName>Crab orchard</placeName>
+               <placeName>Crab Orchard, TN</placeName>
             </place>
             <place xml:id="linnpl147">
-               <placeName>E tennessee</placeName>
+               <placeName>E Tennessee</placeName>
             </place>
             <place xml:id="linnpl148">
                <placeName>Helena (Mississippi?)</placeName>
@@ -944,16 +944,19 @@
                <placeName>Island no 10</placeName>
             </place>
             <place xml:id="linnpl151">
-               <placeName>Lancaster, KY </placeName>
+               <placeName>Lancaster, TN </placeName>
             </place>
             <place xml:id="linnpl152">
                <placeName>Morris depot</placeName>
             </place>
             <place xml:id="linnpl153">
-               <placeName>Mr gebharts farm</placeName>
+               <placeName>Gebhart's Farm</placeName>
+               <ref>
+                  <geo>40.96284, -76.98610</geo>
+               </ref>
             </place>
             <place xml:id="linnpl154">
-               <placeName>Mr. cameron’s wood</placeName>
+               <placeName>Mr. (William) Cameron’s wood</placeName>
             </place>
             <place xml:id="linnpl155">
                <placeName>Buffalo Valley</placeName>
@@ -961,11 +964,8 @@
             <place xml:id="linnpl156">
                <placeName>Stanford Road</placeName>
             </place>
-            <place xml:id="linnpl157">
-               <placeName>Lancaster</placeName>
-            </place>
             <place xml:id="linnpl158">
-               <placeName>Somerset</placeName>
+               <placeName>Somerset, TN</placeName>
             </place>
          </listPlace>
       </body>
