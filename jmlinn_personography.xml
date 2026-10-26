@@ -1052,6 +1052,24 @@
             <person xml:id="jmlper319">
                <persName>Clapham</persName>
             </person>
+            <person xml:id="jmlper320">
+               <persName>William Auerbach</persName>
+            </person>
+            <person xml:id="jmlper321">
+               <persName>Quartermaster Freedley</persName>
+            </person>
+            <person xml:id="jmlper322">
+               <persName>Durrell</persName>
+            </person>
+            <person xml:id="jmlper323">
+               <persName>Zeller</persName>
+            </person>
+            <person xml:id="jmlper324">
+               <persName>Gen. Lauman</persName>
+            </person>
+            <person xml:id="jmlper325">
+               <persName>McCall</persName>
+            </person>
          </listPerson>
       </body>
    </text>
